@@ -1,0 +1,32 @@
+{
+ "note": "字段口径与上游 tools/sync-stats.mjs 一致。空值表示上游该条缺对应内容。",
+ "fields": {
+  "id": "节号-条号，如 23-1",
+  "seq": "全书顺序号，1 起",
+  "section": "节号",
+  "section_title": "节标题",
+  "no": "节内条号",
+  "title": "条目标题",
+  "cost_money": "花钱：0 / 少 / 多",
+  "cost_time": "花时间：少 / 中 / 多",
+  "cost_willpower": "要毅力：否 / 些 / 是",
+  "benefit_level": "收益档：小 / 中 / 大",
+  "metric": "口径：死亡率 / 金钱 / 时间 / 自由",
+  "cost_score": "成本加权分 0-6，权重抄自上游 COST_W",
+  "ratio": "性价比：极高 / 高 / 一般，算法抄自上游 e.ratio",
+  "evidence": "证据等级首字母 A/B/C",
+  "evidence_raw": "证据等级原文，可能带（争议）等后缀",
+  "evidence_flags": "证据等级括号内的标记，如 ['争议']",
+  "disputed": "备注是否以「争议」开头（上游口径）",
+  "todo": "正文是否含「待核实」或 TODO",
+  "link_count": "来源+备注行里的 http(s) 数",
+  "plain": "说人话",
+  "cost_text": "成本",
+  "benefit_text": "收益",
+  "source_text": "来源原文",
+  "sources": "来源里的 URL 列表",
+  "note": "备注",
+  "refs": "交叉引用到的 [节号, 条号]",
+  "source_file": "出处文件"
+ }
+}

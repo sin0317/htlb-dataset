@@ -1,0 +1,39 @@
+name: sync-upstream
+
+on:
+  schedule:
+    - cron: '17 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 拉取上游正文
+        run: git clone --depth 1 https://github.com/eternity4719/HowToLiveBetter.git _upstream
+
+      - name: 解析并写出 data/
+        run: python build.py --repo _upstream
+
+      - name: 有变化则提交
+        run: |
+          set -e
+          SHORT=$(git -C _upstream rev-parse --short HEAD)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --quiet --cached; then
+            echo "正文无变化，不提交"
+          else
+            git commit -m "chore: 同步上游 $SHORT"
+            git push
+          fi
