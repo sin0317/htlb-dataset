@@ -2,28 +2,28 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "0cec2b3d0c18bd14cdc14f12ddcc80bf0d4f5053",
-  "synced_at": "2026-10-08T09:57:43Z",
+  "upstream_commit": "2ad14690851994a0e1f45d6dc9b5a9d6aa1579a9",
+  "synced_at": "2026-10-09T02:07:25Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
  "stats": {
-  "entries": 672,
+  "entries": 675,
   "sections": 34,
   "grade": {
    "A": 438,
-   "B": 179,
+   "B": 182,
    "C": 55
   },
-  "disputed": 70,
+  "disputed": 71,
   "evidence_flagged": 5,
   "todo": 3,
-  "links": 1690,
-  "refs": 343,
+  "links": 1713,
+  "refs": 351,
   "ratio": {
    "极高": 114,
-   "高": 304,
-   "一般": 254
+   "高": 303,
+   "一般": 258
   },
   "per_section": [
    {
@@ -40,13 +40,13 @@
    {
     "no": 2,
     "title": "不要慢慢死",
-    "entries": 43,
+    "entries": 44,
     "A": 32,
-    "B": 11,
+    "B": 12,
     "C": 0,
     "极高": 1,
     "高": 23,
-    "一般": 19
+    "一般": 20
    },
    {
     "no": 3,
@@ -111,8 +111,8 @@
     "B": 11,
     "C": 1,
     "极高": 12,
-    "高": 21,
-    "一般": 13
+    "高": 20,
+    "一般": 14
    },
    {
     "no": 9,
@@ -205,13 +205,13 @@
    {
     "no": 17,
     "title": "家里有老人",
-    "entries": 9,
+    "entries": 10,
     "A": 4,
-    "B": 3,
+    "B": 4,
     "C": 2,
     "极高": 0,
     "高": 7,
-    "一般": 2
+    "一般": 3
    },
    {
     "no": 18,
@@ -315,13 +315,13 @@
    {
     "no": 27,
     "title": "怀孕和生产：从发现怀孕到出院办证",
-    "entries": 16,
+    "entries": 17,
     "A": 15,
-    "B": 1,
+    "B": 2,
     "C": 0,
     "极高": 3,
     "高": 5,
-    "一般": 8
+    "一般": 9
    },
    {
     "no": 28,
