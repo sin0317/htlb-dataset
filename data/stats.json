@@ -2,28 +2,28 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "2ad14690851994a0e1f45d6dc9b5a9d6aa1579a9",
-  "synced_at": "2026-10-09T02:07:25Z",
+  "upstream_commit": "bb25081b423091f9e22059aab6b4ed7343a2266d",
+  "synced_at": "2026-10-10T01:45:01Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
  "stats": {
-  "entries": 675,
+  "entries": 676,
   "sections": 34,
   "grade": {
-   "A": 438,
+   "A": 439,
    "B": 182,
    "C": 55
   },
-  "disputed": 71,
+  "disputed": 72,
   "evidence_flagged": 5,
   "todo": 3,
-  "links": 1713,
-  "refs": 351,
+  "links": 1719,
+  "refs": 353,
   "ratio": {
    "极高": 114,
    "高": 303,
-   "一般": 258
+   "一般": 259
   },
   "per_section": [
    {
@@ -84,13 +84,13 @@
    {
     "no": 6,
     "title": "反面清单",
-    "entries": 30,
-    "A": 16,
+    "entries": 31,
+    "A": 17,
     "B": 11,
     "C": 3,
     "极高": 3,
     "高": 15,
-    "一般": 12
+    "一般": 13
    },
    {
     "no": 7,
