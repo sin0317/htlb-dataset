@@ -2,8 +2,8 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "33362aff50f97f413b22ddfcdb355d2a536a5700",
-  "synced_at": "2026-10-11T00:59:42Z",
+  "upstream_commit": "e4d6db454739a11474b2b0f3c9f5b24c5e70aca7",
+  "synced_at": "2026-10-12T01:18:59Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
@@ -3717,8 +3717,8 @@
    "disputed": false,
    "todo": false,
    "cost_text": "不花钱。当场要忍住不回嘴，转身走开，事后再决定要不要处理。这需要一点练习。",
-   "plain": "换个角度解释刚发生的事，或者站到对方立场想一下，都能实打实把情绪降下来，后一种更管用。硬压着不表现出来没有效果。另外，惩罚了冒犯者的人，事后反而更久地反复想这件事；不报复的人翻篇更快。报复带来的痛快，人们事先高估了。",
-   "benefit_text": "把 306 组实验比较合起来算（荟萃分析）：换个角度解释发生的事（认知重评）对情绪的效果大小 d = 0.36。站到对方立场看 d = 0.45。转移注意 d = 0.27。硬压住感受无效（d = -0.04）。另有三项实验显示：惩罚冒犯者的人，事后反而更久地反复想对方；不惩罚的人更快「翻篇」。人们事先高估了报复带来的痛快。",
+   "plain": "换个角度看刚发生的事，或者站到对方立场想一下，都能把情绪降下来，后一种更管用。只是不把情绪表现出来，也有一点效果；硬压住心里的感受、硬不去想那件事，都没用。惩罚了冒犯者的人，事后反而更久地反复想这件事，不报复的人翻篇更快。",
+   "benefit_text": "把 306 组实验比较合起来算（荟萃分析）：换个角度解释发生的事（认知重评）对情绪的效果大小 d = 0.36。站到对方立场看 d = 0.45。转移注意 d = 0.27。压住情绪的外在表现（不表现出来）有效，d = 0.32。硬压住感受无效（d = -0.04），硬不去想那件事也无效（d = -0.12）。这几个数是心里感受、外在表现和身体反应几类指标合起来算的，摘要里没有分开给。另有三项实验显示：惩罚冒犯者的人，事后反而更久地反复想对方；不惩罚的人更快「翻篇」。人们事先高估了报复带来的痛快。",
    "source_text": "Webb TL, Miles E, Sheeran P (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. Psychological Bulletin. <https://doi.org/10.1037/a0027600>；Carlsmith KM, Wilson TD, Gilbert DT (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology. <https://doi.org/10.1037/a0012165>",
    "sources": [
     "https://doi.org/10.1037/a0027600",
@@ -18268,7 +18268,7 @@
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 6,
-   "title": "把「读书还是打工」算成一道题：早挣的三年工资，对上往后几十年的年收入差",
+   "title": "把「读书还是打工」算成一道题：先去打工早挣的三年工资，对上接着读书换来的、往后几十年的年收入差",
    "cost_money": "0",
    "cost_time": "少",
    "cost_willpower": "否",
@@ -18282,7 +18282,7 @@
    "disputed": false,
    "todo": false,
    "cost_text": "不花钱。坐下来算一次，大概半小时。",
-   "plain": "把两种选择摊在纸上比。早工作挣到的是三年低门槛岗位的工资，只有这一次。继续读，换回的是往后每年多挣的那一截，还要乘以剩下的三四十年。中国城镇多读一年书，收入平均高 4.0%（1988 年）到 10.2%（2001 年）。数据老，只能看个大概。",
+   "plain": "先去打工，能早挣几年工资，但这笔钱只拿一次。接着读书，往后每年都比不读的多挣一些，要连着拿三四十年。所以要把这两笔钱放在一起比。中国城镇多读一年书，一年收入大约高 4.0% 到 10.2%，但这是 2001 年以前的数，只能看个大概。",
    "benefit_text": "这是对中国城镇 1988 至 2001 年的估计。多读一年书能让收入高出多少，这叫教育回报率。原文写的是「从 1988 年每受教育一年 4.0% 大幅上升到 2001 年的 10.2%」。涨幅主要发生在 1992 年之后。它反映的是念到大学的人比没念的多挣的那一截（高等教育工资溢价）在变大。这是把「多读一年」折成年收入差时可用的中国本土量级。全球平均值见本节第 7 条（多受一年教育的全球平均回报）",
    "source_text": "Zhang J, Zhao Y, Park A, Song X (2005). Economic returns to schooling in urban China, 1988 to 2001. Journal of Comparative Economics, 33(4), 730-752. <https://doi.org/10.1016/j.jce.2005.05.008>",
    "sources": [
