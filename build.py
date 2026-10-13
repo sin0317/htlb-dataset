@@ -55,7 +55,7 @@ FIELD_KEY = {
 
 RE_ITEM = re.compile(r"^###\s+(\d+)\.\s*(.+?)\s*$")
 RE_TAG = re.compile(
-    r"<!--\s*成本标签:\s*钱=(\S+)\s+时间=(\S+)\s+毅力=(\S+)\s+收益=(\S+)\s+口径=(\S+?)\s*-->"
+    r"<!--\s*成本标签:\s*钱=(\S+)\s+时间=(\S+)\s+毅力=(\S+)\s+收益=(\S+)\s+口径=(\S+?)(?:\s+\S+=\S+)*\s*-->"
 )
 RE_FIELD = re.compile(r"^-\s*(成本|说人话|收益|证据等级|来源|备注)\s*[：:]\s*(.*)$")
 RE_SEC_TITLE = re.compile(r"^#\s+(\d+)\.\s*(.+?)\s*$", re.M)
