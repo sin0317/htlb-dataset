@@ -2,28 +2,28 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "e4d6db454739a11474b2b0f3c9f5b24c5e70aca7",
-  "synced_at": "2026-10-12T01:18:59Z",
+  "upstream_commit": "cf90fd02a527d03f4bdd884c800d669f7d15b06f",
+  "synced_at": "2026-10-14T01:12:27Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
  "stats": {
-  "entries": 677,
+  "entries": 690,
   "sections": 34,
   "grade": {
-   "A": 441,
-   "B": 189,
+   "A": 450,
+   "B": 193,
    "C": 47
   },
-  "disputed": 72,
+  "disputed": 75,
   "evidence_flagged": 5,
   "todo": 3,
-  "links": 1773,
-  "refs": 361,
+  "links": 1828,
+  "refs": 375,
   "ratio": {
-   "极高": 114,
-   "高": 303,
-   "一般": 260
+   "极高": 117,
+   "高": 310,
+   "一般": 263
   },
   "per_section": [
    {
@@ -73,24 +73,24 @@
    {
     "no": 5,
     "title": "不要浪费钱",
-    "entries": 46,
-    "A": 25,
-    "B": 10,
+    "entries": 49,
+    "A": 27,
+    "B": 11,
     "C": 11,
     "极高": 6,
-    "高": 25,
+    "高": 28,
     "一般": 15
    },
    {
     "no": 6,
     "title": "反面清单",
-    "entries": 31,
+    "entries": 32,
     "A": 17,
-    "B": 11,
+    "B": 12,
     "C": 3,
     "极高": 3,
     "高": 15,
-    "一般": 13
+    "一般": 14
    },
    {
     "no": 7,
@@ -128,11 +128,11 @@
    {
     "no": 10,
     "title": "恋爱和结婚划不划算",
-    "entries": 20,
-    "A": 14,
+    "entries": 21,
+    "A": 15,
     "B": 5,
     "C": 1,
-    "极高": 1,
+    "极高": 2,
     "高": 4,
     "一般": 15
    },
@@ -183,13 +183,13 @@
    {
     "no": 15,
     "title": "租房与买房",
-    "entries": 9,
-    "A": 9,
+    "entries": 15,
+    "A": 15,
     "B": 0,
     "C": 0,
     "极高": 0,
-    "高": 8,
-    "一般": 1
+    "高": 12,
+    "一般": 3
    },
    {
     "no": 16,
@@ -271,11 +271,11 @@
    {
     "no": 23,
     "title": "学什么技能划算",
-    "entries": 23,
+    "entries": 25,
     "A": 17,
-    "B": 4,
+    "B": 6,
     "C": 2,
-    "极高": 4,
+    "极高": 6,
     "高": 9,
     "一般": 10
    },
