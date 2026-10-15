@@ -2,8 +2,8 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "cf90fd02a527d03f4bdd884c800d669f7d15b06f",
-  "synced_at": "2026-10-14T01:12:27Z",
+  "upstream_commit": "4540c90a23bb311ff146d2d653cafc23c1b0b01e",
+  "synced_at": "2026-10-15T00:30:59Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
@@ -338,8 +338,13 @@
     "https://doi.org/10.46234/ccdcw2025.106"
    ],
    "link_count": 2,
-   "note": "吃错了就立刻催吐，然后带上剩下的蘑菇或者拍的照片去医院。毒蘑菇中毒分好几种类型，认出是哪一种蘑菇直接决定医生怎么治。每年都有新种类被记录到能毒人，所以「本地人认得清」这个前提本身站不住。银针验毒、和大蒜同煮、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。",
-   "refs": [],
+   "note": "吃错了就立刻催吐，然后带上剩下的蘑菇或者拍的照片去医院。毒蘑菇中毒分好几种类型，认出是哪一种蘑菇直接决定医生怎么治。每年都有新种类被记录到能毒人，所以「本地人认得清」这个前提本身站不住。银针验毒、和大蒜同煮、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。泡发太久的木耳、银耳和放久的湿米粉是另一种毒，见第 48 条（泡发的木耳）。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 48
+    }
+   ],
    "source_file": "01-不要早死.md"
   },
   {
@@ -435,8 +440,13 @@
     "https://www.gov.cn/zhengce/zhengceku/202407/P020240703481519509521.pdf"
    ],
    "link_count": 2,
-   "note": "查出糖尿病前期不等于就要吃药。相当一部分人光靠改生活方式就能把它扭回去。中国成人里，知道自己有糖尿病的一直是少数，很多人是等到出了并发症才发现",
-   "refs": [],
+   "note": "查出糖尿病前期不等于就要吃药。相当一部分人光靠改生活方式就能把它扭回去。中国成人里，知道自己有糖尿病的一直是少数，很多人是等到出了并发症才发现。查出糖尿病前期以后怎么改、多久复查，见第 2 节第 45 条（查出糖尿病前期）。",
+   "refs": [
+    {
+     "section": 2,
+     "no": 45
+    }
+   ],
    "source_file": "01-不要早死.md"
   },
   {
@@ -445,7 +455,7 @@
    "section": 1,
    "section_title": "不要早死",
    "no": 9,
-   "title": "开车不超速、不酒驾",
+   "title": "开车不超速、不酒驾，不看手机，困了就停车歇",
    "cost_money": "0",
    "cost_time": "少",
    "cost_willpower": "些",
@@ -458,15 +468,19 @@
    "evidence_flags": [],
    "disputed": false,
    "todo": false,
-   "cost_text": "不花钱。开慢一点，一趟多花几分钟。难的地方是饭局上少喝。",
-   "plain": "平均车速每高 1%，撞死人的概率高约 4%。酒精没有「喝一点没事」的安全线。血里的酒精浓度还很低的时候，风险就已经开始往上走了。",
-   "benefit_text": "世界卫生组织（WHO）的说法：平均车速每升高 1%，出人命的事故风险升高 4%。酒驾的风险，从很低的血液酒精浓度起就开始上升",
-   "source_text": "WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>",
+   "cost_text": "不花钱。开慢一点，一趟多花几分钟。难的地方是饭局上少喝，消息来了忍住不看。开长途每 4 小时至少停下来歇 20 分钟。",
+   "plain": "平均车速每高 1%，撞死人的概率高约 4%。酒精没有「喝一点没事」的安全线。开车时摆弄手里的手机，出事的概率是专心开车的 3.6 倍，拨号时是 12.2 倍。困得别人都看得出来时，约 3.4 倍。",
+   "benefit_text": "世界卫生组织（WHO）的说法：平均车速每升高 1%，出人命的事故风险升高 4%。酒驾的风险，从很低的血液酒精浓度起就开始上升。WHO 还说，开车用手机的司机出事故的概率约是不用的 4 倍，用免提也安全不了多少。美国一项研究在 3500 多名司机的车里装了摄像头，拍下了 905 起伤人或撞坏车的事故。对照的是清醒、专心、没喝酒时的开车片段。手里摆弄手机的各种动作合起来，出事概率是 3.6 倍（OR 3.6）。拨号 12.2 倍，打字发消息 6.1 倍，伸手去拿手机 4.8 倍。刷手机 2.7 倍，手持通话 2.2 倍。录像里能看出明显犯困的，是 3.4 倍（OR 3.4）",
+   "source_text": "WHO (2025). Road traffic injuries fact sheet：「Drivers using mobile phones are approximately 4 times more likely to be involved in a crash than drivers not using a mobile phone.」「Hands-free phones are not much safer than hand-held phone sets.」<https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries> ; Dingus TA 等 (2016). Driver crash risk factors and prevalence evaluation using naturalistic driving data. PNAS 113(10):2636-2641. <https://doi.org/10.1073/pnas.1513271113> ; 中华人民共和国道路交通安全法（2021 年修正）第二十二条第二款：「过度疲劳影响安全驾驶的，不得驾驶机动车」；第九十条：「处警告或者二十元以上二百元以下罚款」. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519> ; 中华人民共和国道路交通安全法实施条例（2017 年修订）第六十二条：驾驶机动车不得有「（三）拨打接听手持电话、观看电视等妨碍安全驾驶的行为」「（七）连续驾驶机动车超过4小时未停车休息或者停车休息时间少于20分钟」. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40f566c10e23> ; 公安部 (2021). 道路交通安全违法行为记分管理办法（公安部令第 163 号）第十一条：一次记 3 分的有「（六）驾驶机动车有拨打、接听手持电话等妨碍安全驾驶的行为的」「（十四）连续驾驶载货汽车超过4小时未停车休息或者停车休息时间少于20分钟的」；第九条：一次记 9 分的有「（七）连续驾驶中型以上载客汽车、危险物品运输车辆超过4小时未停车休息或者停车休息时间少于20分钟的」. <http://www.gov.cn/gongbao/content/2022/content_5679697.htm>",
    "sources": [
-    "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries"
+    "https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries",
+    "https://doi.org/10.1073/pnas.1513271113",
+    "https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519",
+    "https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40f566c10e23",
+    "http://www.gov.cn/gongbao/content/2022/content_5679697.htm"
    ],
-   "link_count": 1,
-   "note": "速度和死亡的那组 1%、4%，是按事故模型推算出来的，不是随机分组的试验。酒驾这边 WHO 只给了方向，没给数字。「喝多少、风险涨多少」这个问题，本节没有核实过原始文献。",
+   "link_count": 5,
+   "note": "速度和死亡的那组 1%、4%，是按事故模型推算出来的，不是随机分组的试验。酒驾这边 WHO 只给了方向，没给数字。「喝多少、风险涨多少」这个问题，本节没有核实过原始文献。手机和犯困那几个倍数，算的是伤人或撞坏车的事故，不是死亡。对照组是挑过的「最理想的开车状态」，所以倍数比和平常开车相比要偏高一些。法规管的是拿在手里打电话，罚 20 到 200 元、记 3 分。用免提不违法，但 WHO 说它也安全不了多少。连续开车超过 4 小时没歇满 20 分钟，同样违法；开货车记 3 分，开中型以上客车和危险品车记 9 分。犯困了，开窗、喝咖啡都顶不了多久，进服务区停车睡一会儿。",
    "refs": [],
    "source_file": "01-不要早死.md"
   },
@@ -869,7 +883,7 @@
     "https://doi.org/10.1056/NEJMoa1501184"
    ],
    "link_count": 1,
-   "note": "它在性价比上排得靠后，原因是贵。带状疱疹本身很少要命，麻烦在带状疱疹后神经痛，可能疼上几个月到几年。打完疫苗，打针的地方疼、发烧的比例都不低。其中最重的那一档（三级症状）是 17.0% 对 3.2%",
+   "note": "它的性价比不算高，原因是贵。带状疱疹本身很少要命，麻烦在带状疱疹后神经痛，可能疼上几个月到几年。打完疫苗，打针的地方疼、发烧的比例都不低。其中最重的那一档（三级症状）是 17.0% 对 3.2%",
    "refs": [],
    "source_file": "01-不要早死.md"
   },
@@ -931,8 +945,13 @@
     "https://doi.org/10.1136/bmj.l5016"
    ],
    "link_count": 1,
-   "note": "根除以后还可能再感染，所以家里人一起查、一起治。这项试验的人群是胃癌高发区的居民。住在低发区的人，实际拿到的好处会小得多。",
-   "refs": [],
+   "note": "根除以后还可能再感染，所以家里人一起查、一起治。这项试验的人群是胃癌高发区的居民。住在低发区的人，实际拿到的好处会小得多。根除代替不了胃镜，45 岁以上属于高风险的见第 47 条（去做胃镜筛查）。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 47
+    }
+   ],
    "source_file": "01-不要早死.md"
   },
   {
@@ -1714,8 +1733,261 @@
    "source_file": "01-不要早死.md"
   },
   {
-   "id": "2-1",
+   "id": "1-44",
    "seq": 44,
+   "section": 1,
+   "section_title": "不要早死",
+   "no": 44,
+   "title": "心慌、心跳乱就去做心电图，查出房颤请医生评估吃抗凝药防中风，别拿阿司匹林代替",
+   "cost_money": "少",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "大",
+   "metric": "死亡率",
+   "cost_score": 2,
+   "ratio": "高",
+   "evidence": "A",
+   "evidence_raw": "A",
+   "evidence_flags": [],
+   "disputed": true,
+   "todo": false,
+   "cost_text": "做一次心电图几十元。华法林很便宜，但要定期抽血调剂量。新型抗凝药不用常抽血，贵一些。难在没有症状也要天天吃，拔牙、做手术前要先告诉医生在吃抗凝药。",
+   "plain": "房颤是心跳乱成一团，血在心里淤住会结成血块，冲进脑子就是中风。按医生评估吃抗凝药，中风少约六成，死亡少约三成。阿司匹林这类药只少约两成，代替不了。中国高危房颤的人里，只有 6% 在吃抗凝药。",
+   "benefit_text": "房颤时心房乱颤，血在心房里淤住，容易结成血块。血块冲进脑血管就是中风。最常见的症状是心慌、一活动就累、胸口不舒服，也有约 25% 的人自己说没有症状。做 30 秒以上的单导联心电图，或者 10 秒以上的普通 12 导联心电图，就能确诊。2007 年一篇荟萃分析合并了 29 项随机试验、28044 人。和不吃药比，按剂量调好的华法林让中风少约六成（少 64%，可信范围 49% 到 74%）。阿司匹林这类抗血小板药只少约两成（少 22%，可信范围 6% 到 35%）。两类药直接比，华法林比抗血小板药再少 39%。脑子以外的大出血，每年的绝对增加不超过 0.3%。一篇 Cochrane 综述只看没中过风的 2313 人。华法林让死亡低约三成（OR 0.69，95% CI 0.50 到 0.94）。4 项大试验共 71683 人，比较新型口服抗凝药和华法林。新药让中风和栓塞再少 19%（RR 0.81），死亡少 10%（RR 0.90）。颅内出血少 52%（RR 0.48），但胃肠道出血多 25%（RR 1.25）。阿司匹林代替不了抗凝药。不适合用华法林的 5599 人里，阿哌沙班比阿司匹林让中风和栓塞少 55%（HR 0.45）。大出血每年 1.4% 对 1.2%，看不出差别（HR 1.13，可信范围 0.74 到 1.75）。另一项试验只收 75 岁以上的 973 人。致死致残的中风、颅内出血和动脉栓塞合起来，华法林比阿司匹林少 52%（RR 0.48）。脑子以外的出血每年 1.4% 对 1.6%。中国 2023 年房颤指南用 CHA2DS2-VASc-60 打分。心衰、高血压、糖尿病、血管病、60 到 64 岁、女性各 1 分，65 岁以上、中过风各 2 分。男性 2 分以上、女性 3 分以上，推荐吃口服抗凝药。男性 1 分、女性 2 分的，权衡出血风险和本人意愿后考虑。指南不推荐用抗血小板药预防房颤引起的中风。美国 2023 年指南写明，要不要吃看中风风险，不看房颤是一阵一阵发作还是一直持续。它还写明，出血风险评分不能单独拿来决定不吃，要用来找出能改的出血因素。中国 2014 到 2016 年调查 45 岁以上的人，房颤占 1.8%，约 790 万人。知道自己有房颤的，城市 78.3%，农村只有 35.3%。高危房颤的人里只有 6.0% 在用抗凝药。2020 到 2021 年的全国调查里，查出的房颤有 43.8% 是这次才发现的。以前就确诊的人里，32.1% 在用抗凝药，农村只有 19.8%",
+   "source_text": "Hart RG, Pearce LA, Aguilar MI. (2007). Meta-analysis: antithrombotic therapy to prevent stroke in patients who have nonvalvular atrial fibrillation. Annals of Internal Medicine, 146(12), 857-867. <https://doi.org/10.7326/0003-4819-146-12-200706190-00007>；Aguilar MI, Hart R. (2005). Oral anticoagulants for preventing stroke in patients with non-valvular atrial fibrillation and no previous history of stroke or transient ischemic attacks. Cochrane Database of Systematic Reviews, (3), CD001927. <https://doi.org/10.1002/14651858.CD001927.pub2>；Ruff CT, Giugliano RP, Braunwald E, et al. (2014). Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet, 383(9921), 955-962. <https://doi.org/10.1016/S0140-6736(13)62343-0>；Connolly SJ, Eikelboom J, Joyner C, et al. (2011). Apixaban in patients with atrial fibrillation. New England Journal of Medicine, 364(9), 806-817. <https://doi.org/10.1056/NEJMoa1007432>；Mant J, Hobbs FD, Fletcher K, et al. (2007). Warfarin versus aspirin for stroke prevention in an elderly community population with atrial fibrillation (the Birmingham Atrial Fibrillation Treatment of the Aged Study, BAFTA): a randomised controlled trial. Lancet, 370(9586), 493-503. <https://doi.org/10.1016/S0140-6736(07)61233-1>；Ma CS, Wu SL, Liu SW, Han YL, Chinese Society of Cardiology, et al. (2024). Chinese Guidelines for the Diagnosis and Management of Atrial Fibrillation. Journal of Geriatric Cardiology, 21(3), 251-314（中华医学会心血管病学分会等 2023 年《心房颤动诊断和治疗中国指南》的英文版）. <https://doi.org/10.26599/1671-5411.2024.03.009>；Joglar JA, Chung MK, Armbruster AL, et al. (2024). 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation, 149(1), e1-e156. <https://doi.org/10.1161/CIR.0000000000001193>；Du X, Guo L, Xia S, et al. (2021). Atrial fibrillation prevalence, awareness and management in a nationwide survey of adults in China. Heart. <https://doi.org/10.1136/heartjnl-2020-317915>；Shi S, Tang Y, Zhao Q, et al. (2022). Prevalence and risk of atrial fibrillation in China: A national cross-sectional epidemiological study. Lancet Regional Health – Western Pacific, 23, 100439. <https://doi.org/10.1016/j.lanwpc.2022.100439>；US Preventive Services Task Force (2022). Screening for Atrial Fibrillation: US Preventive Services Task Force Recommendation Statement. JAMA, 327(4), 360-367. <https://doi.org/10.1001/jama.2021.23732>；Svennberg E, Friberg L, Frykman V, et al. (2021). Clinical outcomes in systematic screening for atrial fibrillation (STROKESTOP): a multicentre, parallel group, unmasked, randomised controlled trial. Lancet, 398(10310), 1498-1506. <https://doi.org/10.1016/S0140-6736(21)01637-8>；Svendsen JH, Diederichsen SZ, Højberg S, et al. (2021). Implantable loop recorder detection of atrial fibrillation to prevent stroke (The LOOP Study): a randomised controlled trial. Lancet, 398(10310), 1507-1516. <https://doi.org/10.1016/S0140-6736(21)01698-6>",
+   "sources": [
+    "https://doi.org/10.7326/0003-4819-146-12-200706190-00007",
+    "https://doi.org/10.1002/14651858.CD001927.pub2",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.1056/NEJMoa1007432",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.26599/1671-5411.2024.03.009",
+    "https://doi.org/10.1161/CIR.0000000000001193",
+    "https://doi.org/10.1136/heartjnl-2020-317915",
+    "https://doi.org/10.1016/j.lanwpc.2022.100439",
+    "https://doi.org/10.1001/jama.2021.23732",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.1016/S0140-6736"
+   ],
+   "link_count": 12,
+   "note": "争议在筛查这一侧，查出房颤后吃药这一侧没有争议。没有症状的人要不要专门去查房颤，证据不够。美国预防服务工作组 2022 年的结论是证据不足，判断不了利弊。瑞典请 75 到 76 岁的人做两周心电图，约 7 年后死亡、中风、出血合起来只少 4%，刚够上统计差别。丹麦给 70 到 90 岁的人埋了长期记录心电的小仪器。查出房颤的是 31.8% 对 12.2%，中风却没有少到看得出差别。中国 2023 年指南说，65 岁以上的人看病时，可以考虑顺手摸脉或做心电图。所以有症状的人要去查，65 岁以上的看病时请医生顺便摸一下脉，不必专门买仪器去筛。吃上抗凝药以后，别自己加布洛芬这类止痛药，见第 34 节第 3 条（在吃抗凝药的人吃布洛芬之前先问医生）。药要长期吃，别觉得没事就停，见第 16 节第 1 条（药按医嘱吃满）。高血压也是打分项，见本节第 7 条（量血压）。有房颤的人不必一律戒咖啡，见第 2 节第 26 条（每天喝三到四杯咖啡）。突然嘴歪、一侧没劲，吃没吃药都马上打 120，见第 13 节第 3 条（突然嘴歪、一侧胳膊没劲）。受益人主要是你自己和家里的老人。",
+   "refs": [
+    {
+     "section": 34,
+     "no": 3
+    },
+    {
+     "section": 16,
+     "no": 1
+    },
+    {
+     "section": 2,
+     "no": 26
+    },
+    {
+     "section": 13,
+     "no": 3
+    }
+   ],
+   "source_file": "01-不要早死.md"
+  },
+  {
+   "id": "1-45",
+   "seq": 45,
+   "section": 1,
+   "section_title": "不要早死",
+   "no": 45,
+   "title": "成年人查一次丙肝抗体，阳性就再查核酸，确诊了吃 8 到 12 周口服药，绝大多数能治好",
+   "cost_money": "少",
+   "cost_time": "少",
+   "cost_willpower": "否",
+   "benefit_level": "大",
+   "metric": "死亡率",
+   "cost_score": 1,
+   "ratio": "高",
+   "evidence": "A",
+   "evidence_raw": "A",
+   "evidence_flags": [],
+   "disputed": true,
+   "todo": false,
+   "cost_text": "抽一管血查丙肝抗体，自费一般几十元，各地价格不同。抗体阳性的再抽一次血查核酸，看病毒还在不在。确诊的去当地丙肝定点医院开药，多数方案每天吃 1 片，吃 8 到 12 周，药费走医保报销。难在没有症状时想不起去查。",
+   "plain": "丙肝感染后几十年都可能没有症状，查一次抗体就知道。确诊了吃 8 到 12 周口服药，九成五以上能把病毒清掉。清掉病毒的人，后来死亡风险低约六成，肝癌低约七成。这类药 2019 年进了医保，平均降价八成五以上。",
+   "benefit_text": "丙肝靠血液传播，没有疫苗。世界卫生组织说，慢性丙肝常常几十年没有症状，等出症状时肝已经伤得很重。抗体阳性只说明感染过，要再查核酸才知道病毒还在不在。约 30% 的人感染后不用治，6 个月内自己就清掉了病毒。世界卫生组织说，口服的直接抗病毒药吃 8 到 12 周，几乎所有病人都能治好。给美国预防服务工作组做的证据综述合并了 49 项治疗研究，各基因型的治愈率都在 95% 以上。治愈指停药 12 周后血里查不到病毒。严重不良反应 1.9%，因副作用停药 0.4%。同一篇综述把跟踪记录类研究合起来算，没有分组对照。治愈的人比没治愈的人，总死亡率低约 60%（HR 0.40，95% CI 0.28–0.56，13 项研究）。肝癌低约 71%（HR 0.29，95% CI 0.23–0.38，20 项研究）。法国跟踪了 9895 名慢性丙肝病人，中位 33.4 个月。扣掉年龄、肝纤维化程度、喝酒等因素后，吃药的人总死亡率低约 52%（HR 0.48，95% CI 0.33–0.70）。肝癌低约 34%（HR 0.66，95% CI 0.46–0.93）。美国退伍军人里有 15059 名肝病已到晚期的丙肝病人吃了这类药。平均跟踪约 1.6 年，治愈的人每 100 人跟踪一年死 2.6 人，没治愈的死 12.3 人。扣掉其他因素后死亡风险低约 74%（HR 0.26，95% CI 0.22–0.31）。美国预防服务工作组 2020 年推荐 18 到 79 岁的成年人都查（B 级推荐）。多数人一辈子查一次就够。中国 2022 年版防治指南建议全体成年人筛查抗体，一直有高危风险的定期查，抗体阳性的都查核酸。2006 年全国调查里，1 到 59 岁人群抗体阳性率 0.43%。把多项研究合起来算，一般人群是 0.60%，吸毒人群 48.67%，血液透析人群 6.59%。国家医保局说，谈判前丙肝药的疗程费用多超过 5 万元。2019 年谈判进医保的三种丙肝药，平均降价 85% 以上（美国、法国 / 中国）",
+   "source_text": "US Preventive Services Task Force, Owens DK, Davidson KW, et al. (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: US Preventive Services Task Force Recommendation Statement. JAMA, 323(10), 970-975. <https://doi.org/10.1001/jama.2020.1123>；Chou R, Dana T, Fu R, Zakher B, Wagner J, Ramirez S, Grusing S, Jou JH (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. <https://doi.org/10.1001/jama.2019.20788>；Carrat F, Fontaine H, Dorival C, et al. (2019). Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. The Lancet, 393(10179), 1453-1464. <https://doi.org/10.1016/S0140-6736(18)32111-1>；Backus LI, Belperio PS, Shahoumian TA, Mole LA (2019). Impact of Sustained Virologic Response with Direct-Acting Antiviral Treatment on Mortality in Patients with Advanced Liver Disease. Hepatology, 69(2), 487-497. <https://doi.org/10.1002/hep.29408>；Jakobsen JC, Nielsen EE, Feinberg J, et al. (2017). Direct-acting antivirals for chronic hepatitis C. Cochrane Database of Systematic Reviews, CD012143.pub3. <https://doi.org/10.1002/14651858.CD012143.pub3>（反方）；World Health Organization (2026). Hepatitis C（事实清单，2026-07-28）. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-c>；中华医学会肝病学分会, 中华医学会感染病学分会 (2022). 丙型肝炎防治指南（2022 年版）. 中华肝脏病杂志, 30(12), 1332-1348. <https://doi.org/10.3760/cma.j.cn501113-20221220-00605>；国家卫生健康委办公厅等九部门 (2021). 关于印发消除丙型肝炎公共卫生危害行动工作方案（2021-2030 年）的通知（国卫办疾控函〔2021〕492 号）. <https://www.nhc.gov.cn/jkj/c100062/202109/6bf87bfeb2f0424e8d6efc0425b91699.shtml>；国家医疗保障局 (2019). 《关于将 2019 年谈判药品纳入乙类范围的通知》政策解读. <https://www.nhsa.gov.cn/art/2019/11/28/art_53_2057.html>",
+   "sources": [
+    "https://doi.org/10.1001/jama.2020.1123",
+    "https://doi.org/10.1001/jama.2019.20788",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.1002/hep.29408",
+    "https://doi.org/10.1002/14651858.CD012143.pub3",
+    "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c",
+    "https://doi.org/10.3760/cma.j.cn501113-20221220-00605",
+    "https://www.nhc.gov.cn/jkj/c100062/202109/6bf87bfeb2f0424e8d6efc0425b91699.shtml",
+    "https://www.nhsa.gov.cn/art/2019/11/28/art_53_2057.html"
+   ],
+   "link_count": 9,
+   "note": "争议：Cochrane 2017 年的综述只认随机分组的试验。它找到的 138 项多是短期试验，判断不了这类药能不能少死人、少得肝病。它认为「治愈」只是血里查不到病毒，和少死人之间的关系还没有被随机试验证实。上面死亡和肝癌的数字都来自跟踪记录。也没有研究直接比较过查和不查。国家方案点名要查的人：准备做手术、输血、内镜、透析的，肝功能化验不明原因异常的。有过静脉吸毒、卖过血浆、多个性伴侣、男男性行为的。艾滋病感染者，丙肝病人的配偶和性伴侣。方案还提出动员 40 岁以上的人去查。指南写明，现在的病人大多在 1993 年以前输过血或卖过血浆。纹身、穿耳洞、共用剃须刀和牙刷也可能传播。拥抱、共用碗筷和水杯一般不传播。治好以后抗体照样是阳性，要看核酸才知道有没有再感染。治好了还能再感染，还在共用针具的人每年至少查一次核酸。怀着孕查出来的，生完、停了哺乳再治，治疗期间要避孕。已经肝硬化的，治好了也要按时查肝癌。不共用针具见本节第 30 条（不和别人共用针具）。乙肝要查的是另一套指标，见本节第 14 条（查乙肝两对半）。艾滋病见本节第 31 条（查一次艾滋病）。指南写明，丙肝加上过量饮酒可能发展成肝衰竭，喝酒见第 2 节第 19 条（少喝或不喝酒）。受益人主要是你自己，也护住你的配偶和性伴侣。",
+   "refs": [
+    {
+     "section": 2,
+     "no": 19
+    }
+   ],
+   "source_file": "01-不要早死.md"
+  },
+  {
+   "id": "1-46",
+   "seq": 46,
+   "section": 1,
+   "section_title": "不要早死",
+   "no": 46,
+   "title": "下化粪池、窨井、污水池、菜窖地窖、发酵罐之前先打开通风，有人倒在里面别跟着下去，打 119 和 120",
+   "cost_money": "0",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "中",
+   "metric": "死亡率",
+   "cost_score": 1,
+   "ratio": "一般",
+   "evidence": "C",
+   "evidence_raw": "C",
+   "evidence_flags": [],
+   "disputed": false,
+   "todo": false,
+   "cost_text": "不花钱。下去之前把盖子和通风口全打开，人站在上风处等一阵，要多花些时间。自家化粪池最好交给有设备的清掏队伍。难在有人倒在里面时，忍住不往下跳。",
+   "plain": "化粪池、窨井、菜窖这类地方会积毒气，也会缺氧，人几秒就能倒下。国内这类事故常常是一个人倒下，几个人接连下去救，一起死在里面。国内的统计说，死在里面的人一半以上是去救人的。看见有人倒下，别下去，打 119 和 120。",
+   "benefit_text": "「有限空间」指化粪池、窨井、污水池、地窖、罐子这类封闭或半封闭、不是给人长期待的地方。应急管理部分析了 2013 年以来工贸企业有限空间的较大事故。中毒和窒息占事故起数的 96.8%、死亡人数的 96.9%。害人的主要是硫化氢、一氧化碳、氮气、二氧化碳。没做好防护、盲目施救的事故，占起数的 87.4%、死亡人数的 86.8%。应急管理部 2020 年的安全指导手册说，近 80% 的事故因为盲目施救让伤亡变多。在有限空间里死去的人，超过 50% 是救援的人。2018 年国务院安委办通报了 8 起事故。8 起一开始都只有 1 人遇险，因为盲目施救，每起最后死了 3 到 4 人。2019 年东莞一家纸厂清污水池，3 人吸入硫化氢晕倒。6 人先后下池去救，最后死了 7 人。2020 年焦作一家面制品厂，1 名工人掉进发酵车间的物料罐。其他人盲目施救，一共死了 6 人。美国职业安全卫生研究所调查了 1983 到 1993 年的 70 起有限空间死亡事故，共死 109 人。其中 39 人（36%）是为了救人才进去的。这 39 人里，只有 4 个是警察、消防这类专业救援人员。它 1986 年的警示说，约 60% 的死者是想去救人的人。手册说，硫化氢有臭鸡蛋味，可浓度一高，鼻子就闻不出来了。浓度超过每立方米 1000 毫克，几秒内就能致人死亡。二氧化碳浓度高时，人几秒内就会昏迷倒下。手册要求，现场没有条件自己救的，及时打 119 和 120，「决不允许强行施救」。站在外面把人拉出来，前提是被困的人系着全身式安全带，安全绳连在外面。应急管理部第 13 号令要求工贸企业作业「先通风、再检测、后作业」。监护人员要制止没做好安全措施的盲目施救。安顺市卫健局提示，存放蔬菜的地窖长期封着，蔬菜会耗掉氧气、放出二氧化碳。下窖前要打开所有通风口，通风足够长的时间，腰上系绳，窖上留人（全国 / 美国）",
+   "source_text": "应急管理部 (2023). 《工贸企业有限空间作业安全规定》解读. <https://www.mem.gov.cn/gk/zcjd/202312/t20231212_471584.shtml>；应急管理部 (2023). 《工贸企业有限空间作业安全规定》专题新闻发布会. <https://www.mem.gov.cn/xw/xwfbh/2023n12y12rxwfbh/wzsl_4260/202312/t20231212_471598.shtml>；应急管理部令第 13 号 (2023). 工贸企业有限空间作业安全规定（第三、十四、十五条）. <https://www.gov.cn/gongbao/2024/issue_11166/202402/content_6931872.html>；应急管理部办公厅 (2020). 有限空间作业安全指导手册（第 2.1、5.1、5.3 节及典型事故案例）. <https://www.mem.gov.cn/gk/tzgg/tz/202010/W020201102332723879957.pdf>（通知页 <https://www.mem.gov.cn/gk/tzgg/tz/202010/t20201030_371153.shtml>）；国务院安委会办公室 (2018). 国务院安委办通报 8 起有限空间盲目施救导致伤亡扩大事故. <https://www.mem.gov.cn/xw/bndt/201806/t20180608_229498.shtml>；应急管理部 (2021). 应急管理部公布一批有限空间作业生产安全事故典型案例. <https://www.mem.gov.cn/xw/yjglbgzdt/202103/t20210326_382087.shtml>；安顺市卫生健康局 (2021). 进入地窖当心二氧化碳中毒. <http://wjj.anshun.gov.cn/wjgz/zsyd/202102/t20210223_66808351.html>；NIOSH (1994). Worker Deaths in Confined Spaces: A Summary of NIOSH Surveillance and Investigative Findings (DHHS (NIOSH) Publication No. 94-103), p. 20, 22. <https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf>（原页面已移入 CDC 存档站，链接为 2023 年 3 月 8 日的网页存档：<https://web.archive.org/web/20230308204907/https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf>）；NIOSH (1986). Request for Assistance in Preventing Occupational Fatalities in Confined Spaces (DHHS (NIOSH) Publication No. 86-110). <https://www.cdc.gov/niosh/docs/86-110/default.html>（原页面已移入 CDC 存档站，链接为 2023 年 6 月 11 日的网页存档：<https://web.archive.org/web/20230611112004/https://www.cdc.gov/niosh/docs/86-110/default.html>）",
+   "sources": [
+    "https://www.mem.gov.cn/gk/zcjd/202312/t20231212_471584.shtml",
+    "https://www.mem.gov.cn/xw/xwfbh/2023n12y12rxwfbh/wzsl_4260/202312/t20231212_471598.shtml",
+    "https://www.gov.cn/gongbao/2024/issue_11166/202402/content_6931872.html",
+    "https://www.mem.gov.cn/gk/tzgg/tz/202010/W020201102332723879957.pdf",
+    "https://www.mem.gov.cn/gk/tzgg/tz/202010/t20201030_371153.shtml",
+    "https://www.mem.gov.cn/xw/bndt/201806/t20180608_229498.shtml",
+    "https://www.mem.gov.cn/xw/yjglbgzdt/202103/t20210326_382087.shtml",
+    "http://wjj.anshun.gov.cn/wjgz/zsyd/202102/t20210223_66808351.html",
+    "https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf",
+    "https://web.archive.org/web/20230308204907/https://www.cdc.gov/niosh/docs/94-103/pdfs/94-103.pdf",
+    "https://www.cdc.gov/niosh/docs/86-110/default.html",
+    "https://web.archive.org/web/20230611112004/https://www.cdc.gov/niosh/docs/86-110/default.html"
+   ],
+   "link_count": 12,
+   "note": "给 C 是因为这些都是事故统计和安全规定，没有研究算过照做能少死多少人。收益量级定为中，凭的是判断：后果是死亡，常常一死几个，但只落在要下这类地方的人身上。家里常碰到的是清自家化粪池、沼气池，下菜窖、地窖取菜。别靠闻味判断安不安全，闻不到臭味不等于没有硫化氢。打工时被安排下井、下池，没有通风、检测、监护和安全带的，可以拒绝。拒绝的依据见第 19 节第 10 条（没有防护措施的作业可以拒绝）。有人倒在里面，先喊人，打 119 和 120，能做的是在外面打开盖子、往里鼓风。人被拉上来后挪到空气新鲜处，没有呼吸就按压，见第 13 节第 1 条（有人倒地没呼吸）。倒下的是同事、邻居还是陌生人，做法都一样，道理和第 13 节第 25 条（看到有人溺水自己不下水）相同。屋里烧煤的一氧化碳见本节第 3 条（一氧化碳报警器）。受益人主要是你自己，因为想下去救人的往往就是你，其次是一起干活的家人。",
+   "refs": [
+    {
+     "section": 19,
+     "no": 10
+    },
+    {
+     "section": 13,
+     "no": 1
+    }
+   ],
+   "source_file": "01-不要早死.md"
+  },
+  {
+   "id": "1-47",
+   "seq": 47,
+   "section": 1,
+   "section_title": "不要早死",
+   "no": 47,
+   "title": "45 岁以上，住在胃癌食管癌高发地区、有家族史或幽门螺杆菌阳性的，去做胃镜筛查",
+   "cost_money": "少",
+   "cost_time": "中",
+   "cost_willpower": "否",
+   "benefit_level": "中",
+   "metric": "死亡率",
+   "cost_score": 2,
+   "ratio": "一般",
+   "evidence": "A",
+   "evidence_raw": "A",
+   "evidence_flags": [],
+   "disputed": true,
+   "todo": false,
+   "cost_text": "普通胃镜几百元，做无痛胃镜要另加几百元，各地价格不同。要空腹去，前后占半天。选无痛胃镜的，要有人陪着去。难受的地方是管子过喉咙那几分钟。",
+   "plain": "45 岁以上、属于胃癌食管癌高风险的人，做过胃镜的，死于这两种癌的概率低约一半。但主动去查的人本来就更注意身体，这个数会偏大。按最严格的办法比，只低约两成，还在误差范围内。不在高风险里的人，指南不建议查。",
+   "benefit_text": "国家卫健委 2024 年的方案这样定高风险人群。先要年满 45 岁，再满足下面任意一条。一是住在胃癌或食管癌高发的县。胃癌按年龄标化发病率超过每 10 万人 20 例算，食管癌按超过 15 例算。二是父母、子女、兄弟姐妹得过这种癌。三是幽门螺杆菌检测阳性，这一条只算胃癌。四是抽烟、重度饮酒、吃得咸、爱吃腌制食品，食管癌还加上爱吃烫的。五是得过萎缩性胃炎、胃溃疡、胃息肉、巴雷特食管、反流性食管炎这类病。筛查年龄一般在 45 到 74 岁，首选胃镜，原则上每 5 年做一次。2022 年的国家指南明确不建议高风险以外的人做胃癌筛查。中国 6 个高发地区有一项研究，跟踪了 40 到 69 岁的约 63.75 万人。做过一次胃镜的人和没被邀请的人比，死于上消化道癌的风险低约 57%。原值 RR 0.43，可信范围 95% CI 0.40 到 0.47。上消化道癌的发病低约 23%（RR 0.77）。被邀请的人里只有 33.53% 真去做了。把被邀请的人全算上，死亡低约 31%（RR 0.69，95% CI 0.66 到 0.72）。另一项研究在食管癌高发的村子里做，没有随机分组，跟了 10 年。筛查组的食管鳞癌累计死亡是 3.35%，对照组是 5.05%。韩国国家筛查项目里，做过胃镜的人死于胃癌的可能低约 47%。原值 OR 0.53，95% CI 0.51 到 0.56。做钡餐的看不出差别（OR 0.98）。做胃镜的次数越多，风险越低。把亚洲 10 项研究合起来算，做过胃镜的人胃癌死亡低约 40%。原值 RR 0.60，95% CI 0.49 到 0.73。得胃癌的人数没看出变化。中国北方有一项按村随机分组的试验，收了 45 到 69 岁的 3.38 万人，跟了 9 年。分到筛查组的人，食管癌死亡低约 18%（HR 0.82，95% CI 0.53 到 1.26），还在误差范围内。发病低约 19%（HR 0.81，95% CI 0.60 到 1.09），同样不显著。2023 年一篇荟萃分析校正了「主动去查的人本来就更健康」这层偏差。真去做胃镜的人，胃癌死亡低约 48%（RR 0.52，可信范围 0.39 到 0.79）。按整个筛查项目算，只剩 RR 0.94（可信范围 0.71 到 1.28），看不出效果（中国 / 韩国 / 亚洲）",
+   "source_text": "国家卫生健康委办公厅 (2024). 关于印发食管癌筛查与早诊早治方案（2024年版）和胃癌筛查与早诊早治方案（2024年版）的通知（国卫办医急函〔2024〕200号）. <https://www.nhc.gov.cn/wjw/c100378/202406/7008ffe1c77d4457ac73361be75760c7.shtml>（附件全文转载：广东省疾病预防控制中心 <https://cdcp.gd.gov.cn/jkjy/jkzt/mxfcrxjbfz/content/mpost_4444507.html>）；赫捷, 陈万青, 李兆申, 等 (2022). 中国胃癌筛查与早诊早治指南（2022，北京）. 中国肿瘤, 31(7), 488-527（临床问题 7、13）. <https://doi.org/10.11735/j.issn.1004-0242.2022.07.A002>（同文刊于中华肿瘤杂志, 44(7), 634-666. <https://doi.org/10.3760/cma.j.cn112152-20220617-00430>）；Chen R, Liu Y, Song G, et al. (2021). Effectiveness of one-time endoscopic screening programme in prevention of upper gastrointestinal cancer in China: a multicentre population-based cohort study. Gut, 70(2), 251-260. <https://doi.org/10.1136/gutjnl-2019-320200>；Wei WQ, Chen ZF, He YT, et al. (2015). Long-Term Follow-Up of a Community Assignment, One-Time Endoscopic Screening Study of Esophageal Cancer in China. Journal of Clinical Oncology, 33(17), 1951-1957. <https://doi.org/10.1200/JCO.2014.58.0423>；Jun JK, Choi KS, Lee HY, et al. (2017). Effectiveness of the Korean National Cancer Screening Program in Reducing Gastric Cancer Mortality. Gastroenterology, 152(6), 1319-1328.e7. <https://doi.org/10.1053/j.gastro.2017.01.029>；Zhang X, Li M, Chen S, et al. (2018). Endoscopic Screening in Asian Countries Is Associated With Reduced Gastric Cancer Mortality: A Meta-analysis and Systematic Review. Gastroenterology, 155(2), 347-354.e9. <https://doi.org/10.1053/j.gastro.2018.04.026>；Liu M, Yang W, Guo C, et al. (2024). Effectiveness of Endoscopic Screening on Esophageal Cancer Incidence and Mortality: A 9-Year Report of the Endoscopic Screening for Esophageal Cancer in China (ESECC) Randomized Trial. Journal of Clinical Oncology, 42(14), 1655-1664. <https://doi.org/10.1200/JCO.23.01284>；Hibino M, Hamashima C, Iwata M, Terasawa T. (2023). Radiographic and endoscopic screening to reduce gastric cancer mortality: a systematic review and meta-analysis. The Lancet Regional Health – Western Pacific, 35, 100741. <https://doi.org/10.1016/j.lanwpc.2023.100741>",
+   "sources": [
+    "https://www.nhc.gov.cn/wjw/c100378/202406/7008ffe1c77d4457ac73361be75760c7.shtml",
+    "https://cdcp.gd.gov.cn/jkjy/jkzt/mxfcrxjbfz/content/mpost_4444507.html",
+    "https://doi.org/10.11735/j.issn.1004-0242.2022.07.A002",
+    "https://doi.org/10.3760/cma.j.cn112152-20220617-00430",
+    "https://doi.org/10.1136/gutjnl-2019-320200",
+    "https://doi.org/10.1200/JCO.2014.58.0423",
+    "https://doi.org/10.1053/j.gastro.2017.01.029",
+    "https://doi.org/10.1053/j.gastro.2018.04.026",
+    "https://doi.org/10.1200/JCO.23.01284",
+    "https://doi.org/10.1016/j.lanwpc.2023.100741"
+   ],
+   "link_count": 10,
+   "note": "争议。胃镜降死亡的证据，大多是拿自愿去查的人和不查的人比。去查的人本来就更注意身体，好处会被算大。2023 年那篇荟萃分析评定，这些研究的偏倚风险是中等到严重。食管癌那项按村分组的试验，9 年的死亡差别还在误差范围内。2022 年指南列出的害处有：过度诊断，就是查出一辈子都不会发作的癌；假阳性；漏诊；还有出血、穿孔、心肺意外、吸入性肺炎和感染。受不了普通胃镜的，方案写明可以在麻醉或镇静下做。45 岁以上幽门螺杆菌阳性的，本身就算胃癌高风险。根除见第 23 条（查幽门螺杆菌，阳性就根除），但根除代替不了胃镜，两样都要做。钡餐、单查胃蛋白酶原、肿瘤标志物和 PET 检查，方案都不推荐用来筛查。肿瘤标志物套餐见第 6 节第 7 条（全身 PET-CT 和肿瘤标志物套餐）。查出萎缩性胃炎、肠上皮化生、上皮内瘤变的，复查要更勤，按医生说的来。自己住的县算不算高发区，可以问当地疾控中心或县医院。已经吞咽困难、呕血、黑便的，是去看病，不是筛查，见第 34 节第 6 条（吞咽困难、呕血、黑便就直接去医院）。爱喝烫茶的，见第 2 节第 30 条（热的东西放一放再喝）。受益人主要是你自己，也包括你的父母。",
+   "refs": [
+    {
+     "section": 6,
+     "no": 7
+    },
+    {
+     "section": 34,
+     "no": 6
+    },
+    {
+     "section": 2,
+     "no": 30
+    },
+    {
+     "section": 1,
+     "no": 23
+    }
+   ],
+   "source_file": "01-不要早死.md"
+  },
+  {
+   "id": "1-48",
+   "seq": 48,
+   "section": 1,
+   "section_title": "不要早死",
+   "no": 48,
+   "title": "泡发的木耳、银耳当顿吃完别过夜，河粉、肠粉这类湿米粉买来当天吃，家里不自制酵米面",
+   "cost_money": "0",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "大",
+   "metric": "死亡率",
+   "cost_score": 1,
+   "ratio": "高",
+   "evidence": "B",
+   "evidence_raw": "B",
+   "evidence_flags": [],
+   "disputed": false,
+   "todo": false,
+   "cost_text": "不花钱。木耳、银耳吃多少泡多少，剩下的倒掉。湿米粉只买当天吃得完的量。难在泡多了舍不得倒，有些人家习惯自己做酸汤子。",
+   "plain": "泡太久的木耳银耳、放久了的湿米粉、家里自己发酵的玉米面，会长出一种叫米酵菌酸的毒。煮开了也去不掉，也没有解药。全国十一年里报告的这种中毒，发病的人里约三成死了。",
+   "benefit_text": "全国食源性疾病暴发监测里，2010 到 2020 年共报告米酵菌酸中毒 19 起。发病 146 人，死亡 43 人，病死率 29.5%（指发病的人里有 29.5% 死亡）。按吃的东西分：自家发酵的玉米面制品 9 起，死 33 人。湿米粉 5 起，死 7 人。木耳 3 起，5 人发病，死 3 人。2020 年全国食物中毒报告死亡 143 人，米酵菌酸占 12 人。排在它前面的是毒蘑菇（80 人）和甲醇（14 人）。北京市市场监管局的提示写明：米酵菌酸 100℃ 煮沸、高压锅蒸煮都破坏不了，目前没有特效解毒药。广东 2018 年起要求湿米粉小包装密封、标清保质期。前后对比，全省每年的病例数从平均 6.25 例降到 0.5 例",
+   "source_text": "Zhang H 等 (2023). Epidemiology of foodborne bongkrekic acid poisoning outbreaks in China, 2010 to 2020. PLoS One 18(1):e0279957：「From 2010–2020, a total of 19 BA poisoning outbreaks were reported to the China National Foodborne Disease Outbreak Surveillance System. These outbreaks involved 146 illnesses, 139 hospitalizations, and 43 deaths, with a case-fatality rate of 29.5%.」<https://doi.org/10.1371/journal.pone.0279957> ; Li H 等 (2021). Characteristics of Settings and Etiologic Agents of Foodborne Disease Outbreaks — China, 2020. China CDC Weekly 3(42):889-893. <https://doi.org/10.46234/ccdcw2021.219> ; Yuan Y 等 (2020). A Foodborne Bongkrekic Acid Poisoning Incident — Heilongjiang Province, 2020. China CDC Weekly 2(51):975-978：「In October 2020, 9 persons in Jidong County, Heilongjiang Province died after consuming a homemade fermented corn flour product — sour soup — with a case fatality rate of 100%.」<https://doi.org/10.46234/ccdcw2020.264> ; Liu Z 等 (2026). Controlling the Storage Time Is an Effective Measure to Reduce the Risk of Bongkrekic Acid Poisoning Caused by Wet Rice Noodles. Foodborne Pathog Dis 23(7):468-472（2025-05-12 网络首发）：「The annual average number of BKA poisoning cases in Guangdong Province dropped from 6.25 before implementing the code to 0.5 after implementing the code.」<https://doi.org/10.1089/fpd.2024.0131> ; 北京市市场监督管理局 (2023). 关于米酵菌酸引发食物中毒的风险提示：「米酵菌酸对热稳定，经100℃煮沸和高压烹饪也不能被破坏」「目前，尚无米酵菌酸特效解毒药物」「隔天泡制的银耳、木耳及其加工制品不能食用」. <https://scjgj.beijing.gov.cn/hdjl/xfts/202309/t20230904_3248296.html> ; 湖南省市场监督管理局 (2025). 【食安科普】米酵菌酸致命警告：「银耳冷水（室温）浸泡3~4小时，木耳冷水浸泡1~2小时，中途换水1~2次，去除微生物，泡发时长最长均不能超过8小时」「吃了同样食物的人，不管有没有症状，都应送医院检查」. <https://amr.hunan.gov.cn/amr/xxx/xtdtx/202506/t20250630_33725786.html> ; 贵州省市场监督管理局 (2023). 关于谨防米酵菌酸中毒的食品安全警示：「选购银耳、木耳等相关食品时，要选择正规渠道，泡发不可过夜，应及时加工食用」. <https://amr.guizhou.gov.cn/zfxxgk/fdzdgknr/tzgg_5626971/tzgg_5626972/202307/t20230728_81318622.html>",
+   "sources": [
+    "https://doi.org/10.1371/journal.pone.0279957",
+    "https://doi.org/10.46234/ccdcw2021.219",
+    "https://doi.org/10.46234/ccdcw2020.264",
+    "https://doi.org/10.1089/fpd.2024.0131",
+    "https://scjgj.beijing.gov.cn/hdjl/xfts/202309/t20230904_3248296.html",
+    "https://amr.hunan.gov.cn/amr/xxx/xtdtx/202506/t20250630_33725786.html",
+    "https://amr.guizhou.gov.cn/zfxxgk/fdzdgknr/tzgg_5626971/tzgg_5626972/202307/t20230728_81318622.html"
+   ],
+   "link_count": 7,
+   "note": "2020 年 10 月，黑龙江鸡西市鸡东县几家人早饭吃了自制的酸汤子。吃了的 9 个人全部死亡。这种毒看不出来，广东几起湿米粉中毒，吃的人都没觉得粉的味道和颜色有异常。木耳冷水泡一两个小时就够，泡发时间各地写法不一，湖南写最长不超过 8 小时。耳片发黏、没弹性、有酸臭味，或者泡发水浑浊，整盆倒掉。不买新鲜银耳。吃完出现呕吐、头晕、浑身没劲，马上催吐，带上剩下的食物去医院。一起吃的人没症状也要去查。野生蘑菇见第 5 条（不吃野生蘑菇）。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 5
+    }
+   ],
+   "source_file": "01-不要早死.md"
+  },
+  {
+   "id": "2-1",
+   "seq": 49,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 1,
@@ -1751,7 +2023,7 @@
   },
   {
    "id": "2-2",
-   "seq": 45,
+   "seq": 50,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 2,
@@ -1783,7 +2055,7 @@
   },
   {
    "id": "2-3",
-   "seq": 46,
+   "seq": 51,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 3,
@@ -1817,7 +2089,7 @@
   },
   {
    "id": "2-4",
-   "seq": 47,
+   "seq": 52,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 4,
@@ -1849,7 +2121,7 @@
   },
   {
    "id": "2-5",
-   "seq": 48,
+   "seq": 53,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 5,
@@ -1882,7 +2154,7 @@
   },
   {
    "id": "2-6",
-   "seq": 49,
+   "seq": 54,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 6,
@@ -1919,7 +2191,7 @@
   },
   {
    "id": "2-7",
-   "seq": 50,
+   "seq": 55,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 7,
@@ -1951,7 +2223,7 @@
   },
   {
    "id": "2-8",
-   "seq": 51,
+   "seq": 56,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 8,
@@ -1982,7 +2254,7 @@
   },
   {
    "id": "2-9",
-   "seq": 52,
+   "seq": 57,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 9,
@@ -2014,7 +2286,7 @@
   },
   {
    "id": "2-10",
-   "seq": 53,
+   "seq": 58,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 10,
@@ -2053,7 +2325,7 @@
   },
   {
    "id": "2-11",
-   "seq": 54,
+   "seq": 59,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 11,
@@ -2087,11 +2359,11 @@
   },
   {
    "id": "2-12",
-   "seq": 55,
+   "seq": 60,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 12,
-   "title": "有高血压、高血脂就按医嘱规律吃药，别自行停",
+   "title": "成年后定期查血脂，40 岁前每 2 到 5 年一次、40 岁起每年一次；有高血压、高血脂就按医嘱规律吃药，别自行停",
    "cost_money": "少",
    "cost_time": "少",
    "cost_willpower": "些",
@@ -2104,23 +2376,31 @@
    "evidence_flags": [],
    "disputed": false,
    "todo": false,
-   "cost_text": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。",
-   "plain": "血压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。",
-   "benefit_text": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。",
-   "source_text": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>",
+   "cost_text": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。查血脂要抽一管血。65 岁以上每年有一次免费体检，里面就有血脂，见第 6 节第 18 条（通用体检套餐）。",
+   "plain": "血压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。血脂 40 岁前每 2 到 5 年查一次，40 岁起每年查。",
+   "benefit_text": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。多久查一次血脂，按健康中国行动的建议：40 岁以下血脂正常的人每 2 到 5 年查一次。40 岁及以上的人至少每年查一次。心脑血管病高危的人每 6 个月查一次。2023 年版中国血脂管理指南对 40 岁前后的写法相同，高危的人改成按个人需要查。",
+   "source_text": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十一）心脑血管疾病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>；Joint Committee on the Chinese Guidelines for Lipid Management (2023). 中国血脂管理指南（2023 年）. 中华心血管病杂志, 51(3), 221-255. <https://doi.org/10.3760/cma.j.cn112148-20230119-00038>；Li JJ 等 (2023). 2023 Chinese guideline for lipid management. Frontiers in Pharmacology, 14, 1190934（上一份指南的英文版，中文原文未取得，相关内容按英文版核对）. <https://doi.org/10.3389/fphar.2023.1190934>",
    "sources": [
     "https://doi.org/10.1016/S0140-6736",
     "https://doi.org/10.1016/S0140-6736",
-    "https://doi.org/10.1093/eurheartj/eht295"
+    "https://doi.org/10.1093/eurheartj/eht295",
+    "https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html",
+    "https://doi.org/10.3760/cma.j.cn112148-20230119-00038",
+    "https://doi.org/10.3389/fphar.2023.1190934"
    ],
-   "link_count": 3,
-   "note": "只有医生判断该吃药的人才照这个做，健康人不用吃。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。",
-   "refs": [],
+   "link_count": 6,
+   "note": "只有医生判断该吃药的人才照这个做，健康人不用吃。查血脂多久一次是官方给的建议，没有试验比过几年查一次最好。家里有人得了家族性高胆固醇血症（天生胆固醇特别高的遗传病），他的一级、二级亲属都要去查血脂。孩子也有该查的情况：父母总胆固醇 ≥6.2 mmol/L，或者一级、二级亲属里有男性 55 岁前、女性 65 岁前得过心梗、中风或猝死的。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。",
+   "refs": [
+    {
+     "section": 6,
+     "no": 18
+    }
+   ],
    "source_file": "02-不要慢慢死.md"
   },
   {
    "id": "2-13",
-   "seq": 56,
+   "seq": 61,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 13,
@@ -2154,7 +2434,7 @@
   },
   {
    "id": "2-14",
-   "seq": 57,
+   "seq": 62,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 14,
@@ -2185,7 +2465,7 @@
   },
   {
    "id": "2-15",
-   "seq": 58,
+   "seq": 63,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 15,
@@ -2216,7 +2496,7 @@
   },
   {
    "id": "2-16",
-   "seq": 59,
+   "seq": 64,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 16,
@@ -2247,7 +2527,7 @@
   },
   {
    "id": "2-17",
-   "seq": 60,
+   "seq": 65,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 17,
@@ -2279,7 +2559,7 @@
   },
   {
    "id": "2-18",
-   "seq": 61,
+   "seq": 66,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 18,
@@ -2312,7 +2592,7 @@
   },
   {
    "id": "2-19",
-   "seq": 62,
+   "seq": 67,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 19,
@@ -2346,7 +2626,7 @@
   },
   {
    "id": "2-20",
-   "seq": 63,
+   "seq": 68,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 20,
@@ -2378,7 +2658,7 @@
   },
   {
    "id": "2-21",
-   "seq": 64,
+   "seq": 69,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 21,
@@ -2410,7 +2690,7 @@
   },
   {
    "id": "2-22",
-   "seq": 65,
+   "seq": 70,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 22,
@@ -2441,7 +2721,7 @@
   },
   {
    "id": "2-23",
-   "seq": 66,
+   "seq": 71,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 23,
@@ -2472,7 +2752,7 @@
   },
   {
    "id": "2-24",
-   "seq": 67,
+   "seq": 72,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 24,
@@ -2504,7 +2784,7 @@
   },
   {
    "id": "2-25",
-   "seq": 68,
+   "seq": 73,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 25,
@@ -2538,7 +2818,7 @@
   },
   {
    "id": "2-26",
-   "seq": 69,
+   "seq": 74,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 26,
@@ -2580,7 +2860,7 @@
   },
   {
    "id": "2-27",
-   "seq": 70,
+   "seq": 75,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 27,
@@ -2612,7 +2892,7 @@
   },
   {
    "id": "2-28",
-   "seq": 71,
+   "seq": 76,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 28,
@@ -2643,7 +2923,7 @@
   },
   {
    "id": "2-29",
-   "seq": 72,
+   "seq": 77,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 29,
@@ -2675,7 +2955,7 @@
   },
   {
    "id": "2-30",
-   "seq": 73,
+   "seq": 78,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 30,
@@ -2707,7 +2987,7 @@
   },
   {
    "id": "2-31",
-   "seq": 74,
+   "seq": 79,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 31,
@@ -2738,7 +3018,7 @@
   },
   {
    "id": "2-32",
-   "seq": 75,
+   "seq": 80,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 32,
@@ -2775,7 +3055,7 @@
   },
   {
    "id": "2-33",
-   "seq": 76,
+   "seq": 81,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 33,
@@ -2806,7 +3086,7 @@
   },
   {
    "id": "2-34",
-   "seq": 77,
+   "seq": 82,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 34,
@@ -2837,7 +3117,7 @@
   },
   {
    "id": "2-35",
-   "seq": 78,
+   "seq": 83,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 35,
@@ -2868,7 +3148,7 @@
   },
   {
    "id": "2-36",
-   "seq": 79,
+   "seq": 84,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 36,
@@ -2899,7 +3179,7 @@
   },
   {
    "id": "2-37",
-   "seq": 80,
+   "seq": 85,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 37,
@@ -2937,7 +3217,7 @@
   },
   {
    "id": "2-38",
-   "seq": 81,
+   "seq": 86,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 38,
@@ -2973,7 +3253,7 @@
   },
   {
    "id": "2-39",
-   "seq": 82,
+   "seq": 87,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 39,
@@ -3007,7 +3287,7 @@
   },
   {
    "id": "2-40",
-   "seq": 83,
+   "seq": 88,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 40,
@@ -3034,13 +3314,13 @@
     "https://publications.iarc.fr/123"
    ],
    "link_count": 3,
-   "note": "两项研究都只是跟踪记录、没有分组对照。广州那项的终点是肝功能化验，不是肝癌和死亡。自榨油的毒素中位数其实低于国标对花生油的限量 20 μg/kg，风险来自长年吃和个别高的批次。国标限量对所有花生油都适用，但预包装油要过生产许可和出厂检验，小作坊按各省的管理办法管，抽检少得多。本条受益人主要是你和一起吃饭的家人。",
+   "note": "两项研究都只是跟踪记录、没有分组对照。广州那项的终点是肝功能化验，不是肝癌和死亡。自榨油的毒素中位数其实低于国标对花生油的限量 20 μg/kg，风险来自长年吃和个别高的批次。国标限量对所有花生油都适用，但预包装油要过生产许可和出厂检验，小作坊按各省的管理办法管，抽检少得多。家里囤的花生、玉米、坚果发了霉怎么处理，见本节第 46 条（发了霉整包扔掉）。本条受益人主要是你和一起吃饭的家人。",
    "refs": [],
    "source_file": "02-不要慢慢死.md"
   },
   {
    "id": "2-41",
-   "seq": 84,
+   "seq": 89,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 41,
@@ -3073,7 +3353,7 @@
   },
   {
    "id": "2-42",
-   "seq": 85,
+   "seq": 90,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 42,
@@ -3106,7 +3386,7 @@
   },
   {
    "id": "2-43",
-   "seq": 86,
+   "seq": 91,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 43,
@@ -3142,7 +3422,7 @@
   },
   {
    "id": "2-44",
-   "seq": 87,
+   "seq": 92,
    "section": 2,
    "section_title": "不要慢慢死",
    "no": 44,
@@ -3188,8 +3468,146 @@
    "source_file": "02-不要慢慢死.md"
   },
   {
+   "id": "2-45",
+   "seq": 93,
+   "section": 2,
+   "section_title": "不要慢慢死",
+   "no": 45,
+   "title": "查出糖尿病前期（血糖偏高、还没到糖尿病），就靠少吃、减重、多动把糖尿病往后推，每半年复查一次血糖",
+   "cost_money": "0",
+   "cost_time": "多",
+   "cost_willpower": "是",
+   "benefit_level": "大",
+   "metric": "死亡率",
+   "cost_score": 4,
+   "ratio": "一般",
+   "evidence": "A",
+   "evidence_raw": "A",
+   "evidence_flags": [],
+   "disputed": true,
+   "todo": false,
+   "cost_text": "不花钱，少吃还能省一点。每周快走这类中等强度活动至少 150 分钟，摊到每天二十来分钟。每天比原来少吃 400 到 500 千卡。难在要一直坚持，体重减下来以后还要维持住。每半年抽一次血复查，空腹血糖十几元。",
+   "plain": "血糖偏高、还没到糖尿病的人，少吃、多动、减掉一点体重，得糖尿病的风险能低三到六成。中国大庆的试验跟了 30 年，这么做的人死亡的概率低约四分之一，平均多活约一年半。但美国和芬兰的同类试验没看出死亡率有差别。",
+   "benefit_text": "大庆研究是在黑龙江大庆做的随机分组试验，按诊所分组。577 名糖耐量受损的成年人分进对照组，或者三种干预组：只管饮食、只加运动、两样都做。干预做了 6 年。6 年里得糖尿病的累计比例，对照组是 67.7%。饮食组 43.8%，运动组 41.1%，饮食加运动组 46.0%。扣掉体重指数和空腹血糖的差别后，三组得糖尿病的风险分别低约 31%、46%、42%。偏瘦和超重的人（体重指数以 25 为界）降幅差不多。跟到 23 年，干预组心血管死亡低约 41%（HR 0.59，95% CI 0.36–0.96，可信范围）。总死亡低约 29%（HR 0.71，0.51–0.99）。得糖尿病的低约 45%（HR 0.55，0.40–0.76）。跟到 30 年，干预组得糖尿病的时间中位推迟 3.96 年。心血管事件低约 26%（HR 0.74，0.59–0.92）。眼底、肾、神经的严重小血管并发症低约 35%（HR 0.65，0.45–0.95）。心血管死亡低约 33%（HR 0.67，0.48–0.94）。总死亡低约 26%（HR 0.74，0.61–0.89）。平均多活 1.44 年（0.20–2.68）。美国 DPP 试验把 3234 名血糖偏高的人随机分组。生活方式组的目标是体重至少减 7%，每周活动至少 150 分钟。平均跟了 2.8 年，生活方式组得糖尿病的风险比安慰剂组低 58%（95% CI 48%–66%）。吃二甲双胍的组低 31%（17%–43%），比改生活方式差。跟到平均 15 年，生活方式组仍低 27%（HR 0.73，0.65–0.83），但差距逐年缩小。跟到中位 21 年，生活方式组的总死亡率和安慰剂组没有差别（HR 1.02，0.81–1.28）。心血管死亡也没有差别（HR 1.18，0.77–1.81）。芬兰 DPS 试验随机分了 522 名超重的糖耐量受损者。4 年累计得糖尿病的，干预组 11%，对照组 23%。试验期间风险低 58%。停掉一对一辅导后接着跟，到中位 7 年时仍低 43%。平均跟到 10.6 年，总死亡没有明显差别（HR 0.57，0.21–1.58）。心血管病也没有（HR 1.04，0.72–1.51）。健康中国行动给的界线是：空腹血糖 6.1 到 7.0 mmol/L（不含 7.0）就算糖尿病前期。喝糖水后 2 小时血糖 7.8 到 11.1 mmol/L（不含 11.1）也算。它建议超重或肥胖的人把体重指数降到或接近 24，或者体重至少减 7%。每天饮食总热量至少少 400 到 500 千卡，中等强度活动每周至少 150 分钟。每半年查一次空腹血糖或餐后 2 小时血糖。",
+   "source_text": "Pan XR, Li GW, Hu YH, 等 (1997). Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance. The Da Qing IGT and Diabetes Study. Diabetes Care, 20(4), 537-544. <https://doi.org/10.2337/diacare.20.4.537>；Li G, Zhang P, Wang J, 等 (2014). Cardiovascular mortality, all-cause mortality, and diabetes incidence after lifestyle intervention for people with impaired glucose tolerance in the Da Qing Diabetes Prevention Study: a 23-year follow-up study. Lancet Diabetes & Endocrinology, 2(6), 474-480. <https://doi.org/10.1016/S2213-8587(14)70057-9>；Gong Q, Zhang P, Wang J, 等 (2019). Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study. Lancet Diabetes & Endocrinology, 7(6), 452-461. <https://doi.org/10.1016/S2213-8587(19)30093-2>；Knowler WC, Barrett-Connor E, Fowler SE, 等 (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. NEJM, 346(6), 393-403. <https://doi.org/10.1056/NEJMoa012512>；Diabetes Prevention Program Research Group (2015). Long-term effects of lifestyle intervention or metformin on diabetes development and microvascular complications over 15-year follow-up: the Diabetes Prevention Program Outcomes Study. Lancet Diabetes & Endocrinology, 3(11), 866-875. <https://doi.org/10.1016/S2213-8587(15)00291-0>；Lee CG, Heckman-Stoddard B, Dabelea D, 等 (2021). Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. Diabetes Care, 44(12), 2775-2782. <https://doi.org/10.2337/dc21-1046>（争议方）；Tuomilehto J, Lindström J, Eriksson JG, 等 (2001). Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. NEJM, 344(18), 1343-1350. <https://doi.org/10.1056/NEJM200105033441801>；Lindström J, Ilanne-Parikka P, Peltonen M, 等 (2006). Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow-up of the Finnish Diabetes Prevention Study. Lancet, 368(9548), 1673-1679. <https://doi.org/10.1016/S0140-6736(06)69701-8>；Uusitupa M, Peltonen M, Lindström J, 等 (2009). Ten-year mortality and cardiovascular morbidity in the Finnish Diabetes Prevention Study—secondary analysis of the randomized trial. PLoS ONE, 4(5), e5656. <https://doi.org/10.1371/journal.pone.0005656>（争议方）；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十四）糖尿病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>",
+   "sources": [
+    "https://doi.org/10.2337/diacare.20.4.537",
+    "https://doi.org/10.1016/S2213-8587",
+    "https://doi.org/10.1016/S2213-8587",
+    "https://doi.org/10.1056/NEJMoa012512",
+    "https://doi.org/10.1016/S2213-8587",
+    "https://doi.org/10.2337/dc21-1046",
+    "https://doi.org/10.1056/NEJM200105033441801",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.1371/journal.pone.0005656",
+    "https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html"
+   ],
+   "link_count": 10,
+   "note": "争议。三项试验都看到得糖尿病的人少了、得的时间晚了。但能不能少死，只有大庆试验看到了。大庆只有 577 人，作者自己也说人数少，因为试验本来是为看糖尿病设计的。美国 DPP 试验结束后，每个人都被请去上了改过的生活方式课，安慰剂组也不例外。芬兰试验的作者写明，人数可能不够，看不出小的差别。所以推迟糖尿病是确定的，延寿还没有定论。美国和芬兰试验里的人平均体重指数在 30 以上。大庆的人平均只有 25.7，只劝体重指数超过 25 的人减重，体重也没减多少，作者认为主要靠改吃法和多动。所以不胖的人也照样要改吃法、多动。先停掉甜饮料，见本节第 7 条（不喝含糖饮料）。运动量够不够，对照本节第 11 条（每天走到 7000–8000 步）。体重减到哪儿，对照本节第 32 条（把 BMI 控制在 20–25）。怎么查出来，见第 1 节第 8 条（查一次空腹血糖）。二甲双胍也能少得糖尿病，但效果不如改生活方式，要不要吃由医生定。收益量级按大庆总死亡率低约 26% 定为大，但美国和芬兰的试验没有重复出来。本条受益人主要是你自己。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 8
+    }
+   ],
+   "source_file": "02-不要慢慢死.md"
+  },
+  {
+   "id": "2-46",
+   "seq": 94,
+   "section": 2,
+   "section_title": "不要慢慢死",
+   "no": 46,
+   "title": "家里的花生、玉米、坚果和米面发了霉，整包扔掉，别挑掉霉的吃剩下的；嚼到发苦的坚果马上吐掉",
+   "cost_money": "0",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "中",
+   "metric": "死亡率",
+   "cost_score": 1,
+   "ratio": "一般",
+   "evidence": "B",
+   "evidence_raw": "B",
+   "evidence_flags": [],
+   "disputed": false,
+   "todo": false,
+   "cost_text": "扔掉一包花生、坚果或一袋米面，几块到几十块钱。平时把粮食和坚果放在干燥、通风、阴凉的地方，买小包装，少囤货。难在舍不得扔，尤其是说服家里的长辈。",
+   "plain": "花生、玉米、坚果发霉会长黄曲霉毒素，它能让人得肝癌。上海一项研究里，尿里查出这种毒素的人，得肝癌的风险约是查不出的 3.4 倍。带乙肝病毒又查出毒素的人，约是两样都没有的 59.4 倍。这种毒素炒、煮、油炸都很难去掉。",
+   "benefit_text": "黄曲霉毒素是国际癌症研究机构定的 1 类致癌物（确定能让人得癌），致的是肝癌。它在花生和玉米里最常见，炒、煮、油炸这类一般烹调都很难破坏它。上海一项研究从 1986 年起跟踪 18244 名中年男性，入组时各留一次尿。跟踪约 7 万人年，查出 55 例肝癌。拿其中 50 例和同一批人里 267 名没得病的人比。尿里查出黄曲霉毒素的，肝癌风险约为 3.4 倍（RR 3.4，95% CI 1.1–10.0，可信范围）。乙肝表面抗原阳性的约为 7.3 倍（2.2–24.4）。两样都有的约为 59.4 倍（16.6–212.0），比的是两样都没有的人。同一批人早期的分析里，扣掉乙肝、吸烟、喝酒和文化程度，查出毒素的约为 3.8 倍（1.2–12.2）。江苏启东过去是肝癌高发区，1980 年代起当地主粮从玉米换成了大米。居民血里的毒素标志物中位数从 1989 年的 19.3 pg/mg 降到 2009 年查不出（低于 0.5）。35 岁以下居民的肝癌死亡率，1960 年代到 1980 年代出生的几批人降了一半以上。这几批人都出生在新生儿普遍打乙肝疫苗之前。作者估算，肝癌死亡的下降里约 65% 可以归到少吃了毒素，其中 83% 落在乙肝感染者身上。按全球的估算，乙肝携带者吃进同样多的毒素，致癌能力约为不带病毒的人的 30 倍。中国每年有一批肝癌可以归到这种毒素。其中约 5300 到 14400 例出在乙肝携带者身上，约 1990 到 4430 例出在不带病毒的人身上。",
+   "source_text": "IARC (2012). Aflatoxins. In: Chemical Agents and Related Occupations. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol 100F, 225-248. <https://publications.iarc.fr/123>；Qian GS, Ross RK, Yu MC, 等 (1994). A follow-up study of urinary markers of aflatoxin exposure and liver cancer risk in Shanghai, People's Republic of China. Cancer Epidemiology, Biomarkers & Prevention, 3(1), 3-10. <https://pubmed.ncbi.nlm.nih.gov/8118382/>；Ross RK, Yuan JM, Yu MC, 等 (1992). Urinary aflatoxin biomarkers and risk of hepatocellular carcinoma. Lancet, 339(8799), 943-946. <https://doi.org/10.1016/0140-6736(92)91528-G>；Chen JG, Egner PA, Ng D, 等 (2013). Reduced aflatoxin exposure presages decline in liver cancer mortality in an endemic region of China. Cancer Prevention Research, 6(10), 1038-1045. <https://doi.org/10.1158/1940-6207.CAPR-13-0168>；Liu Y, Wu F (2010). Global burden of aflatoxin-induced hepatocellular carcinoma: a risk assessment. Environmental Health Perspectives, 118(6), 818-824. <https://doi.org/10.1289/ehp.0901388>；农业农村部油料产品质量安全风险评估实验室（武汉）(2020). 农产品及食品中黄曲霉毒素污染识别与预防. 农业农村部农产品质量安全监管司科普天地. <https://jgs.moa.gov.cn/kptd/202011/t20201110_6356097.htm>；广东省卫生健康委员会 (2015). 勿吃霉变食物 谨防黄曲霉素中毒. <https://wsjkw.gd.gov.cn/gkmlpt/content/2/2129/post_2129622.html>；USDA Food Safety and Inspection Service. Molds on Food: Are They Dangerous? <https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous>",
+   "sources": [
+    "https://publications.iarc.fr/123",
+    "https://pubmed.ncbi.nlm.nih.gov/8118382/",
+    "https://doi.org/10.1016/0140-6736",
+    "https://doi.org/10.1158/1940-6207.CAPR-13-0168",
+    "https://doi.org/10.1289/ehp.0901388",
+    "https://jgs.moa.gov.cn/kptd/202011/t20201110_6356097.htm",
+    "https://wsjkw.gd.gov.cn/gkmlpt/content/2/2129/post_2129622.html",
+    "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous"
+   ],
+   "link_count": 8,
+   "note": "收益栏的数字算的是「吃进多少毒素」和肝癌的关系，没有研究直接测过「家里扔掉发霉的东西」能少多少肝癌。上海那项只在入组时验过一次尿。按饮食问卷估算的吃进量和肝癌看不出关联，说明问卷估不准，要靠化验。启东居民的毒素标志物到 2009 年已经查不出。眼下多数家庭吃进的量很可能远低于当年，这是判断，没有全国数字。所以收益量级没按 3.4 倍机械定为大，凭判断定为中。为什么整包扔：广东省卫健委提醒，坚果花生打开一闻有变味就整袋扔掉，免得抖开后霉菌孢子飞散。有霉味的食物要坚决丢弃。美国农业部的食品安全指南写明，花生酱、豆类和坚果发了霉一律扔掉，煮好的米饭面条、面包也是。只有卷心菜、胡萝卜这类水分少的硬蔬菜，可以切掉霉点周围至少 2.5 厘米再吃。农业农村部提醒，霉变的花生吃进嘴里会有苦味和异味，误吃了要马上吐出来并漱口。乙肝携带者的风险叠加最明显，没查过乙肝的见第 1 节第 14 条（查乙肝两对半）。买油的事见本节第 40 条（不买小作坊散装自榨花生油），本条管家里囤的粮食和坚果。泡发木耳、酵米面那类急性中毒是另一种毒素，见第 1 节第 48 条（家里不自制酵米面）。没发霉的坚果照样值得吃，见本节第 22 条（每天吃一小把坚果）。本条受益人主要是你和一起吃饭的家人。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 14
+    },
+    {
+     "section": 1,
+     "no": 48
+    }
+   ],
+   "source_file": "02-不要慢慢死.md"
+  },
+  {
+   "id": "2-47",
+   "seq": 95,
+   "section": 2,
+   "section_title": "不要慢慢死",
+   "no": 47,
+   "title": "别吃淡水鱼虾做的鱼生、生鱼片、鱼生粥和醉虾，常吃过的去医院查一次肝吸虫，查出来按医嘱吃吡喹酮",
+   "cost_money": "少",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "中",
+   "metric": "死亡率",
+   "cost_score": 2,
+   "ratio": "一般",
+   "evidence": "B",
+   "evidence_raw": "B",
+   "evidence_flags": [],
+   "disputed": false,
+   "todo": false,
+   "cost_text": "不吃鱼生不花钱，难在改掉多年的口味，聚餐时还得推掉。常吃过的去医院验一次大便查虫卵，费用各地不同。查出来按医生开的剂量吃吡喹酮，一般吃 1 到 2 天。",
+   "plain": "生吃淡水鱼虾会染上肝吸虫。它是确定能致癌的寄生虫，染上的人得胆管癌的机会约是没染上的四到五倍。醋、酒、芥末都杀不死它。染上了吃两天药，九成以上能治好。",
+   "benefit_text": "华支睾吸虫俗称肝吸虫。世界卫生组织下属的国际癌症研究机构 2009 年开会评定，长期感染它对人致癌。它会导致胆管癌，列为 1 类。1994 年那次评定只给了 2A 类（很可能致癌）。把已发表的研究合起来算，感染肝吸虫的人得胆管癌的风险约为 4.8 倍。原文是相对风险 4.8（95% CI 2.8–8.4，可信范围）。这个数把东南亚的另一种肝吸虫也算在内。同一篇里，乙肝是 2.6 倍，丙肝是 1.8 倍，肝吸虫是最强的一项。另一篇汇总了 36 项研究。病例对照研究里，胆管癌约为 4.37 倍（OR 4.37，2.84–6.72）。跟踪研究里约为 10.43 倍（RR 10.43，2.90–37.47）。胆管炎、胆囊炎约为 7.80 倍（RR 7.80）。胆结石约为 2.42 倍（RR 2.42）。肝细胞癌约为 4.69 倍（OR 4.69）。肝硬化没看出显著关联。感染越重，这些病越多。2014 到 2015 年全国调查，感染率 0.47%，约 600 万人。感染率超过 1% 的是广东、广西、黑龙江、吉林四省。用 2016 到 2021 年的监测数据推算，2020 年全国约 0.67%，约 946 万人。其中广西约 8.92%，广东约 2.99%。国家疾控局等 15 个部门 2024 年出了防治方案。方案以 2018 到 2022 年监测点平均感染率为基线。广西 8.75%，吉林 4.38%，黑龙江 3.16%，广东 2.95%。国家食品安全风险评估中心 2026 年提示：酒、醋、芥末等调味料无法有效杀灭肝吸虫。冷冻要在零下 20℃ 以下连续冻至少 7 天。加热要让食物中心到 70℃ 以上，持续 10 分钟以上。国际癌症研究机构也写明，腌过、熏过的淡水鱼一样会传染。治疗看 2022 年一篇汇总，共 26 项试验、3340 人。世界卫生组织推荐的吡喹酮用法是按体重每次 25 毫克每公斤，一天 3 次，吃 2 天。对华支睾吸虫的预测治愈率 98.5%（85.4%–99.9%）。",
+   "source_text": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans (2012). Opisthorchis viverrini and Clonorchis sinensis. In: Biological Agents. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol. 100B, 341-370. <https://publications.iarc.who.int/119>；Shin HR, Oh JK, Masuyer E, 等 (2010). Epidemiology of cholangiocarcinoma: an update focusing on risk factors. Cancer Science, 101(3), 579-585. <https://doi.org/10.1111/j.1349-7006.2009.01458.x>；Xia J, Jiang SC, Peng HJ (2015). Association between liver fluke infection and hepatobiliary pathological changes: a systematic review and meta-analysis. PLoS ONE, 10(7), e0132673. <https://doi.org/10.1371/journal.pone.0132673>；Qian MB, Chen J, Bergquist R, 等 (2019). Neglected tropical diseases in the People's Republic of China: progress towards elimination. Infectious Diseases of Poverty, 8, 86. <https://doi.org/10.1186/s40249-019-0599-4>；Qian MB, Huang JL, Wang L, 等 (2025). Clonorchiasis in China: geospatial modeling of the population infected and at risk, based on national surveillance. Journal of Infection, 91(1), 106528. <https://doi.org/10.1016/j.jinf.2025.106528>；国家疾控局等 15 部门 (2024). 关于印发全国包虫病等重点寄生虫病综合防治实施方案（2024—2030 年）的通知，附表 7. <https://www.gov.cn/zhengce/zhengceku/202405/content_6950309.htm>；国家食品安全风险评估中心 (2026). 关于慎食淡水生鲜食品预防肝吸虫病的风险提示（重庆市疾病预防控制中心转载）. <https://www.cqcdc.org/index.php?a=shows&catid=179&id=3861>；Qian MB, Patel C, Palmeirim MS, 等 (2022). Efficacy of drugs against clonorchiasis and opisthorchiasis: a systematic review and network meta-analysis. The Lancet Microbe, 3(8), e616-e624. <https://doi.org/10.1016/S2666-5247(22)00026-X>；中国疾病预防控制中心寄生虫病预防控制所 (2020). 华支睾吸虫病（肝吸虫病）防治知识（广东省疾病预防控制中心转载）. <https://cdcp.gd.gov.cn/jkjy/jkzt/jscbfz/content/post_3439516.html>；广东省疾病预防控制中心 (2023). 吃鱼生没余生？警惕潜伏在鱼生中的“凶手”肝吸虫！ <https://cdcp.gd.gov.cn/jkjy/jkts/content/post_4274108.html>；香港食物安全中心. 淡水鱼刺身的食物安全. <https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_148_01.html>",
+   "sources": [
+    "https://publications.iarc.who.int/119",
+    "https://doi.org/10.1111/j.1349-7006.2009.01458.x",
+    "https://doi.org/10.1371/journal.pone.0132673",
+    "https://doi.org/10.1186/s40249-019-0599-4",
+    "https://doi.org/10.1016/j.jinf.2025.106528",
+    "https://www.gov.cn/zhengce/zhengceku/202405/content_6950309.htm",
+    "https://www.cqcdc.org/index.php?a=shows&catid=179&id=3861",
+    "https://doi.org/10.1016/S2666-5247",
+    "https://cdcp.gd.gov.cn/jkjy/jkzt/jscbfz/content/post_3439516.html",
+    "https://cdcp.gd.gov.cn/jkjy/jkts/content/post_4274108.html",
+    "https://www.cfs.gov.hk/sc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_148_01.html"
+   ],
+   "link_count": 11,
+   "note": "上面的风险数字都来自病例对照和跟踪记录，没有分组对照。也没有研究直接比较过「查了再治」能不能少得胆管癌。胆管癌本来少见，所以倍数虽高，落到每个人头上多出的风险不大。证据等级因此给 B。约 4.8 倍比的是染上和没染上的人，不是这条做法能少多少病，所以收益量级凭判断定为中，和本节第 46 条（发了霉整包扔掉）的定法一样。广东疾控说，肝吸虫在人体里能活 20 到 30 年。轻的常常没有症状，所以常吃鱼生的人别等不舒服才查。验大便找虫卵是确诊办法，B 超、CT、抽血只能辅助。吡喹酮要由医生按体重和感染轻重定剂量。寄生虫病所写明，在有囊虫病的地方用大剂量之前要先问清病史。治好了接着吃鱼生，还会再染上。切生鱼的刀和砧板要和熟食分开。海鱼刺身里常见的是异尖线虫这类别的寄生虫，香港食物安全中心建议买持牌店的，老人、孩子、孕妇别吃生鱼。孩子染上会影响长身体。乙肝、丙肝同样会伤肝致癌，见第 1 节第 14 条（查乙肝两对半）和第 1 节第 45 条（查一次丙肝抗体）。本条受益人主要是你自己和一起吃饭的家人。",
+   "refs": [
+    {
+     "section": 1,
+     "no": 14
+    }
+   ],
+   "source_file": "02-不要慢慢死.md"
+  },
+  {
    "id": "3-1",
-   "seq": 88,
+   "seq": 96,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 1,
@@ -3221,7 +3639,7 @@
   },
   {
    "id": "3-2",
-   "seq": 89,
+   "seq": 97,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 2,
@@ -3257,7 +3675,7 @@
   },
   {
    "id": "3-3",
-   "seq": 90,
+   "seq": 98,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 3,
@@ -3294,7 +3712,7 @@
   },
   {
    "id": "3-4",
-   "seq": 91,
+   "seq": 99,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 4,
@@ -3331,7 +3749,7 @@
   },
   {
    "id": "3-5",
-   "seq": 92,
+   "seq": 100,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 5,
@@ -3362,7 +3780,7 @@
   },
   {
    "id": "3-6",
-   "seq": 93,
+   "seq": 101,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 6,
@@ -3395,7 +3813,7 @@
   },
   {
    "id": "3-7",
-   "seq": 94,
+   "seq": 102,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 7,
@@ -3427,7 +3845,7 @@
   },
   {
    "id": "3-8",
-   "seq": 95,
+   "seq": 103,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 8,
@@ -3458,7 +3876,7 @@
   },
   {
    "id": "3-9",
-   "seq": 96,
+   "seq": 104,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 9,
@@ -3493,7 +3911,7 @@
   },
   {
    "id": "3-10",
-   "seq": 97,
+   "seq": 105,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 10,
@@ -3524,7 +3942,7 @@
   },
   {
    "id": "3-11",
-   "seq": 98,
+   "seq": 106,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 11,
@@ -3560,7 +3978,7 @@
   },
   {
    "id": "3-12",
-   "seq": 99,
+   "seq": 107,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 12,
@@ -3591,7 +4009,7 @@
   },
   {
    "id": "3-13",
-   "seq": 100,
+   "seq": 108,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 13,
@@ -3622,7 +4040,7 @@
   },
   {
    "id": "3-14",
-   "seq": 101,
+   "seq": 109,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 14,
@@ -3653,7 +4071,7 @@
   },
   {
    "id": "3-15",
-   "seq": 102,
+   "seq": 110,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 15,
@@ -3684,7 +4102,7 @@
   },
   {
    "id": "3-16",
-   "seq": 103,
+   "seq": 111,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 16,
@@ -3715,7 +4133,7 @@
   },
   {
    "id": "3-17",
-   "seq": 104,
+   "seq": 112,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 17,
@@ -3747,7 +4165,7 @@
   },
   {
    "id": "3-18",
-   "seq": 105,
+   "seq": 113,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 18,
@@ -3790,7 +4208,7 @@
   },
   {
    "id": "3-19",
-   "seq": 106,
+   "seq": 114,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 19,
@@ -3831,7 +4249,7 @@
   },
   {
    "id": "3-20",
-   "seq": 107,
+   "seq": 115,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 20,
@@ -3874,7 +4292,7 @@
   },
   {
    "id": "3-21",
-   "seq": 108,
+   "seq": 116,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 21,
@@ -3906,7 +4324,7 @@
   },
   {
    "id": "3-22",
-   "seq": 109,
+   "seq": 117,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 22,
@@ -3950,7 +4368,7 @@
   },
   {
    "id": "3-23",
-   "seq": 110,
+   "seq": 118,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 23,
@@ -3994,7 +4412,7 @@
   },
   {
    "id": "3-24",
-   "seq": 111,
+   "seq": 119,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 24,
@@ -4032,7 +4450,7 @@
   },
   {
    "id": "3-25",
-   "seq": 112,
+   "seq": 120,
    "section": 3,
    "section_title": "不要浪费精力",
    "no": 25,
@@ -4080,7 +4498,7 @@
   },
   {
    "id": "4-1",
-   "seq": 113,
+   "seq": 121,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 1,
@@ -4111,7 +4529,7 @@
   },
   {
    "id": "4-2",
-   "seq": 114,
+   "seq": 122,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 2,
@@ -4147,7 +4565,7 @@
   },
   {
    "id": "4-3",
-   "seq": 115,
+   "seq": 123,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 3,
@@ -4179,7 +4597,7 @@
   },
   {
    "id": "4-4",
-   "seq": 116,
+   "seq": 124,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 4,
@@ -4212,7 +4630,7 @@
   },
   {
    "id": "4-5",
-   "seq": 117,
+   "seq": 125,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 5,
@@ -4244,7 +4662,7 @@
   },
   {
    "id": "4-6",
-   "seq": 118,
+   "seq": 126,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 6,
@@ -4276,7 +4694,7 @@
   },
   {
    "id": "4-7",
-   "seq": 119,
+   "seq": 127,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 7,
@@ -4308,7 +4726,7 @@
   },
   {
    "id": "4-8",
-   "seq": 120,
+   "seq": 128,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 8,
@@ -4339,7 +4757,7 @@
   },
   {
    "id": "4-9",
-   "seq": 121,
+   "seq": 129,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 9,
@@ -4370,7 +4788,7 @@
   },
   {
    "id": "4-10",
-   "seq": 122,
+   "seq": 130,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 10,
@@ -4406,7 +4824,7 @@
   },
   {
    "id": "4-11",
-   "seq": 123,
+   "seq": 131,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 11,
@@ -4442,7 +4860,7 @@
   },
   {
    "id": "4-12",
-   "seq": 124,
+   "seq": 132,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 12,
@@ -4473,7 +4891,7 @@
   },
   {
    "id": "4-13",
-   "seq": 125,
+   "seq": 133,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 13,
@@ -4504,7 +4922,7 @@
   },
   {
    "id": "4-14",
-   "seq": 126,
+   "seq": 134,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 14,
@@ -4536,7 +4954,7 @@
   },
   {
    "id": "4-15",
-   "seq": 127,
+   "seq": 135,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 15,
@@ -4574,7 +4992,7 @@
   },
   {
    "id": "4-16",
-   "seq": 128,
+   "seq": 136,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 16,
@@ -4606,7 +5024,7 @@
   },
   {
    "id": "4-17",
-   "seq": 129,
+   "seq": 137,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 17,
@@ -4637,7 +5055,7 @@
   },
   {
    "id": "4-18",
-   "seq": 130,
+   "seq": 138,
    "section": 4,
    "section_title": "不要浪费时间",
    "no": 18,
@@ -4670,7 +5088,7 @@
   },
   {
    "id": "5-1",
-   "seq": 131,
+   "seq": 139,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 1,
@@ -4701,7 +5119,7 @@
   },
   {
    "id": "5-2",
-   "seq": 132,
+   "seq": 140,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 2,
@@ -4733,7 +5151,7 @@
   },
   {
    "id": "5-3",
-   "seq": 133,
+   "seq": 141,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 3,
@@ -4764,7 +5182,7 @@
   },
   {
    "id": "5-4",
-   "seq": 134,
+   "seq": 142,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 4,
@@ -4795,7 +5213,7 @@
   },
   {
    "id": "5-5",
-   "seq": 135,
+   "seq": 143,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 5,
@@ -4828,7 +5246,7 @@
   },
   {
    "id": "5-6",
-   "seq": 136,
+   "seq": 144,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 6,
@@ -4862,7 +5280,7 @@
   },
   {
    "id": "5-7",
-   "seq": 137,
+   "seq": 145,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 7,
@@ -4902,7 +5320,7 @@
   },
   {
    "id": "5-8",
-   "seq": 138,
+   "seq": 146,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 8,
@@ -4935,7 +5353,7 @@
   },
   {
    "id": "5-9",
-   "seq": 139,
+   "seq": 147,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 9,
@@ -4966,7 +5384,7 @@
   },
   {
    "id": "5-10",
-   "seq": 140,
+   "seq": 148,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 10,
@@ -5002,7 +5420,7 @@
   },
   {
    "id": "5-11",
-   "seq": 141,
+   "seq": 149,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 11,
@@ -5034,7 +5452,7 @@
   },
   {
    "id": "5-12",
-   "seq": 142,
+   "seq": 150,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 12,
@@ -5070,7 +5488,7 @@
   },
   {
    "id": "5-13",
-   "seq": 143,
+   "seq": 151,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 13,
@@ -5101,7 +5519,7 @@
   },
   {
    "id": "5-14",
-   "seq": 144,
+   "seq": 152,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 14,
@@ -5141,7 +5559,7 @@
   },
   {
    "id": "5-15",
-   "seq": 145,
+   "seq": 153,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 15,
@@ -5174,7 +5592,7 @@
   },
   {
    "id": "5-16",
-   "seq": 146,
+   "seq": 154,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 16,
@@ -5206,7 +5624,7 @@
   },
   {
    "id": "5-17",
-   "seq": 147,
+   "seq": 155,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 17,
@@ -5241,7 +5659,7 @@
   },
   {
    "id": "5-18",
-   "seq": 148,
+   "seq": 156,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 18,
@@ -5279,7 +5697,7 @@
   },
   {
    "id": "5-19",
-   "seq": 149,
+   "seq": 157,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 19,
@@ -5310,7 +5728,7 @@
   },
   {
    "id": "5-20",
-   "seq": 150,
+   "seq": 158,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 20,
@@ -5352,7 +5770,7 @@
   },
   {
    "id": "5-21",
-   "seq": 151,
+   "seq": 159,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 21,
@@ -5383,7 +5801,7 @@
   },
   {
    "id": "5-22",
-   "seq": 152,
+   "seq": 160,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 22,
@@ -5414,7 +5832,7 @@
   },
   {
    "id": "5-23",
-   "seq": 153,
+   "seq": 161,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 23,
@@ -5445,7 +5863,7 @@
   },
   {
    "id": "5-24",
-   "seq": 154,
+   "seq": 162,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 24,
@@ -5477,7 +5895,7 @@
   },
   {
    "id": "5-25",
-   "seq": 155,
+   "seq": 163,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 25,
@@ -5508,7 +5926,7 @@
   },
   {
    "id": "5-26",
-   "seq": 156,
+   "seq": 164,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 26,
@@ -5540,7 +5958,7 @@
   },
   {
    "id": "5-27",
-   "seq": 157,
+   "seq": 165,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 27,
@@ -5571,7 +5989,7 @@
   },
   {
    "id": "5-28",
-   "seq": 158,
+   "seq": 166,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 28,
@@ -5607,7 +6025,7 @@
   },
   {
    "id": "5-29",
-   "seq": 159,
+   "seq": 167,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 29,
@@ -5648,7 +6066,7 @@
   },
   {
    "id": "5-30",
-   "seq": 160,
+   "seq": 168,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 30,
@@ -5679,7 +6097,7 @@
   },
   {
    "id": "5-31",
-   "seq": 161,
+   "seq": 169,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 31,
@@ -5716,7 +6134,7 @@
   },
   {
    "id": "5-32",
-   "seq": 162,
+   "seq": 170,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 32,
@@ -5749,7 +6167,7 @@
   },
   {
    "id": "5-33",
-   "seq": 163,
+   "seq": 171,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 33,
@@ -5782,7 +6200,7 @@
   },
   {
    "id": "5-34",
-   "seq": 164,
+   "seq": 172,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 34,
@@ -5815,7 +6233,7 @@
   },
   {
    "id": "5-35",
-   "seq": 165,
+   "seq": 173,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 35,
@@ -5855,7 +6273,7 @@
   },
   {
    "id": "5-36",
-   "seq": 166,
+   "seq": 174,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 36,
@@ -5893,7 +6311,7 @@
   },
   {
    "id": "5-37",
-   "seq": 167,
+   "seq": 175,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 37,
@@ -5929,7 +6347,7 @@
   },
   {
    "id": "5-38",
-   "seq": 168,
+   "seq": 176,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 38,
@@ -5968,7 +6386,7 @@
   },
   {
    "id": "5-39",
-   "seq": 169,
+   "seq": 177,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 39,
@@ -6012,7 +6430,7 @@
   },
   {
    "id": "5-40",
-   "seq": 170,
+   "seq": 178,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 40,
@@ -6049,7 +6467,7 @@
   },
   {
    "id": "5-41",
-   "seq": 171,
+   "seq": 179,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 41,
@@ -6085,7 +6503,7 @@
   },
   {
    "id": "5-42",
-   "seq": 172,
+   "seq": 180,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 42,
@@ -6116,7 +6534,7 @@
   },
   {
    "id": "5-43",
-   "seq": 173,
+   "seq": 181,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 43,
@@ -6149,7 +6567,7 @@
   },
   {
    "id": "5-44",
-   "seq": 174,
+   "seq": 182,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 44,
@@ -6191,7 +6609,7 @@
   },
   {
    "id": "5-45",
-   "seq": 175,
+   "seq": 183,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 45,
@@ -6239,7 +6657,7 @@
   },
   {
    "id": "5-46",
-   "seq": 176,
+   "seq": 184,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 46,
@@ -6290,7 +6708,7 @@
   },
   {
    "id": "5-47",
-   "seq": 177,
+   "seq": 185,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 47,
@@ -6321,7 +6739,7 @@
   },
   {
    "id": "5-48",
-   "seq": 178,
+   "seq": 186,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 48,
@@ -6357,7 +6775,7 @@
   },
   {
    "id": "5-49",
-   "seq": 179,
+   "seq": 187,
    "section": 5,
    "section_title": "不要浪费钱",
    "no": 49,
@@ -6395,7 +6813,7 @@
   },
   {
    "id": "6-1",
-   "seq": 180,
+   "seq": 188,
    "section": 6,
    "section_title": "反面清单",
    "no": 1,
@@ -6428,7 +6846,7 @@
   },
   {
    "id": "6-2",
-   "seq": 181,
+   "seq": 189,
    "section": 6,
    "section_title": "反面清单",
    "no": 2,
@@ -6461,7 +6879,7 @@
   },
   {
    "id": "6-3",
-   "seq": 182,
+   "seq": 190,
    "section": 6,
    "section_title": "反面清单",
    "no": 3,
@@ -6479,21 +6897,33 @@
    "disputed": true,
    "todo": false,
    "cost_text": "一天约 0.2 到 0.5 元，一年 100 到 200 元。钱不算多，真正的代价是以为自己已经做了预防。",
-   "plain": "本来就不缺维 D 的人补上 5 年，得癌症、得心血管病和死亡的人数，都和不补的人一样。查出来确实缺的人、有骨质疏松的人、长期晒不到太阳的人不在这条里面，他们按医生说的补。",
-   "benefit_text": "VITAL 试验找了 25,871 人，每天吃 2000 IU，跟踪了 5.3 年（中位数）。癌症、心脏血管的毛病和死亡都没看出差别。会扩散的那类癌 HR 0.96（HR 是风险比，1 就是两边一个样；95% CI 0.88–1.06 是可信范围）。主要心血管事件 HR 0.97（0.85–1.12）。全因死亡 HR 0.99（0.87–1.12）。D-Health 试验找了 21,315 名 60 岁以上的澳大利亚人。他们每月吃 60,000 IU，跟踪 5 年。这一项也没看出差别，全因死亡 HR 1.04（0.93–1.18）。死亡的比例是 5.3% 对 5.1%。它看起来划算，是因为有些研究只跟踪记录、不做任何干预，发现维 D 水平低的人死得多，这被误读成了「补上就管用」",
-   "source_text": "Manson JE et al. (2019). Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. NEJM. <https://doi.org/10.1056/NEJMoa1809944>；Neale RE et al. (2022). The D-Health Trial: a randomised controlled trial of the effect of vitamin D on mortality. Lancet Diabetes Endocrinol. <https://doi.org/10.1016/S2213-8587(21)00345-4>",
+   "plain": "本来就不缺维 D 的人补上 5 年，得癌症、得心血管病和死亡的人数，都和不补的人一样。很少出门、晒不到太阳的成人，可以每天补 400 IU，一天别超过 2000 IU，吃得更多骨头反而变差、摔跤更多。光觉得乏力不能算成缺维 D，累了几周说不清原因就去看医生。",
+   "benefit_text": "VITAL 试验找了 25,871 人，每天吃 2000 IU，跟踪了 5.3 年（中位数）。癌症、心脏血管的毛病和死亡都没看出差别。会扩散的那类癌 HR 0.96（HR 是风险比，1 就是两边一个样；95% CI 0.88–1.06 是可信范围）。主要心血管事件 HR 0.97（0.85–1.12）。全因死亡 HR 0.99（0.87–1.12）。D-Health 试验找了 21,315 名 60 岁以上的澳大利亚人。他们每月吃 60,000 IU，跟踪 5 年。这一项也没看出差别，全因死亡 HR 1.04（0.93–1.18）。死亡的比例是 5.3% 对 5.1%。它看起来划算，是因为有些研究只跟踪记录、不做任何干预，发现维 D 水平低的人死得多，这被误读成了「补上就管用」。很少出门的人另有一套建议。英国卫生部建议，很少出门、住养老院、出门时衣服遮住大部分皮肤的成人，全年每天补 10 微克维 D。NHS 写明 1 微克等于 40 IU，所以 10 微克就是 400 IU。我国卫生行业标准给 18 到 64 岁成人的推荐量是每天 10 微克，65 岁以上是 15 微克。同一份标准给的可耐受最高摄入量是每天 50 微克（2000 IU），因为吃多了会让血钙过高。NHS 给成人的上限宽一些，是 100 微克（4000 IU）。乏力的原因很多，NHS 列的有睡不够、压力和抑郁、缺铁性贫血、糖尿病、甲亢、睡眠呼吸暂停。它建议累了几周说不清原因、或者累到影响日常生活，就去看医生。补得更多也没有更好。VITAL 另外算了骨折，每天 2000 IU 的人和不补的人一样（HR 0.98，0.89–1.08）。VITAL 还看了抑郁，对象是其中 18353 名 50 岁以上、当时没有抑郁的人。补的人每 1000 人每年 12.9 例抑郁或复发，不补的人 13.3 例，没有差别（HR 0.97，0.87–1.09）。情绪评分也没有差别。作者写明，结果不支持成人靠补维 D 防抑郁。加拿大一项试验找了 311 名没有骨质疏松的 55 到 70 岁健康人，分三组每天吃 400、4000、10000 IU，吃了 3 年。剂量越大，手腕那根桡骨的骨密度掉得越多，三组分别降了 1.2%、2.4% 和 3.5%。骨头的抗压强度没看出差别。作者的结论是，这不支持大剂量补维 D 对骨头有好处。瑞士一项试验找了 200 名 70 岁以上、摔过跤的老人，每月吃 2.4 万 IU 或 6 万 IU，吃了一年。6 万 IU 那组腿脚功能没有变好，一年里摔过跤的人反而更多（66.9% 对 47.9%）。澳大利亚一项试验找了 2256 名 70 岁以上的女性，每年秋冬一次吃 50 万 IU。她们摔跤的次数高约 15%（RR 1.15，1.02–1.30），骨折高约 26%（RR 1.26，1.00–1.59）",
+   "source_text": "Manson JE et al. (2019). Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. NEJM. <https://doi.org/10.1056/NEJMoa1809944>；Neale RE et al. (2022). The D-Health Trial: a randomised controlled trial of the effect of vitamin D on mortality. Lancet Diabetes Endocrinol. <https://doi.org/10.1016/S2213-8587(21)00345-4>；NHS. Vitamin D. <https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/>；NHS. Tiredness and fatigue. <https://www.nhs.uk/symptoms/tiredness-and-fatigue/>；国家卫生健康委员会. WS/T 578.4—2018 中国居民膳食营养素参考摄入量 第4部分：脂溶性维生素，表1. <https://www.nhc.gov.cn/wjw/yingyang/201805/3dcd74635d8e40bcb5d834d3b2f66964/files/1739783549670_23371.pdf>；LeBoff MS et al. (2022). Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults. NEJM. <https://doi.org/10.1056/NEJMoa2202106>；Burt LA et al. (2019). Effect of High-Dose Vitamin D Supplementation on Volumetric Bone Density and Bone Strength: A Randomized Clinical Trial. JAMA. <https://doi.org/10.1001/jama.2019.11889>；Bischoff-Ferrari HA et al. (2016). Monthly High-Dose Vitamin D Treatment for the Prevention of Functional Decline: A Randomized Clinical Trial. JAMA Intern Med. <https://doi.org/10.1001/jamainternmed.2015.7148>；Sanders KM et al. (2010). Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial. JAMA. <https://doi.org/10.1001/jama.2010.594>；Munns CF et al. (2016). Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. J Clin Endocrinol Metab. <https://doi.org/10.1210/jc.2015-2175>；Mondal K et al. (2014). A Randomized controlled trial on safety and efficacy of single intramuscular versus staggered oral dose of 600 000IU Vitamin D in treatment of nutritional rickets. J Trop Pediatr. <https://doi.org/10.1093/tropej/fmt105>；Okereke OI et al. (2020). Effect of Long-term Vitamin D3 Supplementation vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial. JAMA. <https://doi.org/10.1001/jama.2020.10224>；Mikola T et al. (2023). The effect of vitamin D supplementation on depressive symptoms in adults: A systematic review and meta-analysis of randomized controlled trials. Crit Rev Food Sci Nutr. <https://doi.org/10.1080/10408398.2022.2096560>；Ghaemi S et al. (2024). The effect of vitamin D supplementation on depression: a systematic review and dose-response meta-analysis of randomized controlled trials. Psychol Med. <https://doi.org/10.1017/s0033291724001697>",
    "sources": [
     "https://doi.org/10.1056/NEJMoa1809944",
-    "https://doi.org/10.1016/S2213-8587"
+    "https://doi.org/10.1016/S2213-8587",
+    "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+    "https://www.nhs.uk/symptoms/tiredness-and-fatigue/",
+    "https://www.nhc.gov.cn/wjw/yingyang/201805/3dcd74635d8e40bcb5d834d3b2f66964/files/1739783549670_23371.pdf",
+    "https://doi.org/10.1056/NEJMoa2202106",
+    "https://doi.org/10.1001/jama.2019.11889",
+    "https://doi.org/10.1001/jamainternmed.2015.7148",
+    "https://doi.org/10.1001/jama.2010.594",
+    "https://doi.org/10.1210/jc.2015-2175",
+    "https://doi.org/10.1093/tropej/fmt105",
+    "https://doi.org/10.1001/jama.2020.10224",
+    "https://doi.org/10.1080/10408398.2022.2096560",
+    "https://doi.org/10.1017/s0033291724001697"
    ],
-   "link_count": 2,
-   "note": "争议：这两项试验都没有特意去招真正缺维生素 D 的人，所以结论只管「本来就不缺的人」。查出确实缺的人、有骨质疏松的人、长期晒不到太阳的人、婴幼儿，还是按医生说的补。这里只看了总死亡和癌症、心脏血管这几件事，别的没看",
+   "link_count": 14,
+   "note": "争议：VITAL 和 D-Health 都没有特意去招真正缺维生素 D 的人，所以结论只管「本来就不缺的人」。查出确实缺的人、有骨质疏松的人、婴幼儿，还是按医生说的补。严重缺乏也不是非打针不可。2016 年佝偻病全球共识推荐口服，因为口服比肌肉注射补得更快。一项试验找了 61 个得了佝偻病的孩子，一次打针 60 万 IU 和每周口服 6 万 IU、连吃 10 周，12 周后化验和拍片都没有差别。按医生开的量吃完要复查，还是补不上来，再让医生查是不是吸收出了问题。晒不到太阳的人每天补 400 IU，防的是缺乏。卫生行业标准写明，缺维 D 会得佝偻病、骨质软化症和骨质疏松症。这不说明它能防癌、防心脏病，也不说明它能治乏力。医生给你开了别的剂量的，照医生说的吃。已经有抑郁的人补了有没有用，说法不一。2023 年一篇合并 41 项试验的分析看到抑郁评分有小幅下降，但各项研究结果差得很远，作者给的证据质量是最低一档。2024 年一篇按时长拆开看，跟到一年以上的试验就看不出效果了。有抑郁先去精神科或心理科，别拿维 D 代替治疗。这里看了总死亡、癌症、心脏血管、骨头、摔跤和抑郁，别的没看",
    "refs": [],
    "source_file": "06-反面清单.md"
   },
   {
    "id": "6-4",
-   "seq": 183,
+   "seq": 191,
    "section": 6,
    "section_title": "反面清单",
    "no": 4,
@@ -6526,7 +6956,7 @@
   },
   {
    "id": "6-5",
-   "seq": 184,
+   "seq": 192,
    "section": 6,
    "section_title": "反面清单",
    "no": 5,
@@ -6557,7 +6987,7 @@
   },
   {
    "id": "6-6",
-   "seq": 185,
+   "seq": 193,
    "section": 6,
    "section_title": "反面清单",
    "no": 6,
@@ -6588,7 +7018,7 @@
   },
   {
    "id": "6-7",
-   "seq": 186,
+   "seq": 194,
    "section": 6,
    "section_title": "反面清单",
    "no": 7,
@@ -6621,7 +7051,7 @@
   },
   {
    "id": "6-8",
-   "seq": 187,
+   "seq": 195,
    "section": 6,
    "section_title": "反面清单",
    "no": 8,
@@ -6652,7 +7082,7 @@
   },
   {
    "id": "6-9",
-   "seq": 188,
+   "seq": 196,
    "section": 6,
    "section_title": "反面清单",
    "no": 9,
@@ -6683,7 +7113,7 @@
   },
   {
    "id": "6-10",
-   "seq": 189,
+   "seq": 197,
    "section": 6,
    "section_title": "反面清单",
    "no": 10,
@@ -6739,7 +7169,7 @@
   },
   {
    "id": "6-11",
-   "seq": 190,
+   "seq": 198,
    "section": 6,
    "section_title": "反面清单",
    "no": 11,
@@ -6770,7 +7200,7 @@
   },
   {
    "id": "6-12",
-   "seq": 191,
+   "seq": 199,
    "section": 6,
    "section_title": "反面清单",
    "no": 12,
@@ -6802,7 +7232,7 @@
   },
   {
    "id": "6-13",
-   "seq": 192,
+   "seq": 200,
    "section": 6,
    "section_title": "反面清单",
    "no": 13,
@@ -6834,7 +7264,7 @@
   },
   {
    "id": "6-14",
-   "seq": 193,
+   "seq": 201,
    "section": 6,
    "section_title": "反面清单",
    "no": 14,
@@ -6865,7 +7295,7 @@
   },
   {
    "id": "6-15",
-   "seq": 194,
+   "seq": 202,
    "section": 6,
    "section_title": "反面清单",
    "no": 15,
@@ -6899,7 +7329,7 @@
   },
   {
    "id": "6-16",
-   "seq": 195,
+   "seq": 203,
    "section": 6,
    "section_title": "反面清单",
    "no": 16,
@@ -6939,7 +7369,7 @@
   },
   {
    "id": "6-17",
-   "seq": 196,
+   "seq": 204,
    "section": 6,
    "section_title": "反面清单",
    "no": 17,
@@ -6976,7 +7406,7 @@
   },
   {
    "id": "6-18",
-   "seq": 197,
+   "seq": 205,
    "section": 6,
    "section_title": "反面清单",
    "no": 18,
@@ -7017,7 +7447,7 @@
   },
   {
    "id": "6-19",
-   "seq": 198,
+   "seq": 206,
    "section": 6,
    "section_title": "反面清单",
    "no": 19,
@@ -7055,7 +7485,7 @@
   },
   {
    "id": "6-20",
-   "seq": 199,
+   "seq": 207,
    "section": 6,
    "section_title": "反面清单",
    "no": 20,
@@ -7095,7 +7525,7 @@
   },
   {
    "id": "6-21",
-   "seq": 200,
+   "seq": 208,
    "section": 6,
    "section_title": "反面清单",
    "no": 21,
@@ -7132,7 +7562,7 @@
   },
   {
    "id": "6-22",
-   "seq": 201,
+   "seq": 209,
    "section": 6,
    "section_title": "反面清单",
    "no": 22,
@@ -7164,7 +7594,7 @@
   },
   {
    "id": "6-23",
-   "seq": 202,
+   "seq": 210,
    "section": 6,
    "section_title": "反面清单",
    "no": 23,
@@ -7196,7 +7626,7 @@
   },
   {
    "id": "6-24",
-   "seq": 203,
+   "seq": 211,
    "section": 6,
    "section_title": "反面清单",
    "no": 24,
@@ -7237,7 +7667,7 @@
   },
   {
    "id": "6-25",
-   "seq": 204,
+   "seq": 212,
    "section": 6,
    "section_title": "反面清单",
    "no": 25,
@@ -7274,7 +7704,7 @@
   },
   {
    "id": "6-26",
-   "seq": 205,
+   "seq": 213,
    "section": 6,
    "section_title": "反面清单",
    "no": 26,
@@ -7325,7 +7755,7 @@
   },
   {
    "id": "6-27",
-   "seq": 206,
+   "seq": 214,
    "section": 6,
    "section_title": "反面清单",
    "no": 27,
@@ -7372,7 +7802,7 @@
   },
   {
    "id": "6-28",
-   "seq": 207,
+   "seq": 215,
    "section": 6,
    "section_title": "反面清单",
    "no": 28,
@@ -7419,7 +7849,7 @@
   },
   {
    "id": "6-29",
-   "seq": 208,
+   "seq": 216,
    "section": 6,
    "section_title": "反面清单",
    "no": 29,
@@ -7461,7 +7891,7 @@
   },
   {
    "id": "6-30",
-   "seq": 209,
+   "seq": 217,
    "section": 6,
    "section_title": "反面清单",
    "no": 30,
@@ -7510,7 +7940,7 @@
   },
   {
    "id": "6-31",
-   "seq": 210,
+   "seq": 218,
    "section": 6,
    "section_title": "反面清单",
    "no": 31,
@@ -7554,7 +7984,7 @@
   },
   {
    "id": "6-32",
-   "seq": 211,
+   "seq": 219,
    "section": 6,
    "section_title": "反面清单",
    "no": 32,
@@ -7597,7 +8027,7 @@
   },
   {
    "id": "7-1",
-   "seq": 212,
+   "seq": 220,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 1,
@@ -7645,7 +8075,7 @@
   },
   {
    "id": "7-2",
-   "seq": 213,
+   "seq": 221,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 2,
@@ -7690,7 +8120,7 @@
   },
   {
    "id": "7-3",
-   "seq": 214,
+   "seq": 222,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 3,
@@ -7722,7 +8152,7 @@
   },
   {
    "id": "7-4",
-   "seq": 215,
+   "seq": 223,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 4,
@@ -7759,7 +8189,7 @@
   },
   {
    "id": "7-5",
-   "seq": 216,
+   "seq": 224,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 5,
@@ -7791,7 +8221,7 @@
   },
   {
    "id": "7-6",
-   "seq": 217,
+   "seq": 225,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 6,
@@ -7822,7 +8252,7 @@
   },
   {
    "id": "7-7",
-   "seq": 218,
+   "seq": 226,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 7,
@@ -7868,7 +8298,7 @@
   },
   {
    "id": "7-8",
-   "seq": 219,
+   "seq": 227,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 8,
@@ -7899,7 +8329,7 @@
   },
   {
    "id": "7-9",
-   "seq": 220,
+   "seq": 228,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 9,
@@ -7935,7 +8365,7 @@
   },
   {
    "id": "7-10",
-   "seq": 221,
+   "seq": 229,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 10,
@@ -7982,7 +8412,7 @@
   },
   {
    "id": "7-11",
-   "seq": 222,
+   "seq": 230,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 11,
@@ -8014,7 +8444,7 @@
   },
   {
    "id": "7-12",
-   "seq": 223,
+   "seq": 231,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 12,
@@ -8046,7 +8476,7 @@
   },
   {
    "id": "7-13",
-   "seq": 224,
+   "seq": 232,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 13,
@@ -8077,7 +8507,7 @@
   },
   {
    "id": "7-14",
-   "seq": 225,
+   "seq": 233,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 14,
@@ -8108,7 +8538,7 @@
   },
   {
    "id": "7-15",
-   "seq": 226,
+   "seq": 234,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 15,
@@ -8149,7 +8579,7 @@
   },
   {
    "id": "7-16",
-   "seq": 227,
+   "seq": 235,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 16,
@@ -8180,7 +8610,7 @@
   },
   {
    "id": "7-17",
-   "seq": 228,
+   "seq": 236,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 17,
@@ -8213,7 +8643,7 @@
   },
   {
    "id": "7-18",
-   "seq": 229,
+   "seq": 237,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 18,
@@ -8258,7 +8688,7 @@
   },
   {
    "id": "7-19",
-   "seq": 230,
+   "seq": 238,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 19,
@@ -8295,7 +8725,7 @@
   },
   {
    "id": "7-20",
-   "seq": 231,
+   "seq": 239,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 20,
@@ -8334,7 +8764,7 @@
   },
   {
    "id": "7-21",
-   "seq": 232,
+   "seq": 240,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 21,
@@ -8372,7 +8802,7 @@
   },
   {
    "id": "7-22",
-   "seq": 233,
+   "seq": 241,
    "section": 7,
    "section_title": "没钱的时候怎么活",
    "no": 22,
@@ -8426,7 +8856,7 @@
   },
   {
    "id": "8-1",
-   "seq": 234,
+   "seq": 242,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 1,
@@ -8460,7 +8890,7 @@
   },
   {
    "id": "8-2",
-   "seq": 235,
+   "seq": 243,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 2,
@@ -8492,7 +8922,7 @@
   },
   {
    "id": "8-3",
-   "seq": 236,
+   "seq": 244,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 3,
@@ -8545,7 +8975,7 @@
   },
   {
    "id": "8-4",
-   "seq": 237,
+   "seq": 245,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 4,
@@ -8579,7 +9009,7 @@
   },
   {
    "id": "8-5",
-   "seq": 238,
+   "seq": 246,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 5,
@@ -8612,7 +9042,7 @@
   },
   {
    "id": "8-6",
-   "seq": 239,
+   "seq": 247,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 6,
@@ -8645,7 +9075,7 @@
   },
   {
    "id": "8-7",
-   "seq": 240,
+   "seq": 248,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 7,
@@ -8678,7 +9108,7 @@
   },
   {
    "id": "8-8",
-   "seq": 241,
+   "seq": 249,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 8,
@@ -8715,7 +9145,7 @@
   },
   {
    "id": "8-9",
-   "seq": 242,
+   "seq": 250,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 9,
@@ -8751,7 +9181,7 @@
   },
   {
    "id": "8-10",
-   "seq": 243,
+   "seq": 251,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 10,
@@ -8789,7 +9219,7 @@
   },
   {
    "id": "8-11",
-   "seq": 244,
+   "seq": 252,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 11,
@@ -8836,7 +9266,7 @@
   },
   {
    "id": "8-12",
-   "seq": 245,
+   "seq": 253,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 12,
@@ -8884,7 +9314,7 @@
   },
   {
    "id": "8-13",
-   "seq": 246,
+   "seq": 254,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 13,
@@ -8919,7 +9349,7 @@
   },
   {
    "id": "8-14",
-   "seq": 247,
+   "seq": 255,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 14,
@@ -8961,7 +9391,7 @@
   },
   {
    "id": "8-15",
-   "seq": 248,
+   "seq": 256,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 15,
@@ -8999,7 +9429,7 @@
   },
   {
    "id": "8-16",
-   "seq": 249,
+   "seq": 257,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 16,
@@ -9033,7 +9463,7 @@
   },
   {
    "id": "8-17",
-   "seq": 250,
+   "seq": 258,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 17,
@@ -9069,7 +9499,7 @@
   },
   {
    "id": "8-18",
-   "seq": 251,
+   "seq": 259,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 18,
@@ -9105,7 +9535,7 @@
   },
   {
    "id": "8-19",
-   "seq": 252,
+   "seq": 260,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 19,
@@ -9146,7 +9576,7 @@
   },
   {
    "id": "8-20",
-   "seq": 253,
+   "seq": 261,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 20,
@@ -9191,7 +9621,7 @@
   },
   {
    "id": "8-21",
-   "seq": 254,
+   "seq": 262,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 21,
@@ -9228,7 +9658,7 @@
   },
   {
    "id": "8-22",
-   "seq": 255,
+   "seq": 263,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 22,
@@ -9264,7 +9694,7 @@
   },
   {
    "id": "8-23",
-   "seq": 256,
+   "seq": 264,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 23,
@@ -9296,7 +9726,7 @@
   },
   {
    "id": "8-24",
-   "seq": 257,
+   "seq": 265,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 24,
@@ -9334,7 +9764,7 @@
   },
   {
    "id": "8-25",
-   "seq": 258,
+   "seq": 266,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 25,
@@ -9371,7 +9801,7 @@
   },
   {
    "id": "8-26",
-   "seq": 259,
+   "seq": 267,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 26,
@@ -9403,7 +9833,7 @@
   },
   {
    "id": "8-27",
-   "seq": 260,
+   "seq": 268,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 27,
@@ -9437,7 +9867,7 @@
   },
   {
    "id": "8-28",
-   "seq": 261,
+   "seq": 269,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 28,
@@ -9473,7 +9903,7 @@
   },
   {
    "id": "8-29",
-   "seq": 262,
+   "seq": 270,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 29,
@@ -9504,7 +9934,7 @@
   },
   {
    "id": "8-30",
-   "seq": 263,
+   "seq": 271,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 30,
@@ -9542,7 +9972,7 @@
   },
   {
    "id": "8-31",
-   "seq": 264,
+   "seq": 272,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 31,
@@ -9584,7 +10014,7 @@
   },
   {
    "id": "8-32",
-   "seq": 265,
+   "seq": 273,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 32,
@@ -9621,7 +10051,7 @@
   },
   {
    "id": "8-33",
-   "seq": 266,
+   "seq": 274,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 33,
@@ -9653,7 +10083,7 @@
   },
   {
    "id": "8-34",
-   "seq": 267,
+   "seq": 275,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 34,
@@ -9684,7 +10114,7 @@
   },
   {
    "id": "8-35",
-   "seq": 268,
+   "seq": 276,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 35,
@@ -9718,7 +10148,7 @@
   },
   {
    "id": "8-36",
-   "seq": 269,
+   "seq": 277,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 36,
@@ -9750,7 +10180,7 @@
   },
   {
    "id": "8-37",
-   "seq": 270,
+   "seq": 278,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 37,
@@ -9792,7 +10222,7 @@
   },
   {
    "id": "8-38",
-   "seq": 271,
+   "seq": 279,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 38,
@@ -9831,7 +10261,7 @@
   },
   {
    "id": "8-39",
-   "seq": 272,
+   "seq": 280,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 39,
@@ -9866,7 +10296,7 @@
   },
   {
    "id": "8-40",
-   "seq": 273,
+   "seq": 281,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 40,
@@ -9903,7 +10333,7 @@
   },
   {
    "id": "8-41",
-   "seq": 274,
+   "seq": 282,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 41,
@@ -9942,7 +10372,7 @@
   },
   {
    "id": "8-42",
-   "seq": 275,
+   "seq": 283,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 42,
@@ -9974,7 +10404,7 @@
   },
   {
    "id": "8-43",
-   "seq": 276,
+   "seq": 284,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 43,
@@ -10009,7 +10439,7 @@
   },
   {
    "id": "8-44",
-   "seq": 277,
+   "seq": 285,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 44,
@@ -10053,7 +10483,7 @@
   },
   {
    "id": "8-45",
-   "seq": 278,
+   "seq": 286,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 45,
@@ -10123,7 +10553,7 @@
   },
   {
    "id": "8-46",
-   "seq": 279,
+   "seq": 287,
    "section": 8,
    "section_title": "别把自己搭进去：法律与财产安全",
    "no": 46,
@@ -10167,7 +10597,7 @@
   },
   {
    "id": "9-1",
-   "seq": 280,
+   "seq": 288,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 1,
@@ -10200,7 +10630,7 @@
   },
   {
    "id": "9-2",
-   "seq": 281,
+   "seq": 289,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 2,
@@ -10235,7 +10665,7 @@
   },
   {
    "id": "9-3",
-   "seq": 282,
+   "seq": 290,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 3,
@@ -10273,7 +10703,7 @@
   },
   {
    "id": "9-4",
-   "seq": 283,
+   "seq": 291,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 4,
@@ -10306,7 +10736,7 @@
   },
   {
    "id": "9-5",
-   "seq": 284,
+   "seq": 292,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 5,
@@ -10348,7 +10778,7 @@
   },
   {
    "id": "9-6",
-   "seq": 285,
+   "seq": 293,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 6,
@@ -10389,7 +10819,7 @@
   },
   {
    "id": "9-7",
-   "seq": 286,
+   "seq": 294,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 7,
@@ -10422,7 +10852,7 @@
   },
   {
    "id": "9-8",
-   "seq": 287,
+   "seq": 295,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 8,
@@ -10470,7 +10900,7 @@
   },
   {
    "id": "9-9",
-   "seq": 288,
+   "seq": 296,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 9,
@@ -10505,7 +10935,7 @@
   },
   {
    "id": "9-10",
-   "seq": 289,
+   "seq": 297,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 10,
@@ -10538,7 +10968,7 @@
   },
   {
    "id": "9-11",
-   "seq": 290,
+   "seq": 298,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 11,
@@ -10571,7 +11001,7 @@
   },
   {
    "id": "9-12",
-   "seq": 291,
+   "seq": 299,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 12,
@@ -10604,7 +11034,7 @@
   },
   {
    "id": "9-13",
-   "seq": 292,
+   "seq": 300,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 13,
@@ -10637,7 +11067,7 @@
   },
   {
    "id": "9-14",
-   "seq": 293,
+   "seq": 301,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 14,
@@ -10672,7 +11102,7 @@
   },
   {
    "id": "9-15",
-   "seq": 294,
+   "seq": 302,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 15,
@@ -10709,7 +11139,7 @@
   },
   {
    "id": "9-16",
-   "seq": 295,
+   "seq": 303,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 16,
@@ -10742,7 +11172,7 @@
   },
   {
    "id": "9-17",
-   "seq": 296,
+   "seq": 304,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 17,
@@ -10777,7 +11207,7 @@
   },
   {
    "id": "9-18",
-   "seq": 297,
+   "seq": 305,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 18,
@@ -10809,7 +11239,7 @@
   },
   {
    "id": "9-19",
-   "seq": 298,
+   "seq": 306,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 19,
@@ -10849,7 +11279,7 @@
   },
   {
    "id": "9-20",
-   "seq": 299,
+   "seq": 307,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 20,
@@ -10895,7 +11325,7 @@
   },
   {
    "id": "9-21",
-   "seq": 300,
+   "seq": 308,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 21,
@@ -10942,7 +11372,7 @@
   },
   {
    "id": "9-22",
-   "seq": 301,
+   "seq": 309,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 22,
@@ -10981,7 +11411,7 @@
   },
   {
    "id": "9-23",
-   "seq": 302,
+   "seq": 310,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 23,
@@ -11019,7 +11449,7 @@
   },
   {
    "id": "9-24",
-   "seq": 303,
+   "seq": 311,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 24,
@@ -11065,7 +11495,7 @@
   },
   {
    "id": "9-25",
-   "seq": 304,
+   "seq": 312,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 25,
@@ -11099,7 +11529,7 @@
   },
   {
    "id": "9-26",
-   "seq": 305,
+   "seq": 313,
    "section": 9,
    "section_title": "普通人容易踩的法律红线",
    "no": 26,
@@ -11144,7 +11574,7 @@
   },
   {
    "id": "10-1",
-   "seq": 306,
+   "seq": 314,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 1,
@@ -11176,7 +11606,7 @@
   },
   {
    "id": "10-2",
-   "seq": 307,
+   "seq": 315,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 2,
@@ -11207,7 +11637,7 @@
   },
   {
    "id": "10-3",
-   "seq": 308,
+   "seq": 316,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 3,
@@ -11239,7 +11669,7 @@
   },
   {
    "id": "10-4",
-   "seq": 309,
+   "seq": 317,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 4,
@@ -11270,7 +11700,7 @@
   },
   {
    "id": "10-5",
-   "seq": 310,
+   "seq": 318,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 5,
@@ -11301,7 +11731,7 @@
   },
   {
    "id": "10-6",
-   "seq": 311,
+   "seq": 319,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 6,
@@ -11334,7 +11764,7 @@
   },
   {
    "id": "10-7",
-   "seq": 312,
+   "seq": 320,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 7,
@@ -11366,7 +11796,7 @@
   },
   {
    "id": "10-8",
-   "seq": 313,
+   "seq": 321,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 8,
@@ -11401,7 +11831,7 @@
   },
   {
    "id": "10-9",
-   "seq": 314,
+   "seq": 322,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 9,
@@ -11434,7 +11864,7 @@
   },
   {
    "id": "10-10",
-   "seq": 315,
+   "seq": 323,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 10,
@@ -11466,7 +11896,7 @@
   },
   {
    "id": "10-11",
-   "seq": 316,
+   "seq": 324,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 11,
@@ -11499,7 +11929,7 @@
   },
   {
    "id": "10-12",
-   "seq": 317,
+   "seq": 325,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 12,
@@ -11536,7 +11966,7 @@
   },
   {
    "id": "10-13",
-   "seq": 318,
+   "seq": 326,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 13,
@@ -11567,7 +11997,7 @@
   },
   {
    "id": "10-14",
-   "seq": 319,
+   "seq": 327,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 14,
@@ -11601,7 +12031,7 @@
   },
   {
    "id": "10-15",
-   "seq": 320,
+   "seq": 328,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 15,
@@ -11633,7 +12063,7 @@
   },
   {
    "id": "10-16",
-   "seq": 321,
+   "seq": 329,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 16,
@@ -11662,7 +12092,7 @@
   },
   {
    "id": "10-17",
-   "seq": 322,
+   "seq": 330,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 17,
@@ -11699,7 +12129,7 @@
   },
   {
    "id": "10-18",
-   "seq": 323,
+   "seq": 331,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 18,
@@ -11740,7 +12170,7 @@
   },
   {
    "id": "10-19",
-   "seq": 324,
+   "seq": 332,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 19,
@@ -11773,7 +12203,7 @@
   },
   {
    "id": "10-20",
-   "seq": 325,
+   "seq": 333,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 20,
@@ -11812,7 +12242,7 @@
   },
   {
    "id": "10-21",
-   "seq": 326,
+   "seq": 334,
    "section": 10,
    "section_title": "恋爱和结婚划不划算",
    "no": 21,
@@ -11849,7 +12279,7 @@
   },
   {
    "id": "11-1",
-   "seq": 327,
+   "seq": 335,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 1,
@@ -11880,7 +12310,7 @@
   },
   {
    "id": "11-2",
-   "seq": 328,
+   "seq": 336,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 2,
@@ -11915,7 +12345,7 @@
   },
   {
    "id": "11-3",
-   "seq": 329,
+   "seq": 337,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 3,
@@ -11949,7 +12379,7 @@
   },
   {
    "id": "11-4",
-   "seq": 330,
+   "seq": 338,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 4,
@@ -11983,7 +12413,7 @@
   },
   {
    "id": "11-5",
-   "seq": 331,
+   "seq": 339,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 5,
@@ -12017,7 +12447,7 @@
   },
   {
    "id": "11-6",
-   "seq": 332,
+   "seq": 340,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 6,
@@ -12050,7 +12480,7 @@
   },
   {
    "id": "11-7",
-   "seq": 333,
+   "seq": 341,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 7,
@@ -12090,7 +12520,7 @@
   },
   {
    "id": "11-8",
-   "seq": 334,
+   "seq": 342,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 8,
@@ -12125,7 +12555,7 @@
   },
   {
    "id": "11-9",
-   "seq": 335,
+   "seq": 343,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 9,
@@ -12165,7 +12595,7 @@
   },
   {
    "id": "11-10",
-   "seq": 336,
+   "seq": 344,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 10,
@@ -12202,7 +12632,7 @@
   },
   {
    "id": "11-11",
-   "seq": 337,
+   "seq": 345,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 11,
@@ -12234,7 +12664,7 @@
   },
   {
    "id": "11-12",
-   "seq": 338,
+   "seq": 346,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 12,
@@ -12268,7 +12698,7 @@
   },
   {
    "id": "11-13",
-   "seq": 339,
+   "seq": 347,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 13,
@@ -12300,7 +12730,7 @@
   },
   {
    "id": "11-14",
-   "seq": 340,
+   "seq": 348,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 14,
@@ -12332,7 +12762,7 @@
   },
   {
    "id": "11-15",
-   "seq": 341,
+   "seq": 349,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 15,
@@ -12368,7 +12798,7 @@
   },
   {
    "id": "11-16",
-   "seq": 342,
+   "seq": 350,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 16,
@@ -12405,7 +12835,7 @@
   },
   {
    "id": "11-17",
-   "seq": 343,
+   "seq": 351,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 17,
@@ -12436,7 +12866,7 @@
   },
   {
    "id": "11-18",
-   "seq": 344,
+   "seq": 352,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 18,
@@ -12471,7 +12901,7 @@
   },
   {
    "id": "11-19",
-   "seq": 345,
+   "seq": 353,
    "section": 11,
    "section_title": "程序员和技术人容易踩的红线",
    "no": 19,
@@ -12517,7 +12947,7 @@
   },
   {
    "id": "12-1",
-   "seq": 346,
+   "seq": 354,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 1,
@@ -12549,7 +12979,7 @@
   },
   {
    "id": "12-2",
-   "seq": 347,
+   "seq": 355,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 2,
@@ -12585,7 +13015,7 @@
   },
   {
    "id": "12-3",
-   "seq": 348,
+   "seq": 356,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 3,
@@ -12618,7 +13048,7 @@
   },
   {
    "id": "12-4",
-   "seq": 349,
+   "seq": 357,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 4,
@@ -12656,7 +13086,7 @@
   },
   {
    "id": "12-5",
-   "seq": 350,
+   "seq": 358,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 5,
@@ -12694,7 +13124,7 @@
   },
   {
    "id": "12-6",
-   "seq": 351,
+   "seq": 359,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 6,
@@ -12727,7 +13157,7 @@
   },
   {
    "id": "12-7",
-   "seq": 352,
+   "seq": 360,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 7,
@@ -12765,7 +13195,7 @@
   },
   {
    "id": "12-8",
-   "seq": 353,
+   "seq": 361,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 8,
@@ -12812,7 +13242,7 @@
   },
   {
    "id": "12-9",
-   "seq": 354,
+   "seq": 362,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 9,
@@ -12851,7 +13281,7 @@
   },
   {
    "id": "12-10",
-   "seq": 355,
+   "seq": 363,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 10,
@@ -12888,7 +13318,7 @@
   },
   {
    "id": "12-11",
-   "seq": 356,
+   "seq": 364,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 11,
@@ -12921,7 +13351,7 @@
   },
   {
    "id": "12-12",
-   "seq": 357,
+   "seq": 365,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 12,
@@ -12957,7 +13387,7 @@
   },
   {
    "id": "12-13",
-   "seq": 358,
+   "seq": 366,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 13,
@@ -12990,7 +13420,7 @@
   },
   {
    "id": "12-14",
-   "seq": 359,
+   "seq": 367,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 14,
@@ -13025,7 +13455,7 @@
   },
   {
    "id": "12-15",
-   "seq": 360,
+   "seq": 368,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 15,
@@ -13061,7 +13491,7 @@
   },
   {
    "id": "12-16",
-   "seq": 361,
+   "seq": 369,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 16,
@@ -13093,7 +13523,7 @@
   },
   {
    "id": "12-17",
-   "seq": 362,
+   "seq": 370,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 17,
@@ -13125,7 +13555,7 @@
   },
   {
    "id": "12-18",
-   "seq": 363,
+   "seq": 371,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 18,
@@ -13156,7 +13586,7 @@
   },
   {
    "id": "12-19",
-   "seq": 364,
+   "seq": 372,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 19,
@@ -13188,7 +13618,7 @@
   },
   {
    "id": "12-20",
-   "seq": 365,
+   "seq": 373,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 20,
@@ -13227,7 +13657,7 @@
   },
   {
    "id": "12-21",
-   "seq": 366,
+   "seq": 374,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 21,
@@ -13270,7 +13700,7 @@
   },
   {
    "id": "12-22",
-   "seq": 367,
+   "seq": 375,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 22,
@@ -13303,7 +13733,7 @@
   },
   {
    "id": "12-23",
-   "seq": 368,
+   "seq": 376,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 23,
@@ -13340,7 +13770,7 @@
   },
   {
    "id": "12-24",
-   "seq": 369,
+   "seq": 377,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 24,
@@ -13380,7 +13810,7 @@
   },
   {
    "id": "12-25",
-   "seq": 370,
+   "seq": 378,
    "section": 12,
    "section_title": "创业与做生意：别把家底赔进去",
    "no": 25,
@@ -13416,7 +13846,7 @@
   },
   {
    "id": "13-1",
-   "seq": 371,
+   "seq": 379,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 1,
@@ -13449,7 +13879,7 @@
   },
   {
    "id": "13-2",
-   "seq": 372,
+   "seq": 380,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 2,
@@ -13497,7 +13927,7 @@
   },
   {
    "id": "13-3",
-   "seq": 373,
+   "seq": 381,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 3,
@@ -13528,7 +13958,7 @@
   },
   {
    "id": "13-4",
-   "seq": 374,
+   "seq": 382,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 4,
@@ -13559,7 +13989,7 @@
   },
   {
    "id": "13-5",
-   "seq": 375,
+   "seq": 383,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 5,
@@ -13591,7 +14021,7 @@
   },
   {
    "id": "13-6",
-   "seq": 376,
+   "seq": 384,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 6,
@@ -13633,7 +14063,7 @@
   },
   {
    "id": "13-7",
-   "seq": 377,
+   "seq": 385,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 7,
@@ -13664,7 +14094,7 @@
   },
   {
    "id": "13-8",
-   "seq": 378,
+   "seq": 386,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 8,
@@ -13695,7 +14125,7 @@
   },
   {
    "id": "13-9",
-   "seq": 379,
+   "seq": 387,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 9,
@@ -13726,7 +14156,7 @@
   },
   {
    "id": "13-10",
-   "seq": 380,
+   "seq": 388,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 10,
@@ -13764,7 +14194,7 @@
   },
   {
    "id": "13-11",
-   "seq": 381,
+   "seq": 389,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 11,
@@ -13796,7 +14226,7 @@
   },
   {
    "id": "13-12",
-   "seq": 382,
+   "seq": 390,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 12,
@@ -13830,7 +14260,7 @@
   },
   {
    "id": "13-13",
-   "seq": 383,
+   "seq": 391,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 13,
@@ -13867,7 +14297,7 @@
   },
   {
    "id": "13-14",
-   "seq": 384,
+   "seq": 392,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 14,
@@ -13899,7 +14329,7 @@
   },
   {
    "id": "13-15",
-   "seq": 385,
+   "seq": 393,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 15,
@@ -13933,7 +14363,7 @@
   },
   {
    "id": "13-16",
-   "seq": 386,
+   "seq": 394,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 16,
@@ -13964,7 +14394,7 @@
   },
   {
    "id": "13-17",
-   "seq": 387,
+   "seq": 395,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 17,
@@ -13995,7 +14425,7 @@
   },
   {
    "id": "13-18",
-   "seq": 388,
+   "seq": 396,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 18,
@@ -14027,7 +14457,7 @@
   },
   {
    "id": "13-19",
-   "seq": 389,
+   "seq": 397,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 19,
@@ -14065,7 +14495,7 @@
   },
   {
    "id": "13-20",
-   "seq": 390,
+   "seq": 398,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 20,
@@ -14109,7 +14539,7 @@
   },
   {
    "id": "13-21",
-   "seq": 391,
+   "seq": 399,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 21,
@@ -14148,7 +14578,7 @@
   },
   {
    "id": "13-22",
-   "seq": 392,
+   "seq": 400,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 22,
@@ -14185,7 +14615,7 @@
   },
   {
    "id": "13-23",
-   "seq": 393,
+   "seq": 401,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 23,
@@ -14217,7 +14647,7 @@
   },
   {
    "id": "13-24",
-   "seq": 394,
+   "seq": 402,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 24,
@@ -14250,7 +14680,7 @@
   },
   {
    "id": "13-25",
-   "seq": 395,
+   "seq": 403,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 25,
@@ -14286,7 +14716,7 @@
   },
   {
    "id": "13-26",
-   "seq": 396,
+   "seq": 404,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 26,
@@ -14318,7 +14748,7 @@
   },
   {
    "id": "13-27",
-   "seq": 397,
+   "seq": 405,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 27,
@@ -14353,7 +14783,7 @@
   },
   {
    "id": "13-28",
-   "seq": 398,
+   "seq": 406,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 28,
@@ -14385,7 +14815,7 @@
   },
   {
    "id": "13-29",
-   "seq": 399,
+   "seq": 407,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 29,
@@ -14419,7 +14849,7 @@
   },
   {
    "id": "13-30",
-   "seq": 400,
+   "seq": 408,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 30,
@@ -14453,7 +14883,7 @@
   },
   {
    "id": "13-31",
-   "seq": 401,
+   "seq": 409,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 31,
@@ -14485,7 +14915,7 @@
   },
   {
    "id": "13-32",
-   "seq": 402,
+   "seq": 410,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 32,
@@ -14516,7 +14946,7 @@
   },
   {
    "id": "13-33",
-   "seq": 403,
+   "seq": 411,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 33,
@@ -14548,7 +14978,7 @@
   },
   {
    "id": "13-34",
-   "seq": 404,
+   "seq": 412,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 34,
@@ -14580,7 +15010,7 @@
   },
   {
    "id": "13-35",
-   "seq": 405,
+   "seq": 413,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 35,
@@ -14611,7 +15041,7 @@
   },
   {
    "id": "13-36",
-   "seq": 406,
+   "seq": 414,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 36,
@@ -14651,7 +15081,7 @@
   },
   {
    "id": "13-37",
-   "seq": 407,
+   "seq": 415,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 37,
@@ -14694,7 +15124,7 @@
   },
   {
    "id": "13-38",
-   "seq": 408,
+   "seq": 416,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 38,
@@ -14726,7 +15156,7 @@
   },
   {
    "id": "13-39",
-   "seq": 409,
+   "seq": 417,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 39,
@@ -14763,7 +15193,7 @@
   },
   {
    "id": "13-40",
-   "seq": 410,
+   "seq": 418,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 40,
@@ -14803,7 +15233,7 @@
   },
   {
    "id": "13-41",
-   "seq": 411,
+   "seq": 419,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 41,
@@ -14855,7 +15285,7 @@
   },
   {
    "id": "13-42",
-   "seq": 412,
+   "seq": 420,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 42,
@@ -14900,7 +15330,7 @@
   },
   {
    "id": "13-43",
-   "seq": 413,
+   "seq": 421,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 43,
@@ -14934,7 +15364,7 @@
   },
   {
    "id": "13-44",
-   "seq": 414,
+   "seq": 422,
    "section": 13,
    "section_title": "紧急情况：先做什么",
    "no": 44,
@@ -14970,7 +15400,7 @@
   },
   {
    "id": "14-1",
-   "seq": 415,
+   "seq": 423,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 1,
@@ -15006,7 +15436,7 @@
   },
   {
    "id": "14-2",
-   "seq": 416,
+   "seq": 424,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 2,
@@ -15037,7 +15467,7 @@
   },
   {
    "id": "14-3",
-   "seq": 417,
+   "seq": 425,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 3,
@@ -15074,7 +15504,7 @@
   },
   {
    "id": "14-4",
-   "seq": 418,
+   "seq": 426,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 4,
@@ -15105,7 +15535,7 @@
   },
   {
    "id": "14-5",
-   "seq": 419,
+   "seq": 427,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 5,
@@ -15145,7 +15575,7 @@
   },
   {
    "id": "14-6",
-   "seq": 420,
+   "seq": 428,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 6,
@@ -15177,7 +15607,7 @@
   },
   {
    "id": "14-7",
-   "seq": 421,
+   "seq": 429,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 7,
@@ -15208,7 +15638,7 @@
   },
   {
    "id": "14-8",
-   "seq": 422,
+   "seq": 430,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 8,
@@ -15239,7 +15669,7 @@
   },
   {
    "id": "14-9",
-   "seq": 423,
+   "seq": 431,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 9,
@@ -15279,7 +15709,7 @@
   },
   {
    "id": "14-10",
-   "seq": 424,
+   "seq": 432,
    "section": 14,
    "section_title": "账号与信息安全",
    "no": 10,
@@ -15316,7 +15746,7 @@
   },
   {
    "id": "15-1",
-   "seq": 425,
+   "seq": 433,
    "section": 15,
    "section_title": "租房与买房",
    "no": 1,
@@ -15347,7 +15777,7 @@
   },
   {
    "id": "15-2",
-   "seq": 426,
+   "seq": 434,
    "section": 15,
    "section_title": "租房与买房",
    "no": 2,
@@ -15378,7 +15808,7 @@
   },
   {
    "id": "15-3",
-   "seq": 427,
+   "seq": 435,
    "section": 15,
    "section_title": "租房与买房",
    "no": 3,
@@ -15409,7 +15839,7 @@
   },
   {
    "id": "15-4",
-   "seq": 428,
+   "seq": 436,
    "section": 15,
    "section_title": "租房与买房",
    "no": 4,
@@ -15440,7 +15870,7 @@
   },
   {
    "id": "15-5",
-   "seq": 429,
+   "seq": 437,
    "section": 15,
    "section_title": "租房与买房",
    "no": 5,
@@ -15471,7 +15901,7 @@
   },
   {
    "id": "15-6",
-   "seq": 430,
+   "seq": 438,
    "section": 15,
    "section_title": "租房与买房",
    "no": 6,
@@ -15513,7 +15943,7 @@
   },
   {
    "id": "15-7",
-   "seq": 431,
+   "seq": 439,
    "section": 15,
    "section_title": "租房与买房",
    "no": 7,
@@ -15553,7 +15983,7 @@
   },
   {
    "id": "15-8",
-   "seq": 432,
+   "seq": 440,
    "section": 15,
    "section_title": "租房与买房",
    "no": 8,
@@ -15584,7 +16014,7 @@
   },
   {
    "id": "15-9",
-   "seq": 433,
+   "seq": 441,
    "section": 15,
    "section_title": "租房与买房",
    "no": 9,
@@ -15616,7 +16046,7 @@
   },
   {
    "id": "15-10",
-   "seq": 434,
+   "seq": 442,
    "section": 15,
    "section_title": "租房与买房",
    "no": 10,
@@ -15656,7 +16086,7 @@
   },
   {
    "id": "15-11",
-   "seq": 435,
+   "seq": 443,
    "section": 15,
    "section_title": "租房与买房",
    "no": 11,
@@ -15693,7 +16123,7 @@
   },
   {
    "id": "15-12",
-   "seq": 436,
+   "seq": 444,
    "section": 15,
    "section_title": "租房与买房",
    "no": 12,
@@ -15725,7 +16155,7 @@
   },
   {
    "id": "15-13",
-   "seq": 437,
+   "seq": 445,
    "section": 15,
    "section_title": "租房与买房",
    "no": 13,
@@ -15757,7 +16187,7 @@
   },
   {
    "id": "15-14",
-   "seq": 438,
+   "seq": 446,
    "section": 15,
    "section_title": "租房与买房",
    "no": 14,
@@ -15797,7 +16227,7 @@
   },
   {
    "id": "15-15",
-   "seq": 439,
+   "seq": 447,
    "section": 15,
    "section_title": "租房与买房",
    "no": 15,
@@ -15829,7 +16259,7 @@
   },
   {
    "id": "16-1",
-   "seq": 440,
+   "seq": 448,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 1,
@@ -15860,7 +16290,7 @@
   },
   {
    "id": "16-2",
-   "seq": 441,
+   "seq": 449,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 2,
@@ -15891,7 +16321,7 @@
   },
   {
    "id": "16-3",
-   "seq": 442,
+   "seq": 450,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 3,
@@ -15928,7 +16358,7 @@
   },
   {
    "id": "16-4",
-   "seq": 443,
+   "seq": 451,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 4,
@@ -15971,7 +16401,7 @@
   },
   {
    "id": "16-5",
-   "seq": 444,
+   "seq": 452,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 5,
@@ -16002,7 +16432,7 @@
   },
   {
    "id": "16-6",
-   "seq": 445,
+   "seq": 453,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 6,
@@ -16033,7 +16463,7 @@
   },
   {
    "id": "16-7",
-   "seq": 446,
+   "seq": 454,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 7,
@@ -16064,7 +16494,7 @@
   },
   {
    "id": "16-8",
-   "seq": 447,
+   "seq": 455,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 8,
@@ -16090,7 +16520,7 @@
     "https://www.nice.org.uk/guidance/ng118/chapter/Recommendations"
    ],
    "link_count": 2,
-   "note": "复发少了大约 55%，又不花钱，按本书的排序规则这是本节性价比最高的一条。要盯的是 24 小时尿量，目标是 2 到 2.5 升以上，不是看喝进去多少。出汗多的人、在高温环境里干活的人，得喝得更多。那项试验做的是第一次发作的特发性钙结石患者。结石成分不止一种，尿酸结石、感染性结石、胱氨酸结石各有各的对策。复发过的人值得做一次结石成分分析和 24 小时尿检，再定要不要加药。别为了防结石把钙戒掉，见第 6 节第 21 条。发作时腰腹绞痛得厉害要去医院，不是靠多喝水冲下去的。不疼的血尿另有要查的东西，见第 1 节第 27 条",
+   "note": "复发少了大约 55%，又不花钱，按本书算性价比的办法，这是本节性价比最高的一条。要盯的是 24 小时尿量，目标是 2 到 2.5 升以上，不是看喝进去多少。出汗多的人、在高温环境里干活的人，得喝得更多。那项试验做的是第一次发作的特发性钙结石患者。结石成分不止一种，尿酸结石、感染性结石、胱氨酸结石各有各的对策。复发过的人值得做一次结石成分分析和 24 小时尿检，再定要不要加药。别为了防结石把钙戒掉，见第 6 节第 21 条。发作时腰腹绞痛得厉害要去医院，不是靠多喝水冲下去的。不疼的血尿另有要查的东西，见第 1 节第 27 条",
    "refs": [
     {
      "section": 6,
@@ -16105,7 +16535,7 @@
   },
   {
    "id": "16-9",
-   "seq": 448,
+   "seq": 456,
    "section": 16,
    "section_title": "得了慢性病之后怎么活",
    "no": 9,
@@ -16135,18 +16565,66 @@
     "https://doi.org/10.3760/cma.j.issn.1000-6699.2020.01.001"
    ],
    "link_count": 6,
-   "note": "争议：用哪种药降尿酸，各国指南不一样。美国指南首选别嘌醇，有心血管病的人能换就别吃非布司他，但欧洲 FAST 试验没看到非布司他更危险。国内还能买到苯溴马隆，它是促进尿酸排出的药。中华医学会的指南（2019 版和 2024 更新版）对选药和碱化尿液单独给了推荐。吃苯溴马隆要不要加碳酸氢钠碱化尿液，美国指南认为没有证据，按你的医生的意见办，多喝水不能省。**汉族人用别嘌醇之前值得先查 HLA-B\\*5801**。它是一种天生的、管免疫反应的基因型号，查一次结果终身不变。带着这个基因的人，在汉族、韩国、泰国人里占 7.4%，白人和西班牙裔只有 0.7%。亚裔和非裔用别嘌醇之后发生别嘌醇超敏综合征的风险是白人的 3 倍，这个病严重时皮肤会大面积剥脱，能要命。美国风湿病学会 2020 年痛风指南对这两类人建议，用药前可以考虑先查一下。**刚开始降尿酸反而更容易诱发发作**，所以指南明确要求头 3 到 6 个月同时吃一种抗炎的预防药。「吃了降尿酸药反而更疼，所以停了」是这件事最常见的失败方式。疼起来该做的是按医嘱加抗炎药，不是停降尿酸药。达标值各家写法不同：<6 mg/dL 约合 360 µmol/L，中国的化验单多用 µmol/L。体检查出尿酸高但从没发作过是另一回事，见第 6 节第 19 条。含糖饮料和酒见第 2 节第 7、19 条（不喝含糖饮料、少喝或不喝酒）",
+   "note": "争议：用哪种药降尿酸，各国指南不一样。美国指南首选别嘌醇，有心血管病的人能换就别吃非布司他，但欧洲 FAST 试验没看到非布司他更危险。国内还能买到苯溴马隆，它是促进尿酸排出的药。中华医学会的指南（2019 版和 2024 更新版）对选药和碱化尿液单独给了推荐。吃苯溴马隆要不要加碳酸氢钠碱化尿液，美国指南认为没有证据，按你的医生的意见办，多喝水不能省。**汉族人用别嘌醇之前值得先查 HLA-B\\*5801**。它是一种天生的、管免疫反应的基因型号，查一次结果终身不变。带着这个基因的人，在汉族、韩国、泰国人里占 7.4%，白人和西班牙裔只有 0.7%。亚裔和非裔用别嘌醇之后发生别嘌醇超敏综合征的风险是白人的 3 倍，这个病严重时皮肤会大面积剥脱，能要命。美国风湿病学会 2020 年痛风指南对这两类人建议，用药前可以考虑先查一下。**刚开始降尿酸反而更容易诱发发作**，所以指南明确要求头 3 到 6 个月同时吃一种抗炎的预防药。「吃了降尿酸药反而更疼，所以停了」是这件事最常见的失败方式。疼起来该做的是按医嘱加抗炎药，不是停降尿酸药。达标值各家写法不同：<6 mg/dL 约合 360 µmol/L，中国的化验单多用 µmol/L。体检查出尿酸高但从没发作过是另一回事，见第 6 节第 19 条。含糖饮料和酒见第 2 节第 7、19 条（不喝含糖饮料、少喝或不喝酒）。一顿吃下大量肉和海鲜、喝酒会诱发发作，见第 10 条（吃烧烤、聚餐时别一顿吃下大量肉和海鲜）",
    "refs": [
     {
      "section": 6,
      "no": 19
+    },
+    {
+     "section": 16,
+     "no": 10
+    }
+   ],
+   "source_file": "16-得了慢性病之后怎么活.md"
+  },
+  {
+   "id": "16-10",
+   "seq": 457,
+   "section": 16,
+   "section_title": "得了慢性病之后怎么活",
+   "no": 10,
+   "title": "得过痛风的，吃烧烤、聚餐时别一顿吃下大量肉和海鲜，酒也要少喝",
+   "cost_money": "0",
+   "cost_time": "少",
+   "cost_willpower": "些",
+   "benefit_level": "大",
+   "metric": "死亡率",
+   "cost_score": 1,
+   "ratio": "高",
+   "evidence": "B",
+   "evidence_raw": "B",
+   "evidence_flags": [],
+   "disputed": false,
+   "todo": false,
+   "cost_text": "不花钱。吃烧烤、聚餐时少点肉串和海鲜，少喝酒。难在饭桌上管住自己。",
+   "plain": "得过痛风的人，前两天吃进的嘌呤最多时，发作的可能是吃得最少时的近 5 倍，吃着降尿酸药也一样。前一天喝了两到四杯酒，发作的可能高约一半，啤酒、白酒、葡萄酒都算。",
+   "benefit_text": "一项病例交叉研究，拿每个病人发作前的两天和自己没发作的两天比，633 名痛风病人在网上跟踪 1 年。嘌呤是食物里的一种成分，在体内会变成尿酸。把两天吃进的嘌呤总量从少到多分成五档，和最少那档比，后四档发作的可能分别是 1.17、1.38、2.21、4.76 倍（OR，趋势 P<0.001）。只算动物来源的嘌呤，是 1.42、1.34、1.77、2.41 倍。只算植物来源的，是 1.12、0.99、1.32、1.39 倍。按性别、喝不喝酒、吃不吃利尿药、别嘌醇、消炎止痛药、秋水仙碱分开看，结果都一样。同一批研究者的另一项研究看了 724 名痛风病人发作前 24 小时喝的酒。和没喝的比，喝 1 杯以上到 2 杯的是 1.36 倍（95% CI 1.00–1.88，可信范围），2 杯以上到 4 杯的是 1.51 倍（1.09–2.09）。葡萄酒、啤酒、烈酒各自都和发作有关。没得过痛风的人看另一项跟踪研究：美国 47150 名男性跟踪 12 年，只记录、不分组。肉吃得最多的五分之一，比最少的五分之一得痛风的风险高约 41%（RR 1.41，1.07–1.86）。海鲜高约 51%（1.51，1.17–1.95）。奶制品吃得最多的反而低约 44%（0.56，0.42–0.74）。嘌呤多的蔬菜和蛋白质总量看不出关系。同一批人里，每天多喝一瓶 12 盎司（约 355 毫升）啤酒，风险高约 49%（1.49，1.32–1.70）。烈酒每天一杯高约 15%（1.15，1.04–1.28）。葡萄酒看不出统计上的差别（1.04，0.88–1.22）",
+   "source_text": "Zhang Y, Chen C, Choi H, Chaisson C, Hunter D, Niu J, Neogi T (2012). Purine-rich foods intake and recurrent gout attacks. Annals of the Rheumatic Diseases, 71(9), 1448-1453. <https://doi.org/10.1136/annrheumdis-2011-201215>；Neogi T, Chen C, Niu J, Chaisson C, Hunter DJ, Zhang Y (2014). Alcohol quantity and type on risk of recurrent gout attacks: an internet-based case-crossover study. The American Journal of Medicine, 127(4), 311-318. <https://doi.org/10.1016/j.amjmed.2013.12.019>；Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Purine-rich foods, dairy and protein intake, and the risk of gout in men. New England Journal of Medicine, 350(11), 1093-1103. <https://doi.org/10.1056/NEJMoa035700>；Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Alcohol intake and risk of incident gout in men: a prospective study. Lancet, 363(9417), 1277-1281. <https://doi.org/10.1016/S0140-6736(04)16000-5>；Major TJ, Topless RK, Dalbeth N, Merriman TR (2018). Evaluation of the diet wide contribution to serum urate levels: meta-analysis of population based cohorts. BMJ, 363, k3951. <https://doi.org/10.1136/bmj.k3951>",
+   "sources": [
+    "https://doi.org/10.1136/annrheumdis-2011-201215",
+    "https://doi.org/10.1016/j.amjmed.2013.12.019",
+    "https://doi.org/10.1056/NEJMoa035700",
+    "https://doi.org/10.1016/S0140-6736",
+    "https://doi.org/10.1136/bmj.k3951"
+   ],
+   "link_count": 5,
+   "note": "主要写给已经发作过的人。没得过痛风的人，吃什么对尿酸的影响比一般人想的小。美国 16760 名没有痛风的白人成年人里，饮食习惯能解释的血尿酸差别不超过 0.3%，常见的基因差别能解释 23.9%。所以身边有人吃烧烤喝啤酒吃出了痛风，饮食是诱因之一，体质占得更多。要紧的是吃下去的肉、海鲜和酒的量，和烤不烤无关，凉菜海鲜配啤酒一样。三项都是观察性研究，发作时吃了什么是病人自己在网上报的，对象都是美国人，中国人的数据没找到。奶制品那个数也只是跟踪记录，没有试验证明多喝奶能防痛风。少吃不能代替降尿酸药，靠忌口降不到达标线，见第 9 条（确诊痛风就长期吃降尿酸药）。加工肉和酒按死亡率算的账见第 2 节第 18 条（少吃加工肉）和第 2 节第 19 条（少喝或不喝酒）",
+   "refs": [
+    {
+     "section": 2,
+     "no": 18
+    },
+    {
+     "section": 16,
+     "no": 9
     }
    ],
    "source_file": "16-得了慢性病之后怎么活.md"
   },
   {
    "id": "17-1",
-   "seq": 449,
+   "seq": 458,
    "section": 17,
    "section_title": "家里有老人",
    "no": 1,
@@ -16177,7 +16655,7 @@
   },
   {
    "id": "17-2",
-   "seq": 450,
+   "seq": 459,
    "section": 17,
    "section_title": "家里有老人",
    "no": 2,
@@ -16208,7 +16686,7 @@
   },
   {
    "id": "17-3",
-   "seq": 451,
+   "seq": 460,
    "section": 17,
    "section_title": "家里有老人",
    "no": 3,
@@ -16246,7 +16724,7 @@
   },
   {
    "id": "17-4",
-   "seq": 452,
+   "seq": 461,
    "section": 17,
    "section_title": "家里有老人",
    "no": 4,
@@ -16280,7 +16758,7 @@
   },
   {
    "id": "17-5",
-   "seq": 453,
+   "seq": 462,
    "section": 17,
    "section_title": "家里有老人",
    "no": 5,
@@ -16320,7 +16798,7 @@
   },
   {
    "id": "17-6",
-   "seq": 454,
+   "seq": 463,
    "section": 17,
    "section_title": "家里有老人",
    "no": 6,
@@ -16361,7 +16839,7 @@
   },
   {
    "id": "17-7",
-   "seq": 455,
+   "seq": 464,
    "section": 17,
    "section_title": "家里有老人",
    "no": 7,
@@ -16398,7 +16876,7 @@
   },
   {
    "id": "17-8",
-   "seq": 456,
+   "seq": 465,
    "section": 17,
    "section_title": "家里有老人",
    "no": 8,
@@ -16441,7 +16919,7 @@
   },
   {
    "id": "17-9",
-   "seq": 457,
+   "seq": 466,
    "section": 17,
    "section_title": "家里有老人",
    "no": 9,
@@ -16485,7 +16963,7 @@
   },
   {
    "id": "17-10",
-   "seq": 458,
+   "seq": 467,
    "section": 17,
    "section_title": "家里有老人",
    "no": 10,
@@ -16533,7 +17011,7 @@
   },
   {
    "id": "18-1",
-   "seq": 459,
+   "seq": 468,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 1,
@@ -16564,7 +17042,7 @@
   },
   {
    "id": "18-2",
-   "seq": 460,
+   "seq": 469,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 2,
@@ -16595,7 +17073,7 @@
   },
   {
    "id": "18-3",
-   "seq": 461,
+   "seq": 470,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 3,
@@ -16626,7 +17104,7 @@
   },
   {
    "id": "18-4",
-   "seq": 462,
+   "seq": 471,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 4,
@@ -16655,7 +17133,7 @@
   },
   {
    "id": "18-5",
-   "seq": 463,
+   "seq": 472,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 5,
@@ -16684,7 +17162,7 @@
   },
   {
    "id": "18-6",
-   "seq": 464,
+   "seq": 473,
    "section": 18,
    "section_title": "养孩子划不划算",
    "no": 6,
@@ -16713,7 +17191,7 @@
   },
   {
    "id": "19-1",
-   "seq": 465,
+   "seq": 474,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 1,
@@ -16750,7 +17228,7 @@
   },
   {
    "id": "19-2",
-   "seq": 466,
+   "seq": 475,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 2,
@@ -16782,7 +17260,7 @@
   },
   {
    "id": "19-3",
-   "seq": 467,
+   "seq": 476,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 3,
@@ -16818,7 +17296,7 @@
   },
   {
    "id": "19-4",
-   "seq": 468,
+   "seq": 477,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 4,
@@ -16849,7 +17327,7 @@
   },
   {
    "id": "19-5",
-   "seq": 469,
+   "seq": 478,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 5,
@@ -16881,7 +17359,7 @@
   },
   {
    "id": "19-6",
-   "seq": 470,
+   "seq": 479,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 6,
@@ -16912,7 +17390,7 @@
   },
   {
    "id": "19-7",
-   "seq": 471,
+   "seq": 480,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 7,
@@ -16943,7 +17421,7 @@
   },
   {
    "id": "19-8",
-   "seq": 472,
+   "seq": 481,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 8,
@@ -16979,7 +17457,7 @@
   },
   {
    "id": "19-9",
-   "seq": 473,
+   "seq": 482,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 9,
@@ -17015,7 +17493,7 @@
   },
   {
    "id": "19-10",
-   "seq": 474,
+   "seq": 483,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 10,
@@ -17057,7 +17535,7 @@
   },
   {
    "id": "19-11",
-   "seq": 475,
+   "seq": 484,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 11,
@@ -17089,7 +17567,7 @@
   },
   {
    "id": "19-12",
-   "seq": 476,
+   "seq": 485,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 12,
@@ -17120,7 +17598,7 @@
   },
   {
    "id": "19-13",
-   "seq": 477,
+   "seq": 486,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 13,
@@ -17151,7 +17629,7 @@
   },
   {
    "id": "19-14",
-   "seq": 478,
+   "seq": 487,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 14,
@@ -17182,7 +17660,7 @@
   },
   {
    "id": "19-15",
-   "seq": 479,
+   "seq": 488,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 15,
@@ -17214,7 +17692,7 @@
   },
   {
    "id": "19-16",
-   "seq": 480,
+   "seq": 489,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 16,
@@ -17259,7 +17737,7 @@
   },
   {
    "id": "19-17",
-   "seq": 481,
+   "seq": 490,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 17,
@@ -17300,7 +17778,7 @@
   },
   {
    "id": "19-18",
-   "seq": 482,
+   "seq": 491,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 18,
@@ -17333,7 +17811,7 @@
   },
   {
    "id": "19-19",
-   "seq": 483,
+   "seq": 492,
    "section": 19,
    "section_title": "在职、离职和工伤",
    "no": 19,
@@ -17377,7 +17855,7 @@
   },
   {
    "id": "20-1",
-   "seq": 484,
+   "seq": 493,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 1,
@@ -17408,7 +17886,7 @@
   },
   {
    "id": "20-2",
-   "seq": 485,
+   "seq": 494,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 2,
@@ -17439,7 +17917,7 @@
   },
   {
    "id": "20-3",
-   "seq": 486,
+   "seq": 495,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 3,
@@ -17476,7 +17954,7 @@
   },
   {
    "id": "20-4",
-   "seq": 487,
+   "seq": 496,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 4,
@@ -17508,7 +17986,7 @@
   },
   {
    "id": "20-5",
-   "seq": 488,
+   "seq": 497,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 5,
@@ -17545,7 +18023,7 @@
   },
   {
    "id": "20-6",
-   "seq": 489,
+   "seq": 498,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 6,
@@ -17576,7 +18054,7 @@
   },
   {
    "id": "20-7",
-   "seq": 490,
+   "seq": 499,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 7,
@@ -17608,7 +18086,7 @@
   },
   {
    "id": "20-8",
-   "seq": 491,
+   "seq": 500,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 8,
@@ -17639,7 +18117,7 @@
   },
   {
    "id": "20-9",
-   "seq": 492,
+   "seq": 501,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 9,
@@ -17671,7 +18149,7 @@
   },
   {
    "id": "20-10",
-   "seq": 493,
+   "seq": 502,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 10,
@@ -17703,7 +18181,7 @@
   },
   {
    "id": "20-11",
-   "seq": 494,
+   "seq": 503,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 11,
@@ -17744,7 +18222,7 @@
   },
   {
    "id": "20-12",
-   "seq": 495,
+   "seq": 504,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 12,
@@ -17782,7 +18260,7 @@
   },
   {
    "id": "20-13",
-   "seq": 496,
+   "seq": 505,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 13,
@@ -17824,7 +18302,7 @@
   },
   {
    "id": "20-14",
-   "seq": 497,
+   "seq": 506,
    "section": 20,
    "section_title": "刚出生的孩子怎么带",
    "no": 14,
@@ -17867,7 +18345,7 @@
   },
   {
    "id": "21-1",
-   "seq": 498,
+   "seq": 507,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 1,
@@ -17900,7 +18378,7 @@
   },
   {
    "id": "21-2",
-   "seq": 499,
+   "seq": 508,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 2,
@@ -17932,7 +18410,7 @@
   },
   {
    "id": "21-3",
-   "seq": 500,
+   "seq": 509,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 3,
@@ -17963,7 +18441,7 @@
   },
   {
    "id": "21-4",
-   "seq": 501,
+   "seq": 510,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 4,
@@ -18000,7 +18478,7 @@
   },
   {
    "id": "21-5",
-   "seq": 502,
+   "seq": 511,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 5,
@@ -18032,7 +18510,7 @@
   },
   {
    "id": "21-6",
-   "seq": 503,
+   "seq": 512,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 6,
@@ -18070,7 +18548,7 @@
   },
   {
    "id": "21-7",
-   "seq": 504,
+   "seq": 513,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 7,
@@ -18101,7 +18579,7 @@
   },
   {
    "id": "21-8",
-   "seq": 505,
+   "seq": 514,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 8,
@@ -18132,7 +18610,7 @@
   },
   {
    "id": "21-9",
-   "seq": 506,
+   "seq": 515,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 9,
@@ -18163,7 +18641,7 @@
   },
   {
    "id": "21-10",
-   "seq": 507,
+   "seq": 516,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 10,
@@ -18194,7 +18672,7 @@
   },
   {
    "id": "21-11",
-   "seq": 508,
+   "seq": 517,
    "section": 21,
    "section_title": "出国、旅行与境外安全",
    "no": 11,
@@ -18225,7 +18703,7 @@
   },
   {
    "id": "22-1",
-   "seq": 509,
+   "seq": 518,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 1,
@@ -18257,7 +18735,7 @@
   },
   {
    "id": "22-2",
-   "seq": 510,
+   "seq": 519,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 2,
@@ -18288,7 +18766,7 @@
   },
   {
    "id": "22-3",
-   "seq": 511,
+   "seq": 520,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 3,
@@ -18319,7 +18797,7 @@
   },
   {
    "id": "22-4",
-   "seq": 512,
+   "seq": 521,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 4,
@@ -18359,7 +18837,7 @@
   },
   {
    "id": "22-5",
-   "seq": 513,
+   "seq": 522,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 5,
@@ -18390,7 +18868,7 @@
   },
   {
    "id": "22-6",
-   "seq": 514,
+   "seq": 523,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 6,
@@ -18421,7 +18899,7 @@
   },
   {
    "id": "22-7",
-   "seq": 515,
+   "seq": 524,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 7,
@@ -18452,7 +18930,7 @@
   },
   {
    "id": "22-8",
-   "seq": 516,
+   "seq": 525,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 8,
@@ -18483,7 +18961,7 @@
   },
   {
    "id": "22-9",
-   "seq": 517,
+   "seq": 526,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 9,
@@ -18514,7 +18992,7 @@
   },
   {
    "id": "22-10",
-   "seq": 518,
+   "seq": 527,
    "section": 22,
    "section_title": "怎么放松：娱乐场所和减压",
    "no": 10,
@@ -18545,7 +19023,7 @@
   },
   {
    "id": "23-1",
-   "seq": 519,
+   "seq": 528,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 1,
@@ -18577,7 +19055,7 @@
   },
   {
    "id": "23-2",
-   "seq": 520,
+   "seq": 529,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 2,
@@ -18610,7 +19088,7 @@
   },
   {
    "id": "23-3",
-   "seq": 521,
+   "seq": 530,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 3,
@@ -18642,7 +19120,7 @@
   },
   {
    "id": "23-4",
-   "seq": 522,
+   "seq": 531,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 4,
@@ -18675,7 +19153,7 @@
   },
   {
    "id": "23-5",
-   "seq": 523,
+   "seq": 532,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 5,
@@ -18706,7 +19184,7 @@
   },
   {
    "id": "23-6",
-   "seq": 524,
+   "seq": 533,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 6,
@@ -18742,7 +19220,7 @@
   },
   {
    "id": "23-7",
-   "seq": 525,
+   "seq": 534,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 7,
@@ -18774,7 +19252,7 @@
   },
   {
    "id": "23-8",
-   "seq": 526,
+   "seq": 535,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 8,
@@ -18805,7 +19283,7 @@
   },
   {
    "id": "23-9",
-   "seq": 527,
+   "seq": 536,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 9,
@@ -18836,7 +19314,7 @@
   },
   {
    "id": "23-10",
-   "seq": 528,
+   "seq": 537,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 10,
@@ -18867,7 +19345,7 @@
   },
   {
    "id": "23-11",
-   "seq": 529,
+   "seq": 538,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 11,
@@ -18899,7 +19377,7 @@
   },
   {
    "id": "23-12",
-   "seq": 530,
+   "seq": 539,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 12,
@@ -18932,7 +19410,7 @@
   },
   {
    "id": "23-13",
-   "seq": 531,
+   "seq": 540,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 13,
@@ -18963,7 +19441,7 @@
   },
   {
    "id": "23-14",
-   "seq": 532,
+   "seq": 541,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 14,
@@ -18995,7 +19473,7 @@
   },
   {
    "id": "23-15",
-   "seq": 533,
+   "seq": 542,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 15,
@@ -19027,7 +19505,7 @@
   },
   {
    "id": "23-16",
-   "seq": 534,
+   "seq": 543,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 16,
@@ -19063,7 +19541,7 @@
   },
   {
    "id": "23-17",
-   "seq": 535,
+   "seq": 544,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 17,
@@ -19094,7 +19572,7 @@
   },
   {
    "id": "23-18",
-   "seq": 536,
+   "seq": 545,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 18,
@@ -19130,7 +19608,7 @@
   },
   {
    "id": "23-19",
-   "seq": 537,
+   "seq": 546,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 19,
@@ -19174,7 +19652,7 @@
   },
   {
    "id": "23-20",
-   "seq": 538,
+   "seq": 547,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 20,
@@ -19208,7 +19686,7 @@
   },
   {
    "id": "23-21",
-   "seq": 539,
+   "seq": 548,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 21,
@@ -19241,7 +19719,7 @@
   },
   {
    "id": "23-22",
-   "seq": 540,
+   "seq": 549,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 22,
@@ -19275,7 +19753,7 @@
   },
   {
    "id": "23-23",
-   "seq": 541,
+   "seq": 550,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 23,
@@ -19307,7 +19785,7 @@
   },
   {
    "id": "23-24",
-   "seq": 542,
+   "seq": 551,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 24,
@@ -19339,7 +19817,7 @@
   },
   {
    "id": "23-25",
-   "seq": 543,
+   "seq": 552,
    "section": 23,
    "section_title": "学什么技能划算",
    "no": 25,
@@ -19378,7 +19856,7 @@
   },
   {
    "id": "24-1",
-   "seq": 544,
+   "seq": 553,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 1,
@@ -19414,7 +19892,7 @@
   },
   {
    "id": "24-2",
-   "seq": 545,
+   "seq": 554,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 2,
@@ -19445,7 +19923,7 @@
   },
   {
    "id": "24-3",
-   "seq": 546,
+   "seq": 555,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 3,
@@ -19476,7 +19954,7 @@
   },
   {
    "id": "24-4",
-   "seq": 547,
+   "seq": 556,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 4,
@@ -19507,7 +19985,7 @@
   },
   {
    "id": "24-5",
-   "seq": 548,
+   "seq": 557,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 5,
@@ -19539,7 +20017,7 @@
   },
   {
    "id": "24-6",
-   "seq": 549,
+   "seq": 558,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 6,
@@ -19575,7 +20053,7 @@
   },
   {
    "id": "24-7",
-   "seq": 550,
+   "seq": 559,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 7,
@@ -19607,7 +20085,7 @@
   },
   {
    "id": "24-8",
-   "seq": 551,
+   "seq": 560,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 8,
@@ -19644,7 +20122,7 @@
   },
   {
    "id": "24-9",
-   "seq": 552,
+   "seq": 561,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 9,
@@ -19684,7 +20162,7 @@
   },
   {
    "id": "24-10",
-   "seq": 553,
+   "seq": 562,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 10,
@@ -19724,7 +20202,7 @@
   },
   {
    "id": "24-11",
-   "seq": 554,
+   "seq": 563,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 11,
@@ -19762,7 +20240,7 @@
   },
   {
    "id": "24-12",
-   "seq": 555,
+   "seq": 564,
    "section": 24,
    "section_title": "看病：怎么少花钱少走弯路",
    "no": 12,
@@ -19807,7 +20285,7 @@
   },
   {
    "id": "25-1",
-   "seq": 556,
+   "seq": 565,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 1,
@@ -19844,7 +20322,7 @@
   },
   {
    "id": "25-2",
-   "seq": 557,
+   "seq": 566,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 2,
@@ -19876,7 +20354,7 @@
   },
   {
    "id": "25-3",
-   "seq": 558,
+   "seq": 567,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 3,
@@ -19912,7 +20390,7 @@
   },
   {
    "id": "25-4",
-   "seq": 559,
+   "seq": 568,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 4,
@@ -19943,7 +20421,7 @@
   },
   {
    "id": "25-5",
-   "seq": 560,
+   "seq": 569,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 5,
@@ -19979,7 +20457,7 @@
   },
   {
    "id": "25-6",
-   "seq": 561,
+   "seq": 570,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 6,
@@ -20010,7 +20488,7 @@
   },
   {
    "id": "25-7",
-   "seq": 562,
+   "seq": 571,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 7,
@@ -20041,7 +20519,7 @@
   },
   {
    "id": "25-8",
-   "seq": 563,
+   "seq": 572,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 8,
@@ -20072,7 +20550,7 @@
   },
   {
    "id": "25-9",
-   "seq": 564,
+   "seq": 573,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 9,
@@ -20107,7 +20585,7 @@
   },
   {
    "id": "25-10",
-   "seq": 565,
+   "seq": 574,
    "section": 25,
    "section_title": "人走了以后要办什么",
    "no": 10,
@@ -20138,7 +20616,7 @@
   },
   {
    "id": "26-1",
-   "seq": 566,
+   "seq": 575,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 1,
@@ -20172,7 +20650,7 @@
   },
   {
    "id": "26-2",
-   "seq": 567,
+   "seq": 576,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 2,
@@ -20207,7 +20685,7 @@
   },
   {
    "id": "26-3",
-   "seq": 568,
+   "seq": 577,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 3,
@@ -20241,7 +20719,7 @@
   },
   {
    "id": "26-4",
-   "seq": 569,
+   "seq": 578,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 4,
@@ -20274,7 +20752,7 @@
   },
   {
    "id": "26-5",
-   "seq": 570,
+   "seq": 579,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 5,
@@ -20308,7 +20786,7 @@
   },
   {
    "id": "26-6",
-   "seq": 571,
+   "seq": 580,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 6,
@@ -20341,7 +20819,7 @@
   },
   {
    "id": "26-7",
-   "seq": 572,
+   "seq": 581,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 7,
@@ -20374,7 +20852,7 @@
   },
   {
    "id": "26-8",
-   "seq": 573,
+   "seq": 582,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 8,
@@ -20408,7 +20886,7 @@
   },
   {
    "id": "26-9",
-   "seq": 574,
+   "seq": 583,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 9,
@@ -20445,7 +20923,7 @@
   },
   {
    "id": "26-10",
-   "seq": 575,
+   "seq": 584,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 10,
@@ -20478,7 +20956,7 @@
   },
   {
    "id": "26-11",
-   "seq": 576,
+   "seq": 585,
    "section": 26,
    "section_title": "做一个网站或平台：资质、备案和服务器",
    "no": 11,
@@ -20512,7 +20990,7 @@
   },
   {
    "id": "27-1",
-   "seq": 577,
+   "seq": 586,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 1,
@@ -20548,7 +21026,7 @@
   },
   {
    "id": "27-2",
-   "seq": 578,
+   "seq": 587,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 2,
@@ -20580,7 +21058,7 @@
   },
   {
    "id": "27-3",
-   "seq": 579,
+   "seq": 588,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 3,
@@ -20617,7 +21095,7 @@
   },
   {
    "id": "27-4",
-   "seq": 580,
+   "seq": 589,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 4,
@@ -20648,7 +21126,7 @@
   },
   {
    "id": "27-5",
-   "seq": 581,
+   "seq": 590,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 5,
@@ -20679,7 +21157,7 @@
   },
   {
    "id": "27-6",
-   "seq": 582,
+   "seq": 591,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 6,
@@ -20710,7 +21188,7 @@
   },
   {
    "id": "27-7",
-   "seq": 583,
+   "seq": 592,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 7,
@@ -20742,7 +21220,7 @@
   },
   {
    "id": "27-8",
-   "seq": 584,
+   "seq": 593,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 8,
@@ -20774,7 +21252,7 @@
   },
   {
    "id": "27-9",
-   "seq": 585,
+   "seq": 594,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 9,
@@ -20806,7 +21284,7 @@
   },
   {
    "id": "27-10",
-   "seq": 586,
+   "seq": 595,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 10,
@@ -20837,7 +21315,7 @@
   },
   {
    "id": "27-11",
-   "seq": 587,
+   "seq": 596,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 11,
@@ -20873,7 +21351,7 @@
   },
   {
    "id": "27-12",
-   "seq": 588,
+   "seq": 597,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 12,
@@ -20904,7 +21382,7 @@
   },
   {
    "id": "27-13",
-   "seq": 589,
+   "seq": 598,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 13,
@@ -20935,7 +21413,7 @@
   },
   {
    "id": "27-14",
-   "seq": 590,
+   "seq": 599,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 14,
@@ -20966,7 +21444,7 @@
   },
   {
    "id": "27-15",
-   "seq": 591,
+   "seq": 600,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 15,
@@ -20997,7 +21475,7 @@
   },
   {
    "id": "27-16",
-   "seq": 592,
+   "seq": 601,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 16,
@@ -21034,7 +21512,7 @@
   },
   {
    "id": "27-17",
-   "seq": 593,
+   "seq": 602,
    "section": 27,
    "section_title": "怀孕和生产：从发现怀孕到出院办证",
    "no": 17,
@@ -21070,7 +21548,7 @@
   },
   {
    "id": "28-1",
-   "seq": 594,
+   "seq": 603,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 1,
@@ -21107,7 +21585,7 @@
   },
   {
    "id": "28-2",
-   "seq": 595,
+   "seq": 604,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 2,
@@ -21139,7 +21617,7 @@
   },
   {
    "id": "28-3",
-   "seq": 596,
+   "seq": 605,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 3,
@@ -21170,7 +21648,7 @@
   },
   {
    "id": "28-4",
-   "seq": 597,
+   "seq": 606,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 4,
@@ -21202,7 +21680,7 @@
   },
   {
    "id": "28-5",
-   "seq": 598,
+   "seq": 607,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 5,
@@ -21234,7 +21712,7 @@
   },
   {
    "id": "28-6",
-   "seq": 599,
+   "seq": 608,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 6,
@@ -21266,7 +21744,7 @@
   },
   {
    "id": "28-7",
-   "seq": 600,
+   "seq": 609,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 7,
@@ -21298,7 +21776,7 @@
   },
   {
    "id": "28-8",
-   "seq": 601,
+   "seq": 610,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 8,
@@ -21329,7 +21807,7 @@
   },
   {
    "id": "28-9",
-   "seq": 602,
+   "seq": 611,
    "section": 28,
    "section_title": "别为了外形把身体搞坏",
    "no": 9,
@@ -21367,7 +21845,7 @@
   },
   {
    "id": "29-1",
-   "seq": 603,
+   "seq": 612,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 1,
@@ -21399,7 +21877,7 @@
   },
   {
    "id": "29-2",
-   "seq": 604,
+   "seq": 613,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 2,
@@ -21430,7 +21908,7 @@
   },
   {
    "id": "29-3",
-   "seq": 605,
+   "seq": 614,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 3,
@@ -21461,7 +21939,7 @@
   },
   {
    "id": "29-4",
-   "seq": 606,
+   "seq": 615,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 4,
@@ -21499,7 +21977,7 @@
   },
   {
    "id": "29-5",
-   "seq": 607,
+   "seq": 616,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 5,
@@ -21531,7 +22009,7 @@
   },
   {
    "id": "29-6",
-   "seq": 608,
+   "seq": 617,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 6,
@@ -21568,7 +22046,7 @@
   },
   {
    "id": "29-7",
-   "seq": 609,
+   "seq": 618,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 7,
@@ -21599,7 +22077,7 @@
   },
   {
    "id": "29-8",
-   "seq": 610,
+   "seq": 619,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 8,
@@ -21632,7 +22110,7 @@
   },
   {
    "id": "29-9",
-   "seq": 611,
+   "seq": 620,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 9,
@@ -21666,7 +22144,7 @@
   },
   {
    "id": "29-10",
-   "seq": 612,
+   "seq": 621,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 10,
@@ -21697,7 +22175,7 @@
   },
   {
    "id": "29-11",
-   "seq": 613,
+   "seq": 622,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 11,
@@ -21733,7 +22211,7 @@
   },
   {
    "id": "29-12",
-   "seq": 614,
+   "seq": 623,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 12,
@@ -21767,7 +22245,7 @@
   },
   {
    "id": "29-13",
-   "seq": 615,
+   "seq": 624,
    "section": 29,
    "section_title": "遭遇重大打击之后",
    "no": 13,
@@ -21813,7 +22291,7 @@
   },
   {
    "id": "30-1",
-   "seq": 616,
+   "seq": 625,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 1,
@@ -21844,7 +22322,7 @@
   },
   {
    "id": "30-2",
-   "seq": 617,
+   "seq": 626,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 2,
@@ -21884,7 +22362,7 @@
   },
   {
    "id": "30-3",
-   "seq": 618,
+   "seq": 627,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 3,
@@ -21916,7 +22394,7 @@
   },
   {
    "id": "30-4",
-   "seq": 619,
+   "seq": 628,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 4,
@@ -21948,7 +22426,7 @@
   },
   {
    "id": "30-5",
-   "seq": 620,
+   "seq": 629,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 5,
@@ -21987,7 +22465,7 @@
   },
   {
    "id": "30-6",
-   "seq": 621,
+   "seq": 630,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 6,
@@ -22028,7 +22506,7 @@
   },
   {
    "id": "30-7",
-   "seq": 622,
+   "seq": 631,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 7,
@@ -22059,7 +22537,7 @@
   },
   {
    "id": "30-8",
-   "seq": 623,
+   "seq": 632,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 8,
@@ -22096,7 +22574,7 @@
   },
   {
    "id": "30-9",
-   "seq": 624,
+   "seq": 633,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 9,
@@ -22127,7 +22605,7 @@
   },
   {
    "id": "30-10",
-   "seq": 625,
+   "seq": 634,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 10,
@@ -22159,7 +22637,7 @@
   },
   {
    "id": "30-11",
-   "seq": 626,
+   "seq": 635,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 11,
@@ -22191,7 +22669,7 @@
   },
   {
    "id": "30-12",
-   "seq": 627,
+   "seq": 636,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 12,
@@ -22227,7 +22705,7 @@
   },
   {
    "id": "30-13",
-   "seq": 628,
+   "seq": 637,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 13,
@@ -22263,7 +22741,7 @@
   },
   {
    "id": "30-14",
-   "seq": 629,
+   "seq": 638,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 14,
@@ -22301,7 +22779,7 @@
   },
   {
    "id": "30-15",
-   "seq": 630,
+   "seq": 639,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 15,
@@ -22346,7 +22824,7 @@
   },
   {
    "id": "30-16",
-   "seq": 631,
+   "seq": 640,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 16,
@@ -22389,7 +22867,7 @@
   },
   {
    "id": "30-17",
-   "seq": 632,
+   "seq": 641,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 17,
@@ -22424,7 +22902,7 @@
   },
   {
    "id": "30-18",
-   "seq": 633,
+   "seq": 642,
    "section": 30,
    "section_title": "上学以后的孩子",
    "no": 18,
@@ -22459,7 +22937,7 @@
   },
   {
    "id": "31-1",
-   "seq": 634,
+   "seq": 643,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 1,
@@ -22518,7 +22996,7 @@
   },
   {
    "id": "31-2",
-   "seq": 635,
+   "seq": 644,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 2,
@@ -22556,7 +23034,7 @@
   },
   {
    "id": "31-3",
-   "seq": 636,
+   "seq": 645,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 3,
@@ -22592,7 +23070,7 @@
   },
   {
    "id": "31-4",
-   "seq": 637,
+   "seq": 646,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 4,
@@ -22629,7 +23107,7 @@
   },
   {
    "id": "31-5",
-   "seq": 638,
+   "seq": 647,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 5,
@@ -22661,7 +23139,7 @@
   },
   {
    "id": "31-6",
-   "seq": 639,
+   "seq": 648,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 6,
@@ -22698,7 +23176,7 @@
   },
   {
    "id": "31-7",
-   "seq": 640,
+   "seq": 649,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 7,
@@ -22731,7 +23209,7 @@
   },
   {
    "id": "31-8",
-   "seq": 641,
+   "seq": 650,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 8,
@@ -22762,7 +23240,7 @@
   },
   {
    "id": "31-9",
-   "seq": 642,
+   "seq": 651,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 9,
@@ -22794,7 +23272,7 @@
   },
   {
    "id": "31-10",
-   "seq": 643,
+   "seq": 652,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 10,
@@ -22836,7 +23314,7 @@
   },
   {
    "id": "31-11",
-   "seq": 644,
+   "seq": 653,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 11,
@@ -22881,7 +23359,7 @@
   },
   {
    "id": "31-12",
-   "seq": 645,
+   "seq": 654,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 12,
@@ -22917,7 +23395,7 @@
   },
   {
    "id": "31-13",
-   "seq": 646,
+   "seq": 655,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 13,
@@ -22949,7 +23427,7 @@
   },
   {
    "id": "31-14",
-   "seq": 647,
+   "seq": 656,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 14,
@@ -22985,7 +23463,7 @@
   },
   {
    "id": "31-15",
-   "seq": 648,
+   "seq": 657,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 15,
@@ -23020,7 +23498,7 @@
   },
   {
    "id": "31-16",
-   "seq": 649,
+   "seq": 658,
    "section": 31,
    "section_title": "十八岁之后有哪几条路",
    "no": 16,
@@ -23056,7 +23534,7 @@
   },
   {
    "id": "32-1",
-   "seq": 650,
+   "seq": 659,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 1,
@@ -23088,7 +23566,7 @@
   },
   {
    "id": "32-2",
-   "seq": 651,
+   "seq": 660,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 2,
@@ -23123,7 +23601,7 @@
   },
   {
    "id": "32-3",
-   "seq": 652,
+   "seq": 661,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 3,
@@ -23157,7 +23635,7 @@
   },
   {
    "id": "32-4",
-   "seq": 653,
+   "seq": 662,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 4,
@@ -23190,7 +23668,7 @@
   },
   {
    "id": "32-5",
-   "seq": 654,
+   "seq": 663,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 5,
@@ -23222,7 +23700,7 @@
   },
   {
    "id": "32-6",
-   "seq": 655,
+   "seq": 664,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 6,
@@ -23255,7 +23733,7 @@
   },
   {
    "id": "32-7",
-   "seq": 656,
+   "seq": 665,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 7,
@@ -23286,7 +23764,7 @@
   },
   {
    "id": "32-8",
-   "seq": 657,
+   "seq": 666,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 8,
@@ -23318,7 +23796,7 @@
   },
   {
    "id": "32-9",
-   "seq": 658,
+   "seq": 667,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 9,
@@ -23349,7 +23827,7 @@
   },
   {
    "id": "32-10",
-   "seq": 659,
+   "seq": 668,
    "section": 32,
    "section_title": "出国留学：身份、打工、保险和回国认证",
    "no": 10,
@@ -23381,7 +23859,7 @@
   },
   {
    "id": "33-1",
-   "seq": 660,
+   "seq": 669,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 1,
@@ -23412,7 +23890,7 @@
   },
   {
    "id": "33-2",
-   "seq": 661,
+   "seq": 670,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 2,
@@ -23456,7 +23934,7 @@
   },
   {
    "id": "33-3",
-   "seq": 662,
+   "seq": 671,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 3,
@@ -23487,7 +23965,7 @@
   },
   {
    "id": "33-4",
-   "seq": 663,
+   "seq": 672,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 4,
@@ -23523,7 +24001,7 @@
   },
   {
    "id": "33-5",
-   "seq": 664,
+   "seq": 673,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 5,
@@ -23559,7 +24037,7 @@
   },
   {
    "id": "33-6",
-   "seq": 665,
+   "seq": 674,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 6,
@@ -23599,7 +24077,7 @@
   },
   {
    "id": "33-7",
-   "seq": 666,
+   "seq": 675,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 7,
@@ -23639,7 +24117,7 @@
   },
   {
    "id": "33-8",
-   "seq": 667,
+   "seq": 676,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 8,
@@ -23671,7 +24149,7 @@
   },
   {
    "id": "33-9",
-   "seq": 668,
+   "seq": 677,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 9,
@@ -23702,7 +24180,7 @@
   },
   {
    "id": "33-10",
-   "seq": 669,
+   "seq": 678,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 10,
@@ -23744,7 +24222,7 @@
   },
   {
    "id": "33-11",
-   "seq": 670,
+   "seq": 679,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 11,
@@ -23776,7 +24254,7 @@
   },
   {
    "id": "33-12",
-   "seq": 671,
+   "seq": 680,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 12,
@@ -23808,7 +24286,7 @@
   },
   {
    "id": "33-13",
-   "seq": 672,
+   "seq": 681,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 13,
@@ -23839,7 +24317,7 @@
   },
   {
    "id": "33-14",
-   "seq": 673,
+   "seq": 682,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 14,
@@ -23875,7 +24353,7 @@
   },
   {
    "id": "33-15",
-   "seq": 674,
+   "seq": 683,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 15,
@@ -23906,7 +24384,7 @@
   },
   {
    "id": "33-16",
-   "seq": 675,
+   "seq": 684,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 16,
@@ -23943,7 +24421,7 @@
   },
   {
    "id": "33-17",
-   "seq": 676,
+   "seq": 685,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 17,
@@ -23974,7 +24452,7 @@
   },
   {
    "id": "33-18",
-   "seq": 677,
+   "seq": 686,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 18,
@@ -24005,7 +24483,7 @@
   },
   {
    "id": "33-19",
-   "seq": 678,
+   "seq": 687,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 19,
@@ -24041,7 +24519,7 @@
   },
   {
    "id": "33-20",
-   "seq": 679,
+   "seq": 688,
    "section": 33,
    "section_title": "残疾之后怎么活",
    "no": 20,
@@ -24079,7 +24557,7 @@
   },
   {
    "id": "34-1",
-   "seq": 680,
+   "seq": 689,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 1,
@@ -24112,7 +24590,7 @@
   },
   {
    "id": "34-2",
-   "seq": 681,
+   "seq": 690,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 2,
@@ -24150,7 +24628,7 @@
   },
   {
    "id": "34-3",
-   "seq": 682,
+   "seq": 691,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 3,
@@ -24187,7 +24665,7 @@
   },
   {
    "id": "34-4",
-   "seq": 683,
+   "seq": 692,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 4,
@@ -24224,7 +24702,7 @@
   },
   {
    "id": "34-5",
-   "seq": 684,
+   "seq": 693,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 5,
@@ -24260,7 +24738,7 @@
   },
   {
    "id": "34-6",
-   "seq": 685,
+   "seq": 694,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 6,
@@ -24291,7 +24769,7 @@
   },
   {
    "id": "34-7",
-   "seq": 686,
+   "seq": 695,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 7,
@@ -24322,7 +24800,7 @@
   },
   {
    "id": "34-8",
-   "seq": 687,
+   "seq": 696,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 8,
@@ -24354,7 +24832,7 @@
   },
   {
    "id": "34-9",
-   "seq": 688,
+   "seq": 697,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 9,
@@ -24386,7 +24864,7 @@
   },
   {
    "id": "34-10",
-   "seq": 689,
+   "seq": 698,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 10,
@@ -24427,7 +24905,7 @@
   },
   {
    "id": "34-11",
-   "seq": 690,
+   "seq": 699,
    "section": 34,
    "section_title": "家里的常备药别吃出事",
    "no": 11,

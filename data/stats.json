@@ -2,51 +2,51 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "cf90fd02a527d03f4bdd884c800d669f7d15b06f",
-  "synced_at": "2026-10-14T01:12:27Z",
+  "upstream_commit": "4540c90a23bb311ff146d2d653cafc23c1b0b01e",
+  "synced_at": "2026-10-15T00:30:59Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
  "stats": {
-  "entries": 690,
+  "entries": 699,
   "sections": 34,
   "grade": {
-   "A": 450,
-   "B": 193,
-   "C": 47
+   "A": 454,
+   "B": 197,
+   "C": 48
   },
-  "disputed": 75,
+  "disputed": 79,
   "evidence_flagged": 5,
   "todo": 3,
-  "links": 1828,
-  "refs": 375,
+  "links": 1931,
+  "refs": 398,
   "ratio": {
    "极高": 117,
-   "高": 310,
-   "一般": 263
+   "高": 314,
+   "一般": 268
   },
   "per_section": [
    {
     "no": 1,
     "title": "不要早死",
-    "entries": 43,
-    "A": 28,
-    "B": 12,
-    "C": 3,
+    "entries": 48,
+    "A": 31,
+    "B": 13,
+    "C": 4,
     "极高": 6,
-    "高": 22,
-    "一般": 15
+    "高": 25,
+    "一般": 17
    },
    {
     "no": 2,
     "title": "不要慢慢死",
-    "entries": 44,
-    "A": 32,
-    "B": 12,
+    "entries": 47,
+    "A": 33,
+    "B": 14,
     "C": 0,
     "极高": 1,
     "高": 23,
-    "一般": 20
+    "一般": 23
    },
    {
     "no": 3,
@@ -194,12 +194,12 @@
    {
     "no": 16,
     "title": "得了慢性病之后怎么活",
-    "entries": 9,
+    "entries": 10,
     "A": 7,
-    "B": 2,
+    "B": 3,
     "C": 0,
     "极高": 1,
-    "高": 6,
+    "高": 7,
     "一般": 2
    },
    {
