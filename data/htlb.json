@@ -2,8 +2,8 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "e2edc2e2ea80635412aac1b0c4f5b465c0fa3133",
-  "synced_at": "2026-11-06T02:23:48Z",
+  "upstream_commit": "21ad9068a207fb5f99d7ae60a9ef9a814a45ba20",
+  "synced_at": "2026-11-07T01:53:52Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
@@ -4058,11 +4058,11 @@
    "cost_text": "不花钱。难在长期对抗「再看一集」的惯性。手机不进卧室最省力。",
    "plain": "2025 年中国人夜里平均睡 6.97 小时，平均 0:10 才入睡。在孩子和青少年里，睡前用手机、平板的，睡不够和白天犯困的都明显更多。设备只是放在卧室里不用，也差不多。想改的话，最省事的办法是手机不进卧室。",
    "benefit_text": "2025 年我国居民夜间平均睡眠 6.97 小时，平均入睡时间 0:10（中国睡眠研究会）。睡前用便携设备的人，睡不够的比值比是 2.17（OR 2.17）。这一段的数字都是比值比，不能直接读成概率的倍数。睡眠质量差的比值比是 1.46（OR 1.46）。白天犯困的比值比是 2.72（OR 2.72）。设备只是放在卧室里、并不使用，比值比也差不多，分别是 1.79、1.53、2.27（OR 1.79/1.53/2.27）。这部分是把 20 项同一时间点的调查、125198 名儿童青少年合起来算的。另一项同一时间点的调查有 844 名 18 到 94 岁成人。其中关灯后仍用手机的人入睡更慢，躺在床上真正睡着的比例更低，白天更疲劳。",
-   "source_text": "Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341>；Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>；中国睡眠研究会 (2026). 2026 中国睡眠健康研究白皮书（福建省卫健委转载健康报报道）. <https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm>；Grubbs JB 等 (2018). Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis. Archives of Sexual Behavior. <https://doi.org/10.1007/s10508-018-1248-x>（备注里的争议方之一）；Prause N, Pfaus J (2015). Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction. Sexual Medicine. <https://doi.org/10.1002/sm2.58>（备注里的争议方之二）",
+   "source_text": "Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341>；Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>；中国睡眠研究会 (2026). 2026 中国睡眠健康研究白皮书（福建省卫健委转载健康报报道）. <https://web.archive.org/web/20261001203506/https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm>（原页面已下线，链接为 2026 年 10 月 1 日的网页存档）；Grubbs JB 等 (2018). Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis. Archives of Sexual Behavior. <https://doi.org/10.1007/s10508-018-1248-x>（备注里的争议方之一）；Prause N, Pfaus J (2015). Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction. Sexual Medicine. <https://doi.org/10.1002/sm2.58>（备注里的争议方之二）",
    "sources": [
     "https://doi.org/10.1001/jamapediatrics.2016.2341",
     "https://doi.org/10.1016/j.socscimed.2015.11.037",
-    "https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm",
+    "https://web.archive.org/web/20261001203506/https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm",
     "https://doi.org/10.1007/s10508-018-1248-x",
     "https://doi.org/10.1002/sm2.58"
    ],
@@ -20259,9 +20259,9 @@
    "cost_text": "不花钱。法律写明「接种单位接种免疫规划疫苗不得收取任何费用」。要按月龄跑几趟接种门诊。预防接种证收好，别弄丢",
    "plain": "国家免疫规划里的疫苗全程免费，接种单位不能收钱。孩子入托、入学都要查预防接种证，漏打的一般会被查出来补上。错过了只补没打完的那几剂，不用从头再打，换了厂家也能接着打。",
    "benefit_text": "孩子入托、入学的时候，托幼机构和学校要查验预防接种证。发现没按规定接种免疫规划疫苗的，要报告接种单位，并且配合督促监护人补种。所以漏打的疫苗，入托、入学查验预防接种证时一般会被发现。现在执行的是 2026 年版程序。人乳头瘤病毒（HPV）疫苗已经纳入国家免疫规划。百白破疫苗的起始接种年龄从 3 月龄改成 2 月龄。一共 5 剂，分别在 2 月龄、4 月龄、6 月龄、18 月龄和 6 周岁各打 1 剂。西藏、青海、新疆和新疆生产建设兵团的适龄儿童，2026 年 3 月起也常规接种乙脑疫苗。几种疫苗可以同一天打：现阶段国家免疫规划疫苗都可以按免疫程序或补种原则同时接种。两种及以上打针的疫苗要打在不同部位，「严禁将两种或多种疫苗混合吸入同一支注射器内接种」。没在同一天打的，两种及以上打针的减毒活疫苗之间要间隔不小于 28 天。灭活疫苗、口服的减毒活疫苗和其他疫苗之间的间隔不作限制。不满 18 周岁的补种原则是尽早补种，「只需补种未完成的剂次，无需重新开始全程接种」，同一种疫苗换厂家可以接着打（全国，2026 年版程序）",
-   "source_text": "全国人大常委会 (2019). 疫苗管理法（第四十八、四十九条）. <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html>（云南省卫生健康委员会转载）；国家疾病预防控制局、国家卫生健康委 (2026). 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>",
+   "source_text": "全国人大常委会 (2019). 疫苗管理法（第四十八、四十九条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_dde03480953841a5912c864dc29003d0.html>（国家市场监督管理总局网站转载）；国家疾病预防控制局、国家卫生健康委 (2026). 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>",
    "sources": [
-    "http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html",
+    "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_dde03480953841a5912c864dc29003d0.html",
     "https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html"
    ],
    "link_count": 2,
@@ -26629,13 +26629,13 @@
    "cost_text": "报名费和教材费每年几百元。代价是长期自学，或者业余去上课，非脱产（边工作边读）的专升本最短要读两年半，难在要长期坚持。",
    "plain": "十八岁没读成书，后面还有自考、成人高考、开放大学三条正规通道。自考不限年龄和原来的学历，但全日制在校生不能报。毕业证要在学信网查得到才算数，查得到以后学校也改不了。说「不用学习」「免考包过」的，都别交钱。",
    "benefit_text": "自考看《高等教育自学考试暂行条例》。第三条：「中华人民共和国公民，不受性别、年龄、民族、种族和已受教育程度的限制，均可依照本条例的规定参加高等教育自学考试」。第二十条：「各级各类全日制学校的在校生不得报考」。第二十五条写了拿毕业证的三个条件：考完全部课程并合格、完成毕业论文或实践任务、思想品德鉴定合格。都做到了就可取得毕业证书。这一条还写着「获得专科（基础科）或本科毕业证书者，国家承认其学历」。第三十二条写毕业证书获得者的工资待遇：「非在职人员录用后，与普通高等学校同类毕业生相同」。《高等教育法》第二十一条「国家实行高等教育自学考试制度，经考试合格的，发给相应的学历证书或者其他学业证书」。成人高考看《2025 年全国成人高校招生办法》。报名对象是「国家承认学历的各类高、中等学校在校生以外的从业人员和社会其他人员」。「报考高起本或高起专的考生应高级中等教育学校毕业或者具有同等学力。报考专升本的考生必须是已取得……专科毕业证书、本科结业证书或以上证书的人员」。「脱产最短学习时间为：高起本四年、高起专和专升本两年，非脱产最短学习时间为：高起本五年、高起专和专升本两年半」。脱产就是离开工作全天在校读，非脱产就是不离开工作、边干边读。开放大学看《教育部关于办好开放大学的意见》。它写着：「开放大学实行注册入学，学生修完课程并获得相应学分，即可获得课程证书，修满规定的学分并达到相关要求，即可获得相应的学历与非学历证书，符合学位授予条件的应授予相应学位」（全国）。学历真假看教育部《高等学校学生学籍学历电子注册办法》。第二条写明，自考毕业证书也要做电子注册。第五条：学信网「是高等学校学生学籍学历电子注册信息查询的唯一网站」。第十九条：学历注册并提供网上查询后，「学校不得变更证书内容及注册信息」。招生宣传的红线看教育部等五部门 2021 年的通知。学历继续教育广告「不得出现“无需学习”“无需上课”等虚假违规内容」。也「不得出现“快速取证”“免考包过”“考不过退款”等对教育效果作出明示或者暗示的保证性承诺」。专修学院、研修学院这类机构发不了学历，广告也不得把它们和能发学历的高校混为一谈。",
-   "source_text": "国务院 (1988, 2014 修订). 高等教育自学考试暂行条例（第三、二十、二十五、三十二条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d>（国家法律法规数据库）；全国人大常委会 (2018). 高等教育法（第二十一条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f20df64ec16c5>（国家法律法规数据库）；教育部办公厅 (2025). 关于做好 2025 年全国成人高校招生工作的通知（教学厅〔2025〕6 号）及附件《2025 年全国成人高校招生办法》. <https://www.gov.cn/zhengce/zhengceku/202509/content_7040877.htm>；教育部 (2016). 关于办好开放大学的意见（教职成〔2016〕2 号）. <http://www.gov.cn/gongbao/content/2016/content_5067956.htm>；教育部 (2007). 关于进一步做好高等学校各类招生管理工作的通知（教发〔2007〕13 号）：「普通专升本招生计划按不超过当年应届普通高职（专科）毕业生5%的比例安排」. <http://www.moe.gov.cn/s78/A03/s7050/201006/t20100607_88782.html>；教育部 (2014). 关于印发《高等学校学生学籍学历电子注册办法》的通知（教学〔2014〕11 号，第二、五、十九条）. <https://www.gov.cn/gongbao/content/2015/content_2806021.htm>；教育部办公厅等五部门 (2021). 关于加强高等学历继续教育广告发布管理的通知（教职成厅函〔2021〕21 号）. <https://www.gov.cn/zhengce/zhengceku/2021-10/14/content_5642410.htm>；中国政府网 (2020). 今年扩招硕士18.9万，专升本32.2万——毕业生就业帮扶发力，教育部副部长翁铁慧：「扩大普通高校专升本的规模，同比争取增加32.2万人」. <http://www.gov.cn/zhengce/2020-02/29/content_5484774.htm>；福建省教育考试院 (2026). 转发时引「教育部高校学生司《关于做好2026年普通高等学校专升本考试招生工作的通知》（教学司函〔2025〕53号）」. <https://www.eeafj.cn/gkzsb/20260310/14437.html>",
+   "source_text": "国务院 (1988, 2014 修订). 高等教育自学考试暂行条例（第三、二十、二十五、三十二条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d>（国家法律法规数据库）；全国人大常委会 (2018). 高等教育法（第二十一条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f20df64ec16c5>（国家法律法规数据库）；教育部办公厅 (2025). 关于做好 2025 年全国成人高校招生工作的通知（教学厅〔2025〕6 号）及附件《2025 年全国成人高校招生办法》. <https://www.gov.cn/zhengce/zhengceku/202509/content_7040877.htm>；教育部 (2016). 关于办好开放大学的意见（教职成〔2016〕2 号）. <http://www.gov.cn/gongbao/content/2016/content_5067956.htm>；教育部 (2007). 关于进一步做好高等学校各类招生管理工作的通知（教发〔2007〕13 号）：「普通专升本招生计划按不超过当年应届普通高职（专科）毕业生5%的比例安排」. <https://web.archive.org/web/20261008091350/http://www.moe.gov.cn/s78/A03/s7050/201006/t20100607_88782.html>（原页面已下线，链接为 2026 年 10 月 8 日的网页存档）；教育部 (2014). 关于印发《高等学校学生学籍学历电子注册办法》的通知（教学〔2014〕11 号，第二、五、十九条）. <https://www.gov.cn/gongbao/content/2015/content_2806021.htm>；教育部办公厅等五部门 (2021). 关于加强高等学历继续教育广告发布管理的通知（教职成厅函〔2021〕21 号）. <https://www.gov.cn/zhengce/zhengceku/2021-10/14/content_5642410.htm>；中国政府网 (2020). 今年扩招硕士18.9万，专升本32.2万——毕业生就业帮扶发力，教育部副部长翁铁慧：「扩大普通高校专升本的规模，同比争取增加32.2万人」. <http://www.gov.cn/zhengce/2020-02/29/content_5484774.htm>；福建省教育考试院 (2026). 转发时引「教育部高校学生司《关于做好2026年普通高等学校专升本考试招生工作的通知》（教学司函〔2025〕53号）」. <https://www.eeafj.cn/gkzsb/20260310/14437.html>",
    "sources": [
     "https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d",
     "https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f20df64ec16c5",
     "https://www.gov.cn/zhengce/zhengceku/202509/content_7040877.htm",
     "http://www.gov.cn/gongbao/content/2016/content_5067956.htm",
-    "http://www.moe.gov.cn/s78/A03/s7050/201006/t20100607_88782.html",
+    "https://web.archive.org/web/20261008091350/http://www.moe.gov.cn/s78/A03/s7050/201006/t20100607_88782.html",
     "https://www.gov.cn/gongbao/content/2015/content_2806021.htm",
     "https://www.gov.cn/zhengce/zhengceku/2021-10/14/content_5642410.htm",
     "http://www.gov.cn/zhengce/2020-02/29/content_5484774.htm",
