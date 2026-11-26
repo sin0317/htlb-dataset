@@ -2,40 +2,40 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "49fceab4254c8c2df0f7cdb1b2959cab6c451b96",
-  "synced_at": "2026-11-25T04:52:59Z",
+  "upstream_commit": "6f1dd6ba49627b40697a788608923ac4d2260456",
+  "synced_at": "2026-11-26T04:08:06Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
  "stats": {
-  "entries": 772,
+  "entries": 774,
   "sections": 34,
   "grade": {
    "A": 497,
-   "B": 223,
+   "B": 225,
    "C": 52
   },
   "disputed": 90,
   "evidence_flagged": 5,
   "todo": 0,
-  "links": 2582,
-  "refs": 574,
+  "links": 2599,
+  "refs": 576,
   "ratio": {
    "极高": 123,
    "高": 343,
-   "一般": 306
+   "一般": 308
   },
   "per_section": [
    {
     "no": 1,
     "title": "不要早死",
-    "entries": 49,
+    "entries": 50,
     "A": 32,
-    "B": 13,
+    "B": 14,
     "C": 4,
     "极高": 6,
     "高": 25,
-    "一般": 18
+    "一般": 19
    },
    {
     "no": 2,
@@ -315,13 +315,13 @@
    {
     "no": 27,
     "title": "怀孕和生产：从发现怀孕到出院办证",
-    "entries": 20,
+    "entries": 21,
     "A": 16,
-    "B": 4,
+    "B": 5,
     "C": 0,
     "极高": 3,
     "高": 7,
-    "一般": 10
+    "一般": 11
    },
    {
     "no": 28,
