@@ -2,8 +2,8 @@
  "meta": {
   "source": "高性价比人生指南",
   "source_repo": "https://github.com/eternity4719/HowToLiveBetter",
-  "upstream_commit": "6f1dd6ba49627b40697a788608923ac4d2260456",
-  "synced_at": "2026-11-27T04:13:39Z",
+  "upstream_commit": "2e130ee6f9ff4d60bba9d55f78d7b7acfe57f467",
+  "synced_at": "2026-11-28T03:53:36Z",
   "license": "CC BY 4.0（正文）",
   "generated_by": "build.py"
  },
@@ -18,7 +18,7 @@
   "disputed": 90,
   "evidence_flagged": 5,
   "todo": 0,
-  "links": 2599,
+  "links": 2601,
   "refs": 576,
   "ratio": {
    "极高": 123,
